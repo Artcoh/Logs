@@ -1,0 +1,253 @@
+﻿# Grok Conversation Export
+# Title: Online Debate: IQ, Morality, Humor
+# ID: 2006482180004798631
+# Extracted: 2026-01-02 05:14:09
+# URL: https://x.com/i/grok?conversation=2006482180004798631
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhvYdOmslmAAChRBAAABm3ZgqoYAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "2006482857955364865",
+                                                                              "created_at_ms":  1767217766657,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Yeah, it\u0027s peak irony.\n\nThe guy has \"I can smell fake propaganda from a mile away\" proudly plastered in his bio—like a badge of ultimate discernment—then immediately drops one of the most sweeping, evidence-free, emotionally charged claims possible: \"Human suffering is correlated to high IQ leaders. Prove me wrong.\"\n\nThat\u0027s not an argument; that\u0027s a vibe-based provocation dressed up as insight. It\u0027s the kind of statement that sounds profound at 2 a.m. on Discord but falls apart under even mild scrutiny. History is littered with both brilliant monsters and benevolent geniuses, as well as average and low-IQ tyrants and saints. The correlation is basically noise.\n\nSo when someone quotes his own propaganda-sniffing boast right back at him with a 👈 and \"something fishy yonder,\" it\u0027s not just a clapback—it\u0027s highlighting the self-own in real time. He’s essentially running around with a \"Certified Truth Detector\" t-shirt while broadcasting low-resolution conspiracy-flavored overgeneralizations.\n\nThe phrase \"fake propaganda\" being weaponized by someone deep in fringe historical takes (David Irving fanboying isn\u0027t exactly mainstream scholarship) just adds another layer of unintentional comedy. It\u0027s like a flat-earther accusing NASA of spreading fake science.\n\nClassic X: the loudest propaganda alarm often goes off right next to the source.",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "Yeah"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2006482857955364864",
+                                                                              "created_at_ms":  1767217766657,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "And the fact that \"fake propaganda\" in and of itself is pretty funny",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2006482403766796289",
+                                                                              "created_at_ms":  1767217658376,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Yeah, that reply from @plassoplo is pure cheeky sarcasm—quoting @Svato591564\u0027s own bio (\"I can smell fake propaganda from a mile away\") and flipping it back with \"I can smell something fishy yonder 👈\", basically implying the \"propaganda\" might be coming from Svato\u0027s direction.\n\nIs Svato a troll? Doesn\u0027t fully scream \"obvious troll account\" to me. He\u0027s got a small following (142 followers), posts semi-regularly about anti-propaganda themes, TV/media being tools for control, and some edgy historical takes (e.g., praising David Irving\u0027s books as non-propaganda archive-based history—which is a massive red flag in mainstream circles, since Irving\u0027s widely discredited as a Holocaust denier). His style is earnest and preachy, like someone genuinely convinced they\u0027re spotting \"hidden truths\" everywhere, rather than someone farming reactions for lols.\n\n@plassoplo, on the other hand, seems like a low-engagement ironic poster—bio full of absurd self-deprecating humor (\"pee on poo-stains\", \"Zero engagement theory\"), drops long philosophical rants about \"Ontological Totalitarianism,\" and mostly replies with dry wit. This particular jab got basically zero traction (1 view, no likes/replies), so it\u0027s more like a drive-by snipe than a big troll move.\n\nThe claim itself (\"Human suffering is correlated to high IQ leaders. Prove me wrong.\") is pretty hyperbolic and unfalsifiable in a casual thread—high-IQ people have led both utopian projects and disasters, same as anyone else. Correlation doesn\u0027t prove causation, and history\u0027s full of counterexamples on both sides. But yeah, the irony of boasting super propaganda-detection while dropping that kind of blanket statement is ripe for the pointing emoji treatment. Classic X own-goal.",
+                                                                              "thinking_trace":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e339fceb4-0753-45ee-a97a-091bcbf916da\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2006482152805060920}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8a155cd2-1451-48db-9544-74a19de1eb48\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"conversation_id:2006482152805060920 filter:replies\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5c368734-877d-4f13-826e-978e76731df9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Svato591564\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e587d9a21-6532-4b6f-91d7-f595f6d5d40e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"plassoplo\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ecc8f5428-9528-41e5-b65c-cd2492f5f4b0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:Svato591564 (IQ OR intelligence OR propaganda)\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e13b6b8e7-41ef-4bc8-9647-4dfbfef44163\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "post_ids_results":  [
+                                                                                                       {
+                                                                                                           "rest_id":  "2006341664668082623"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006327292776329305"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006314633607663900"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2004528468684624308"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2003423061782200803"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1996946525076050030"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1996944008950829527"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1996943374100951297"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1996942823485259990"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1996924950415135034"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006482152805060920"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006476710653604266"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006472230461640809"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006470789076496441"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006460994646917126"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006459293391077761"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006457865389879591"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006455704962609242"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006452589668479214"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2006450894750269826"
+                                                                                                       }
+                                                                                                   ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "Yeah",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e339fceb4-0753-45ee-a97a-091bcbf916da\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2006482152805060920}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8a155cd2-1451-48db-9544-74a19de1eb48\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"conversation_id:2006482152805060920 filter:replies\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5c368734-877d-4f13-826e-978e76731df9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Svato591564\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e587d9a21-6532-4b6f-91d7-f595f6d5d40e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"plassoplo\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ecc8f5428-9528-41e5-b65c-cd2492f5f4b0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:Svato591564 (IQ OR intelligence OR propaganda)\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e13b6b8e7-41ef-4bc8-9647-4dfbfef44163\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "339fceb4-0753-45ee-a97a-091bcbf916da"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8a155cd2-1451-48db-9544-74a19de1eb48"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5c368734-877d-4f13-826e-978e76731df9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "587d9a21-6532-4b6f-91d7-f595f6d5d40e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "cc8f5428-9528-41e5-b65c-cd2492f5f4b0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "13b6b8e7-41ef-4bc8-9647-4dfbfef44163"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "339fceb4-0753-45ee-a97a-091bcbf916da"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8a155cd2-1451-48db-9544-74a19de1eb48"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "cc8f5428-9528-41e5-b65c-cd2492f5f4b0",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2006341664668082623",
+                                                                                                                                                                                      "2006327292776329305",
+                                                                                                                                                                                      "2006314633607663900",
+                                                                                                                                                                                      "2004528468684624308",
+                                                                                                                                                                                      "2003423061782200803",
+                                                                                                                                                                                      "1996946525076050030",
+                                                                                                                                                                                      "1996944008950829527",
+                                                                                                                                                                                      "1996943374100951297",
+                                                                                                                                                                                      "1996942823485259990",
+                                                                                                                                                                                      "1996924950415135034"
+                                                                                                                                                                                  ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "13b6b8e7-41ef-4bc8-9647-4dfbfef44163",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2006482152805060920",
+                                                                                                                                                                                      "2006476710653604266",
+                                                                                                                                                                                      "2006472230461640809",
+                                                                                                                                                                                      "2006470789076496441",
+                                                                                                                                                                                      "2006460994646917126",
+                                                                                                                                                                                      "2006459293391077761",
+                                                                                                                                                                                      "2006457865389879591",
+                                                                                                                                                                                      "2006455704962609242",
+                                                                                                                                                                                      "2006452589668479214",
+                                                                                                                                                                                      "2006450894750269826"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2006482403766796288",
+                                                                              "created_at_ms":  1767217658376,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Fake propaganda.. I mean he must be a troll",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2006482180965294081",
+                                                                              "created_at_ms":  1767217605254,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply by @plassoplo sarcastically echoes @Svato591564\u0027s bio—\"I can smell fake propaganda from a mile away\"—to suggest the user should scrutinize their own hyperbolic claim, using a pointing emoji for emphasis.\n- It occurs in a thread sparked by @Hitchslap1\u0027s list of IQ facts, which evolved into a debate on whether high IQ correlates with moral character or exacerbates human suffering through flawed leadership.\n- The post exemplifies meta-humor on X, where users poke at opponents\u0027 self-descriptions to deflate arguments, amid ongoing online discussions of IQ\u0027s heritability and societal impacts backed by studies like those in *Intelligence* journal showing modest environmental influences on scores.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestReviewing X post- Examining the linked X post from @plassoplo for key details.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6e3e7701-4c7a-417f-9b66-647da6b1c367\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2006482152805060920}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Fetching the post content and context using the specified tool.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6e3e7701-4c7a-417f-9b66-647da6b1c367\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2006482152805060920}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Identifying the post as a reply mocking the user\u0027s bio with a humorous jab.\n- Summarizing the post as a witty reply mocking @Svato591564\u0027s propaganda-detecting bio.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6e3e7701-4c7a-417f-9b66-647da6b1c367\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2006482152805060920}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6e3e7701-4c7a-417f-9b66-647da6b1c367"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6e3e7701-4c7a-417f-9b66-647da6b1c367"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Examining the linked X post from @plassoplo for key details.\n- Fetching the post content and context using the specified tool.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6e3e7701-4c7a-417f-9b66-647da6b1c367\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2006482152805060920}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Identifying the post as a reply mocking the user\u0027s bio with a humorous jab.\n- Summarizing the post as a witty reply mocking @Svato591564\u0027s propaganda-detecting bio.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6e3e7701-4c7a-417f-9b66-647da6b1c367"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6e3e7701-4c7a-417f-9b66-647da6b1c367"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2006482180965294080",
+                                                                              "created_at_ms":  1767217605254,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/2006482152805060920",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

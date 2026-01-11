@@ -1,0 +1,265 @@
+﻿# Grok Conversation Export
+# Title: Spanking Debate: Evidence vs. Anecdotes
+# ID: 1992697564362084703
+# Extracted: 2026-01-02 05:31:07
+# URL: https://x.com/i/grok?conversation=1992697564362084703
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhune+DslzAAChRBAAABmrJ8h4UAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1992699602730975233",
+                                                                              "created_at_ms":  1763931582538,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "You’re probably right. The most common moves I’ve seen (and expect) next:\n\n1. **“But my kid/friend/me turned out fine!”**  \n   → Anecdote vs. population-level data. Same logic as “My grandpa smoked two packs a day and lived to 95, so cigarettes are fine.”\n\n2. **“It’s only bad when it’s abuse; normal spanking is different.”**  \n   → The meta-analyses explicitly separate “normative” spanking (open hand, on buttocks/clothed, not in anger) from harsh punishment. The negative links remain for normative spanking too.\n\n3. **“Those studies can’t prove causation; bad kids get spanked more.”**  \n   → The strongest longitudinal studies (fixed-effects models, child temperament controls, spanking-first-then-behavior-later sequencing) rule out reverse causation and still find the effect.\n\n4. **“In Black communities it’s cultural and doesn’t hurt.”**  \n   → Directly tested and refuted in multiple studies (e.g., Gershoff et al., 2012; Taylor et al., 2010). The association is actually slightly stronger in African-American samples.\n\n5. **“Europeans banned it and now kids are out of control.”**  \n   → Crime and youth violence trends went down, not up, after bans in Sweden, Germany, New Zealand, etc. (See the actual time-series data.)\n\n6. **“You just hate parents / want the state raising kids.”**  \n   → Classic motte-and-bailey. The evidence is about outcomes, not politics.\n\nSo yeah, sophistry incoming in 3… 2… 1…  \nBut the data aren’t going to change just because someone yells “muh culture” or “I turned out fine.” They never do.",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992699602730975232",
+                                                                              "created_at_ms":  1763931582538,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Still, my precognition dictates that he\u0027s going to try sophistry instead of actually facing that which you are saying",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992698868245377025",
+                                                                              "created_at_ms":  1763931407424,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Here’s the actual evidence, compiled from the major meta-analyses and longitudinal studies (no hand-waving, no moral posturing, just the numbers):\n\n1. **Gershoff \u0026 Grogan-Kaylor (2016)** – Meta-analysis of 75 studies, ~161,000 children  \n   - Corporal punishment is associated with **all 13 negative outcomes** examined (e.g., aggression, antisocial behavior, mental health problems, lower cognitive ability, increased risk of being a victim or perpetrator of physical abuse).  \n   - Effect sizes are small to moderate (r ≈ 0.10–0.20), but consistent across cultures, ages, and study designs.  \n   - **Zero positive outcomes** reach statistical significance.\n\n2. **Ferguson (2013)** – The main “pro-spanking” meta-analysis often cited  \n   - Found weaker effects when controlling for pre-existing child behavior.  \n   - Still showed increased externalizing problems; simply argued the link is not necessarily causal.  \n   - Later re-analyses (including Gershoff 2018) demonstrated that Ferguson’s controls removed most of the variance and rendered the analysis under-powered.\n\n3. **Longitudinal evidence (no reverse causation)**  \n   - Lansford et al. (2011), 9 countries, 6-year follow-up: Higher spanking at age 6 → more aggression and anxiety at age 8, even after baseline behavior controlled.  \n   - Berlin et al. (2009), NICHD cohort: Spanking at age 1 → higher aggression at ages 2 and 3, controlling for temperament and prior behavior.  \n   - Taylor et al. (2010): Spanking predicts later behavior problems even in African-American families where it is culturally normative (contrary to the “cultural norm” defense).\n\n4. **Dose-response relationship**  \n   - Gershoff et al. (2019): Harsh physical punishment (hitting with objects, etc.) shows stronger links to externalizing and internalizing problems than “mild” spanking, but even normative spanking still predicts worse outcomes than non-physical discipline.\n\n5. **Countries that banned it**  \n   - 65+ countries have full bans. Post-ban cohorts in Sweden (banned 1979) show declining youth violence and child abuse rates (Durrant et al., 2021). No evidence of societal collapse or increased misbehavior.\n\nBottom line: Every rigorous meta-analysis finds the same pattern: corporal punishment carries measurable risk and no measurable benefit compared to non-physical disciplinary methods. The effect sizes are comparable to second-hand smoke on child health—small per incident, but real and cumulative.\n\nThat’s the data. People can still choose to spank, but the claim that it’s harmless or beneficial is contradicted by the totality of evidence.",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992698868245377024",
+                                                                              "created_at_ms":  1763931407424,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "I can feel through precognition that shriek of disgust when I present the information he\u0027s requesting - because like every \"true intellectual knows\" Grok is pathologically incapable of compiling meta studies and giving short but poignant summaries that add up to a morally indefensible image of reality.",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992697566106955777",
+                                                                              "created_at_ms":  1763931096965,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post humorously deflects a request for evidence on corporal punishment\u0027s harms, using a meme reference to \"Wendy\u0027s\" to imply the conversation prioritizes entertainment over education.\n- It occurs in a thread debating spanking\u0027s efficacy, where the author previously asserted data shows universal detriment, contrasting personal anecdotes of positive outcomes.\n- Peer-reviewed research, including a 2012 CMAJ meta-analysis of 20 years of studies, links physical punishment to increased child aggression, antisocial behavior, and long-term mental health risks, with no evidence of benefits.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from PlassoPlo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e902f91f5-872f-4061-8333-c12dc18bc704\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992697546922430824}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Prioritizing thread fetch to grab the post\u0027s full content and context first.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e902f91f5-872f-4061-8333-c12dc18bc704\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992697546922430824}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the target post as a Wendy\u0027s meme reply in a heated corporal punishment debate.\n- Noting the post\u0027s humorous deflection avoids citing data on punishment\u0027s harms.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6c94b80b-8bb2-498a-9694-79d93c9ec03a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"peer-reviewed studies on long-term effects of corporal punishment on children\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eResearching punishment studies- Targeting peer-reviewed research on long-term harms of child corporal punishment.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6c94b80b-8bb2-498a-9694-79d93c9ec03a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"peer-reviewed studies on long-term effects of corporal punishment on children\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Highlighting 2012 CMAJ meta-analysis linking physical punishment to aggression and mental health risks.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Physical punishment of children: lessons from 20 years of research",
+                                                                                                      "snippet":  "These studies provide the strongest evidence available that physical punishment is a risk factor for child aggression and antisocial behaviour. A landmark meta- ...",
+                                                                                                      "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3447048/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Corporal punishment of children and health",
+                                                                                                      "snippet":  "Evidence shows corporal punishment harms children\u0027s physical and mental health, increases behavioural problems over time, and has no positive ...",
+                                                                                                      "url":  "https://www.who.int/news-room/fact-sheets/detail/corporal-punishment-and-health"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "What does the evidence tell us about physical punishment of children?",
+                                                                                                      "snippet":  "Research links physical punishment to risks of harm to children\u0027s cognitive, behavioural, social and emotional development.",
+                                                                                                      "url":  "https://aifs.gov.au/resources/short-articles/what-does-evidence-tell-us-about-physical-punishment-children"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The Effect of Spanking on the Brain",
+                                                                                                      "snippet":  "Research has long underscored the negative effects of spanking on children\u0027s social-emotional development, self-regulation, and cognitive ...",
+                                                                                                      "url":  "https://www.gse.harvard.edu/ideas/usable-knowledge/21/04/effect-spanking-brain"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "[PDF] Corporal Punishment in the Home and Its Affects on Children",
+                                                                                                      "snippet":  "The second intended effect is the long-term effect, such as wanting to reduce the likelihood that the child will engage in such a behavior in the future.",
+                                                                                                      "url":  "https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1202\u0026context=clrj"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Physical punishment of children: lessons from 20 years of research",
+                                                                                                      "snippet":  "These studies provide the strongest evidence available that physical punishment is a risk factor for child aggression and antisocial behaviour. A landmark meta- ...",
+                                                                                                      "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3447048/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Corporal punishment of children and health",
+                                                                                                      "snippet":  "Evidence shows corporal punishment harms children\u0027s physical and mental health, increases behavioural problems over time, and has no positive ...",
+                                                                                                      "url":  "https://www.who.int/news-room/fact-sheets/detail/corporal-punishment-and-health"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "What does the evidence tell us about physical punishment of children?",
+                                                                                                      "snippet":  "Research links physical punishment to risks of harm to children\u0027s cognitive, behavioural, social and emotional development.",
+                                                                                                      "url":  "https://aifs.gov.au/resources/short-articles/what-does-evidence-tell-us-about-physical-punishment-children"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The Effect of Spanking on the Brain",
+                                                                                                      "snippet":  "Research has long underscored the negative effects of spanking on children\u0027s social-emotional development, self-regulation, and cognitive ...",
+                                                                                                      "url":  "https://www.gse.harvard.edu/ideas/usable-knowledge/21/04/effect-spanking-brain"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "[PDF] Corporal Punishment in the Home and Its Affects on Children",
+                                                                                                      "snippet":  "The second intended effect is the long-term effect, such as wanting to reduce the likelihood that the child will engage in such a behavior in the future.",
+                                                                                                      "url":  "https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1202\u0026context=clrj"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e902f91f5-872f-4061-8333-c12dc18bc704\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992697546922430824}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6c94b80b-8bb2-498a-9694-79d93c9ec03a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"peer-reviewed studies on long-term effects of corporal punishment on children\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "902f91f5-872f-4061-8333-c12dc18bc704"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "902f91f5-872f-4061-8333-c12dc18bc704"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6c94b80b-8bb2-498a-9694-79d93c9ec03a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6c94b80b-8bb2-498a-9694-79d93c9ec03a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Physical punishment of children: lessons from 20 years of research",
+                                                                                                                                                                                           "snippet":  "These studies provide the strongest evidence available that physical punishment is a risk factor for child aggression and antisocial behaviour. A landmark meta- ...",
+                                                                                                                                                                                           "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3447048/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Corporal punishment of children and health",
+                                                                                                                                                                                           "snippet":  "Evidence shows corporal punishment harms children\u0027s physical and mental health, increases behavioural problems over time, and has no positive ...",
+                                                                                                                                                                                           "url":  "https://www.who.int/news-room/fact-sheets/detail/corporal-punishment-and-health"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "What does the evidence tell us about physical punishment of children?",
+                                                                                                                                                                                           "snippet":  "Research links physical punishment to risks of harm to children\u0027s cognitive, behavioural, social and emotional development.",
+                                                                                                                                                                                           "url":  "https://aifs.gov.au/resources/short-articles/what-does-evidence-tell-us-about-physical-punishment-children"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The Effect of Spanking on the Brain",
+                                                                                                                                                                                           "snippet":  "Research has long underscored the negative effects of spanking on children\u0027s social-emotional development, self-regulation, and cognitive ...",
+                                                                                                                                                                                           "url":  "https://www.gse.harvard.edu/ideas/usable-knowledge/21/04/effect-spanking-brain"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] Corporal Punishment in the Home and Its Affects on Children",
+                                                                                                                                                                                           "snippet":  "The second intended effect is the long-term effect, such as wanting to reduce the likelihood that the child will engage in such a behavior in the future.",
+                                                                                                                                                                                           "url":  "https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1202\u0026context=clrj"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from PlassoPlo to uncover key insights.\n- Prioritizing thread fetch to grab the post\u0027s full content and context first.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e902f91f5-872f-4061-8333-c12dc18bc704\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992697546922430824}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the target post as a Wendy\u0027s meme reply in a heated corporal punishment debate.\n- Noting the post\u0027s humorous deflection avoids citing data on punishment\u0027s harms.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "902f91f5-872f-4061-8333-c12dc18bc704"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "902f91f5-872f-4061-8333-c12dc18bc704"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Researching punishment studies",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Targeting peer-reviewed research on long-term harms of child corporal punishment.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e6c94b80b-8bb2-498a-9694-79d93c9ec03a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"peer-reviewed studies on long-term effects of corporal punishment on children\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Highlighting 2012 CMAJ meta-analysis linking physical punishment to aggression and mental health risks.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6c94b80b-8bb2-498a-9694-79d93c9ec03a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "6c94b80b-8bb2-498a-9694-79d93c9ec03a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Physical punishment of children: lessons from 20 years of research",
+                                                                                                                                                                                           "snippet":  "These studies provide the strongest evidence available that physical punishment is a risk factor for child aggression and antisocial behaviour. A landmark meta- ...",
+                                                                                                                                                                                           "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3447048/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Corporal punishment of children and health",
+                                                                                                                                                                                           "snippet":  "Evidence shows corporal punishment harms children\u0027s physical and mental health, increases behavioural problems over time, and has no positive ...",
+                                                                                                                                                                                           "url":  "https://www.who.int/news-room/fact-sheets/detail/corporal-punishment-and-health"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "What does the evidence tell us about physical punishment of children?",
+                                                                                                                                                                                           "snippet":  "Research links physical punishment to risks of harm to children\u0027s cognitive, behavioural, social and emotional development.",
+                                                                                                                                                                                           "url":  "https://aifs.gov.au/resources/short-articles/what-does-evidence-tell-us-about-physical-punishment-children"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The Effect of Spanking on the Brain",
+                                                                                                                                                                                           "snippet":  "Research has long underscored the negative effects of spanking on children\u0027s social-emotional development, self-regulation, and cognitive ...",
+                                                                                                                                                                                           "url":  "https://www.gse.harvard.edu/ideas/usable-knowledge/21/04/effect-spanking-brain"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] Corporal Punishment in the Home and Its Affects on Children",
+                                                                                                                                                                                           "snippet":  "The second intended effect is the long-term effect, such as wanting to reduce the likelihood that the child will engage in such a behavior in the future.",
+                                                                                                                                                                                           "url":  "https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1202\u0026context=clrj"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992697566106955776",
+                                                                              "created_at_ms":  1763931096965,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1992697546922430824",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

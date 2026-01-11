@@ -1,0 +1,41 @@
+﻿# Grok Conversation Export
+# Title: Fragging: Military Intra-Group Violence
+# ID: 1890951428522316240
+# Extracted: 2026-01-02 05:50:10
+# URL: https://x.com/i/grok?conversation=1890951428522316240
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBho+Ak6KVxAAChRBAAABlQyWTgsAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1890951429893853185",
+                                                                              "created_at_ms":  1739672931851,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Fragging refers to the act of soldiers attacking or killing their own officers or non-commissioned officers, typically with a fragmentation grenade, hence the term \"fragging.\" This phenomenon was particularly noted during the Vietnam War, where tensions, dissent, and discontent among troops sometimes led to such drastic actions. Fragging could occur for various reasons, including:\n\n- **Disagreement with leadership decisions or tactics.**\n- **Personal grievances against the officer.**\n- **Fear or unwillingness to engage in perceived dangerous or unnecessary missions.**\n\nThe term has since been extended metaphorically to describe any act of intra-group violence or sabotage, especially when directed towards leadership or authority figures within a group. However, its origins and most common historical context are rooted in military settings, particularly the Vietnam era.",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+
+                                                                                                     ]
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1890951429893853184",
+                                                                              "created_at_ms":  1739672931851,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "what is fragging?",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

@@ -1,0 +1,290 @@
+﻿# Grok Conversation Export
+# Title: Right-Wing Debate Exposes Ideological Tensions
+# ID: 1992661353082102010
+# Extracted: 2026-01-02 05:31:15
+# URL: https://x.com/i/grok?conversation=1992661353082102010
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhunWvICljAAChRBAAABmrH4y+IAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1992662255477882881",
+                                                                              "created_at_ms":  1763922678261,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "You’re right. When the “realist” is constantly the one pointing out that the coalition is cracking, that yesterday’s allies are tomorrow’s purge targets, and that the rules only apply one way, it stops feeling like insight and starts feeling like a broken record stuck on the same grim track.\n\nMost people want to believe the movement is bigger than the latest knife fight, that shared enemies will keep everyone in the tent. So when someone keeps saying “actually, they’re measuring the canvas for your removal next,” the reflex is exhaustion, not gratitude. It’s human to sigh and wish the realist would shut up, even when the realist has been right every single time for the last five years.\n\nThat fatigue is the tax you pay for watching a big-tent strategy curdle into a circular firing squad in real time. The blackpill tastes worse when you’re force-fed it three times before lunch.",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992662255477882880",
+                                                                              "created_at_ms":  1763922678261,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "It\u0027s a rather sad observation to make in isolation, and when it happens multiple times a day it becomes awfully tiring. The realist should be met with sighs of relief as a rule of thumb...",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992661355606716417",
+                                                                              "created_at_ms":  1763922463714,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The target post by @plassoplo praises @HalfWolfMukirr\u0027s reply speculating that Tim Pool\u0027s heated debate with Joel Berry reflects a newfound awareness of internal right-wing purges, referencing recent criticisms of Charlie Kirk as a warning sign for figures like Pool.\n- In the debate clip, Pool accuses Berry of hypocrisy for condemning far-right activist Nick Fuentes while allying with podcaster Dave Rubin, whose use of surrogacy some conservatives view as morally equivalent to \"buying children,\" exposing fault lines in \"no enemies to the right\" rhetoric.\n- @plassoplo contrasts this \"enlightening\" take with @HalfWolfMukirr\u0027s typical \"blackpill\" pessimism, signaling rare optimism amid escalating 2025 tensions in online conservative circles over ideological purity and alliances.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- You\u0027re sharing a specific X post from user plassoplo.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf077772-c827-439a-8c9c-1a1a9a3cae16\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992661225977630789}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Fetching the post content to understand its details.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf077772-c827-439a-8c9c-1a1a9a3cae16\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992661225977630789}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Uncovering the post\u0027s reply nature and its heartfelt reaction to a speculation about Tim Pool\u0027s shift.\n- Noting the thread\u0027s focus on Tim Pool criticizing Joel Berry\u0027s hypocrisy in right-wing media tensions.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e49b19f88-1421-42d7-8962-81b5f4cecdea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1992287169268858880/vid/avc1/480x270/_EdI1NNx03M8Cdqq.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb15abb00-60b2-43f1-b54c-8a94ba9b77cb\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool calls out Joel Berry double standards November 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Diving into the video clip to grasp Tim Pool\u0027s exact critique of Joel Berry.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e49b19f88-1421-42d7-8962-81b5f4cecdea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1992287169268858880/vid/avc1/480x270/_EdI1NNx03M8Cdqq.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb15abb00-60b2-43f1-b54c-8a94ba9b77cb\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool calls out Joel Berry double standards November 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0e3fb74a-d5f9-4f89-9d4a-36be9c325081\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool Joel Berry since:2025-11-22\",\"limit\":5,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0e3fb74a-d5f9-4f89-9d4a-36be9c325081\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool Joel Berry since:2025-11-22\",\"limit\":5,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nUnpacking debate context- Highlighting Tim\u0027s debate with Joel on allying with Nick Fuentes versus Dave Rubin amid double standards.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "post_ids_results":  [
+                                                                                                       {
+                                                                                                           "rest_id":  "1992654801163919463"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992641389889540502"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992617158942339249"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992612410914652440"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992654801163919463"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992641389889540502"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992617158942339249"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992612410914652440"
+                                                                                                       }
+                                                                                                   ],
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes",
+                                                                                                      "snippet":  "... Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes. ... TWU Local 513 Podcast October 2025. TWU Local 513•2.6K views · 36:28 · Go ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=CXH4DAbfnAg"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Tim Pool EXPLODES On Guest, ANNIHILATES Joel Berry LIVE!",
+                                                                                                      "snippet":  "Tim Pool explodes on Joel Berry for having hypocritical morality. Joel Berry was not expecting the response from Tim Pool, ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=E2qYvDPmT0E"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                      "snippet":  "A (@AThinksAloud). 235 likes 5 replies. Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                      "url":  "https://x.com/AThinksAloud/status/1992006130978201792"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\"Joel Eng\" - Results on X | Live Posts \u0026 Updates - Twitter",
+                                                                                                      "snippet":  "The problem with people like Joel is they love DEI and double standards for their pet group which happens to be Jewish people. He will also extend ...",
+                                                                                                      "url":  "https://x.com/search?q=Joel%252BEng"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "[PDF] GAMECHANGER OR FAD? - Mercer University School of Law",
+                                                                                                      "snippet":  "prestigious Joe and Jean Hendricks Excellence in Teaching Award in consecutive years, Daisy in 2024 and Tim in 2025. Generations of Mercer ...",
+                                                                                                      "url":  "https://law.mercer.edu/wp-content/uploads/sites/79/2025/11/MercerLawyer25_FNL.pdf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes",
+                                                                                                      "snippet":  "... Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes. ... TWU Local 513 Podcast October 2025. TWU Local 513•2.6K views · 36:28 · Go ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=CXH4DAbfnAg"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Tim Pool EXPLODES On Guest, ANNIHILATES Joel Berry LIVE!",
+                                                                                                      "snippet":  "Tim Pool explodes on Joel Berry for having hypocritical morality. Joel Berry was not expecting the response from Tim Pool, ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=E2qYvDPmT0E"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                      "snippet":  "A (@AThinksAloud). 235 likes 5 replies. Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                      "url":  "https://x.com/AThinksAloud/status/1992006130978201792"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\"Joel Eng\" - Results on X | Live Posts \u0026 Updates - Twitter",
+                                                                                                      "snippet":  "The problem with people like Joel is they love DEI and double standards for their pet group which happens to be Jewish people. He will also extend ...",
+                                                                                                      "url":  "https://x.com/search?q=Joel%252BEng"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "[PDF] GAMECHANGER OR FAD? - Mercer University School of Law",
+                                                                                                      "snippet":  "prestigious Joe and Jean Hendricks Excellence in Teaching Award in consecutive years, Daisy in 2024 and Tim in 2025. Generations of Mercer ...",
+                                                                                                      "url":  "https://law.mercer.edu/wp-content/uploads/sites/79/2025/11/MercerLawyer25_FNL.pdf"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf077772-c827-439a-8c9c-1a1a9a3cae16\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992661225977630789}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e49b19f88-1421-42d7-8962-81b5f4cecdea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1992287169268858880/vid/avc1/480x270/_EdI1NNx03M8Cdqq.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb15abb00-60b2-43f1-b54c-8a94ba9b77cb\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool calls out Joel Berry double standards November 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0e3fb74a-d5f9-4f89-9d4a-36be9c325081\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool Joel Berry since:2025-11-22\",\"limit\":5,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df077772-c827-439a-8c9c-1a1a9a3cae16"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df077772-c827-439a-8c9c-1a1a9a3cae16"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "49b19f88-1421-42d7-8962-81b5f4cecdea"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b15abb00-60b2-43f1-b54c-8a94ba9b77cb"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0e3fb74a-d5f9-4f89-9d4a-36be9c325081"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b15abb00-60b2-43f1-b54c-8a94ba9b77cb",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes",
+                                                                                                                                                                                           "snippet":  "... Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes. ... TWU Local 513 Podcast October 2025. TWU Local 513•2.6K views · 36:28 · Go ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=CXH4DAbfnAg"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tim Pool EXPLODES On Guest, ANNIHILATES Joel Berry LIVE!",
+                                                                                                                                                                                           "snippet":  "Tim Pool explodes on Joel Berry for having hypocritical morality. Joel Berry was not expecting the response from Tim Pool, ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=E2qYvDPmT0E"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                                                                                                           "snippet":  "A (@AThinksAloud). 235 likes 5 replies. Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                                                                                                           "url":  "https://x.com/AThinksAloud/status/1992006130978201792"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\"Joel Eng\" - Results on X | Live Posts \u0026 Updates - Twitter",
+                                                                                                                                                                                           "snippet":  "The problem with people like Joel is they love DEI and double standards for their pet group which happens to be Jewish people. He will also extend ...",
+                                                                                                                                                                                           "url":  "https://x.com/search?q=Joel%252BEng"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] GAMECHANGER OR FAD? - Mercer University School of Law",
+                                                                                                                                                                                           "snippet":  "prestigious Joe and Jean Hendricks Excellence in Teaching Award in consecutive years, Daisy in 2024 and Tim in 2025. Generations of Mercer ...",
+                                                                                                                                                                                           "url":  "https://law.mercer.edu/wp-content/uploads/sites/79/2025/11/MercerLawyer25_FNL.pdf"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0e3fb74a-d5f9-4f89-9d4a-36be9c325081",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1992654801163919463",
+                                                                                                                                                                                      "1992641389889540502",
+                                                                                                                                                                                      "1992617158942339249",
+                                                                                                                                                                                      "1992612410914652440"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- You\u0027re sharing a specific X post from user plassoplo.\n- Fetching the post content to understand its details.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf077772-c827-439a-8c9c-1a1a9a3cae16\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992661225977630789}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Uncovering the post\u0027s reply nature and its heartfelt reaction to a speculation about Tim Pool\u0027s shift.\n- Noting the thread\u0027s focus on Tim Pool criticizing Joel Berry\u0027s hypocrisy in right-wing media tensions.\n- Diving into the video clip to grasp Tim Pool\u0027s exact critique of Joel Berry.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e49b19f88-1421-42d7-8962-81b5f4cecdea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1992287169268858880/vid/avc1/480x270/_EdI1NNx03M8Cdqq.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb15abb00-60b2-43f1-b54c-8a94ba9b77cb\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool calls out Joel Berry double standards November 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0e3fb74a-d5f9-4f89-9d4a-36be9c325081\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tim Pool Joel Berry since:2025-11-22\",\"limit\":5,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df077772-c827-439a-8c9c-1a1a9a3cae16"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df077772-c827-439a-8c9c-1a1a9a3cae16"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "49b19f88-1421-42d7-8962-81b5f4cecdea"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b15abb00-60b2-43f1-b54c-8a94ba9b77cb"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0e3fb74a-d5f9-4f89-9d4a-36be9c325081"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b15abb00-60b2-43f1-b54c-8a94ba9b77cb",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes",
+                                                                                                                                                                                           "snippet":  "... Tim Pool DEBATES Joel Berry On Christian Nationalism, Nick Fuentes. ... TWU Local 513 Podcast October 2025. TWU Local 513•2.6K views · 36:28 · Go ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=CXH4DAbfnAg"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tim Pool EXPLODES On Guest, ANNIHILATES Joel Berry LIVE!",
+                                                                                                                                                                                           "snippet":  "Tim Pool explodes on Joel Berry for having hypocritical morality. Joel Berry was not expecting the response from Tim Pool, ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=E2qYvDPmT0E"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                                                                                                           "snippet":  "A (@AThinksAloud). 235 likes 5 replies. Joel Berry: “Humans should be free.” Tim Pool: “Nah.”",
+                                                                                                                                                                                           "url":  "https://x.com/AThinksAloud/status/1992006130978201792"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\"Joel Eng\" - Results on X | Live Posts \u0026 Updates - Twitter",
+                                                                                                                                                                                           "snippet":  "The problem with people like Joel is they love DEI and double standards for their pet group which happens to be Jewish people. He will also extend ...",
+                                                                                                                                                                                           "url":  "https://x.com/search?q=Joel%252BEng"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] GAMECHANGER OR FAD? - Mercer University School of Law",
+                                                                                                                                                                                           "snippet":  "prestigious Joe and Jean Hendricks Excellence in Teaching Award in consecutive years, Daisy in 2024 and Tim in 2025. Generations of Mercer ...",
+                                                                                                                                                                                           "url":  "https://law.mercer.edu/wp-content/uploads/sites/79/2025/11/MercerLawyer25_FNL.pdf"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0e3fb74a-d5f9-4f89-9d4a-36be9c325081",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1992654801163919463",
+                                                                                                                                                                                      "1992641389889540502",
+                                                                                                                                                                                      "1992617158942339249",
+                                                                                                                                                                                      "1992612410914652440"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Unpacking debate context",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Highlighting Tim\u0027s debate with Joel on allying with Nick Fuentes versus Dave Rubin amid double standards.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992661355606716416",
+                                                                              "created_at_ms":  1763922463714,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1992661225977630789",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

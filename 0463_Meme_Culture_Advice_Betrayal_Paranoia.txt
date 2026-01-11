@@ -1,0 +1,88 @@
+﻿# Grok Conversation Export
+# Title: Meme Culture: Advice, Betrayal, Paranoia
+# ID: 1993266085441749304
+# Extracted: 2026-01-02 05:29:26
+# URL: https://x.com/i/grok?conversation=1993266085441749304
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhupgPHgFnAAChRBAAABmrqQy1UAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1993266086423195649",
+                                                                              "created_at_ms":  1764066642773,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post replies to a thread where users share three-word advice for their 18-year-old selves, with the parent post warning \"Your girlfriend cheating\" about relationship betrayal.\n- Accompanied by a \"frens\" meme featuring Pepe the Frog in an interrogation, it humorously questions the loyalty of friends amid themes of distrust and paranoia.\n- Reflects viral internet meme culture on X, blending self-reflection prompts with exaggerated emotional responses to personal setbacks like infidelity.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from plassoplo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef5e54ec3-4756-4971-9c90-9edc681ad3ff\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1993265915589169581}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Noting the post\u0027s future timestamp relative to my training data.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef5e54ec3-4756-4971-9c90-9edc681ad3ff\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1993265915589169581}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e321a484e-08fc-4e0d-adcd-232b7a6ce03e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6ga7j-bEAA3AlY.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Spotting the reply\u0027s \"Brother...\" text paired with a humorous image.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c255db4-7b36-4058-a09d-ae82928d66fa\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6mAuXEXMAA4jog.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e321a484e-08fc-4e0d-adcd-232b7a6ce03e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6ga7j-bEAA3AlY.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c255db4-7b36-4058-a09d-ae82928d66fa\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6mAuXEXMAA4jog.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef5e54ec3-4756-4971-9c90-9edc681ad3ff\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1993265915589169581}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e321a484e-08fc-4e0d-adcd-232b7a6ce03e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6ga7j-bEAA3AlY.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c255db4-7b36-4058-a09d-ae82928d66fa\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6mAuXEXMAA4jog.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f5e54ec3-4756-4971-9c90-9edc681ad3ff"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f5e54ec3-4756-4971-9c90-9edc681ad3ff"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "321a484e-08fc-4e0d-adcd-232b7a6ce03e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4c255db4-7b36-4058-a09d-ae82928d66fa"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from plassoplo to uncover key insights.\n- Noting the post\u0027s future timestamp relative to my training data.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef5e54ec3-4756-4971-9c90-9edc681ad3ff\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1993265915589169581}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply\u0027s \"Brother...\" text paired with a humorous image.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e321a484e-08fc-4e0d-adcd-232b7a6ce03e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6ga7j-bEAA3AlY.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c255db4-7b36-4058-a09d-ae82928d66fa\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G6mAuXEXMAA4jog.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f5e54ec3-4756-4971-9c90-9edc681ad3ff"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f5e54ec3-4756-4971-9c90-9edc681ad3ff"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "321a484e-08fc-4e0d-adcd-232b7a6ce03e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4c255db4-7b36-4058-a09d-ae82928d66fa"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1993266086423195648",
+                                                                              "created_at_ms":  1764066642773,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1993265915589169581",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

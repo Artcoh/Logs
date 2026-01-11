@@ -1,0 +1,307 @@
+﻿# Grok Conversation Export
+# Title: YouTube Ban Sparks Censorship Debate
+# ID: 1987591569860358350
+# Extracted: 2026-01-02 05:38:01
+# URL: https://x.com/i/grok?conversation=1987591569860358350
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuVWADQV4AAChRBAAABmmntB60AAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1987591571072581633",
+                                                                              "created_at_ms":  1762713733037,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This post by @plassoplo is a reply to @ZoomerHistorian\u0027s announcement of his YouTube channel termination on November 9, 2025, for violating hate speech policies, amid accusations of promoting Nazi apologism in historical content.\n- The author, identifying as a nationalist, expresses intense anger toward YouTube executives, invoking divine retribution and framing the ban as an ill-advised attempt to suppress a growing far-right audience.\n- ZoomerHistorian\u0027s move to Rumble highlights broader tensions in content moderation, with supporters viewing the ban as censorship and critics, including groups like Hope Not Hate, citing it as a necessary response to extremist propaganda.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestAnalyzing X post- The task involves examining a specific X post from the provided link.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eabf47910-dc89-4e16-9d87-1f1258ff39bd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987591555692007529}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To get the content, I\u0027m fetching the post details using its ID: 1987591555692007529.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eabf47910-dc89-4e16-9d87-1f1258ff39bd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987591555692007529}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7fe24a58-70c3-4c02-9429-c740109c6efc\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"ZoomerHistorian YouTube ban\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- The fetched post by @plassoplo is a reply expressing strong anger: \"These mother fuckers deserve everything that is coming to them I swear to God the Almighty. NEVER FORGET that it was they themselves who tried to force their will upon a thunderstorm.\"\nGathering context- The post replies to @ZoomerHistorian announcing a YouTube ban for hate speech and a move to Rumble.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7fe24a58-70c3-4c02-9429-c740109c6efc\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"ZoomerHistorian YouTube ban\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- ZoomerHistorian is a controversial YouTuber known for far-right views, often accused of being a Hitler apologist and neo-Nazi sympathizer.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "There\u0027s so many great history YouTubers, but the Nazi apologist is ...",
+                                                                                                      "snippet":  "Fredda video about why Zoomer Historian is bad at being a historian. He picks unreliable sources, lies about things, leaves out key information, and pretends ...",
+                                                                                                      "url":  "https://www.reddit.com/r/HistoryMemes/comments/1jzdw7m/theres_so_many_great_history_youtubers_but_the/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\"Zoomer Historian\" Unmasked: We name the Hitler apologist with a ...",
+                                                                                                      "snippet":  "The extremist behind one of the largest Hitler apologist channels on YouTube, as the former gaming YouTuber Sam Wilkes from Guernsey.",
+                                                                                                      "url":  "https://hopenothate.org.uk/2025/03/03/zoomer-historian-unmasked-we-name-the-hitler-apologist-with-a-huge-online-following/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\"youtube banned\" - Results on X | Live Posts \u0026 Updates",
+                                                                                                      "snippet":  "Dear YouTube Team, My channel was mistakenly terminated for “not following Community Guidelines.” The channel contained no spam, deceptive, harmful, or ...",
+                                                                                                      "url":  "https://x.com/search?q=youtube%252520banned\u0026src=typed_query"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Zoomer Historian: Dresden, Denialism \u0026 Laziness - YouTube",
+                                                                                                      "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=mbhQ8sO2vQs"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "ZOOMER HISTORIAN GOT TERMINATED : r/DerScheisser - Reddit",
+                                                                                                      "snippet":  "Yes well obviously a civilized and Christian man would just round them up and gas them, that\u0027s why the ss officer was confused. Seriously though ...",
+                                                                                                      "url":  "https://www.reddit.com/r/DerScheisser/comments/1orvzkq/zoomer_historian_got_terminated/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "If you need to throw up, then here a \u0027Zoomer historian\u0027 is talking ...",
+                                                                                                      "snippet":  "A \u0027Zoomer historian\u0027 is talking about the annexation of the Sudetenland in a positive light for Nazi Germany.",
+                                                                                                      "url":  "https://www.reddit.com/r/czech/comments/1jy8r36/pokud_se_pot%2525C5%252599ebujete_vyzvracet_tak_zde_zoomer/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "/his/ - Zoomer Historian has been banned from YouTube - 4chan",
+                                                                                                      "snippet":  "I think hes a neo nazi retarded bitch, but I dont agree with censorship and think banning him is gay. \u003e\u003e ...Anonymous 11/07/25(Fri)08: ...",
+                                                                                                      "url":  "https://boards.4chan.org/his/thread/18142048/zoomer-historian-has-been-banned-from-youtube"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Historytuber Fredda calls out white supremacist Zoomer Historian for ...",
+                                                                                                      "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                      "url":  "https://www.reddit.com/r/youtubedrama/comments/1jujepq/historytuber_fredda_calls_out_white_supremacist/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Zoomer \"Historian\" in a nutshell - Facebook",
+                                                                                                      "snippet":  "Black History in Canada - A new perspective on Black History Month. 0 reactions. Russ Haas ▻ The Wâtchtøwer. 9y · Public ...",
+                                                                                                      "url":  "https://www.facebook.com/groups/926510482375923/posts/1361576415535992/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Neo-Nazi \"History\" Youtuber Zoomer Historian Has Channel ...",
+                                                                                                      "snippet":  "1K votes, 79 comments. Zoomer Historian, an ex-FIFA turned NSDAP propaganda channel that claimed to showcase an \"apolitical\" telling of ...",
+                                                                                                      "url":  "https://www.reddit.com/r/youtubedrama/comments/1org9yp/neonazi_history_youtuber_zoomer_historian_has/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "There\u0027s so many great history YouTubers, but the Nazi apologist is ...",
+                                                                                                      "snippet":  "Fredda video about why Zoomer Historian is bad at being a historian. He picks unreliable sources, lies about things, leaves out key information, and pretends ...",
+                                                                                                      "url":  "https://www.reddit.com/r/HistoryMemes/comments/1jzdw7m/theres_so_many_great_history_youtubers_but_the/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\"Zoomer Historian\" Unmasked: We name the Hitler apologist with a ...",
+                                                                                                      "snippet":  "The extremist behind one of the largest Hitler apologist channels on YouTube, as the former gaming YouTuber Sam Wilkes from Guernsey.",
+                                                                                                      "url":  "https://hopenothate.org.uk/2025/03/03/zoomer-historian-unmasked-we-name-the-hitler-apologist-with-a-huge-online-following/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\"youtube banned\" - Results on X | Live Posts \u0026 Updates",
+                                                                                                      "snippet":  "Dear YouTube Team, My channel was mistakenly terminated for “not following Community Guidelines.” The channel contained no spam, deceptive, harmful, or ...",
+                                                                                                      "url":  "https://x.com/search?q=youtube%252520banned\u0026src=typed_query"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Zoomer Historian: Dresden, Denialism \u0026 Laziness - YouTube",
+                                                                                                      "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=mbhQ8sO2vQs"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "ZOOMER HISTORIAN GOT TERMINATED : r/DerScheisser - Reddit",
+                                                                                                      "snippet":  "Yes well obviously a civilized and Christian man would just round them up and gas them, that\u0027s why the ss officer was confused. Seriously though ...",
+                                                                                                      "url":  "https://www.reddit.com/r/DerScheisser/comments/1orvzkq/zoomer_historian_got_terminated/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "If you need to throw up, then here a \u0027Zoomer historian\u0027 is talking ...",
+                                                                                                      "snippet":  "A \u0027Zoomer historian\u0027 is talking about the annexation of the Sudetenland in a positive light for Nazi Germany.",
+                                                                                                      "url":  "https://www.reddit.com/r/czech/comments/1jy8r36/pokud_se_pot%2525C5%252599ebujete_vyzvracet_tak_zde_zoomer/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "/his/ - Zoomer Historian has been banned from YouTube - 4chan",
+                                                                                                      "snippet":  "I think hes a neo nazi retarded bitch, but I dont agree with censorship and think banning him is gay. \u003e\u003e ...Anonymous 11/07/25(Fri)08: ...",
+                                                                                                      "url":  "https://boards.4chan.org/his/thread/18142048/zoomer-historian-has-been-banned-from-youtube"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Historytuber Fredda calls out white supremacist Zoomer Historian for ...",
+                                                                                                      "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                      "url":  "https://www.reddit.com/r/youtubedrama/comments/1jujepq/historytuber_fredda_calls_out_white_supremacist/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Zoomer \"Historian\" in a nutshell - Facebook",
+                                                                                                      "snippet":  "Black History in Canada - A new perspective on Black History Month. 0 reactions. Russ Haas ▻ The Wâtchtøwer. 9y · Public ...",
+                                                                                                      "url":  "https://www.facebook.com/groups/926510482375923/posts/1361576415535992/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Neo-Nazi \"History\" Youtuber Zoomer Historian Has Channel ...",
+                                                                                                      "snippet":  "1K votes, 79 comments. Zoomer Historian, an ex-FIFA turned NSDAP propaganda channel that claimed to showcase an \"apolitical\" telling of ...",
+                                                                                                      "url":  "https://www.reddit.com/r/youtubedrama/comments/1org9yp/neonazi_history_youtuber_zoomer_historian_has/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eabf47910-dc89-4e16-9d87-1f1258ff39bd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987591555692007529}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7fe24a58-70c3-4c02-9429-c740109c6efc\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"ZoomerHistorian YouTube ban\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "abf47910-dc89-4e16-9d87-1f1258ff39bd"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "abf47910-dc89-4e16-9d87-1f1258ff39bd"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7fe24a58-70c3-4c02-9429-c740109c6efc"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7fe24a58-70c3-4c02-9429-c740109c6efc",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "There\u0027s so many great history YouTubers, but the Nazi apologist is ...",
+                                                                                                                                                                                           "snippet":  "Fredda video about why Zoomer Historian is bad at being a historian. He picks unreliable sources, lies about things, leaves out key information, and pretends ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/HistoryMemes/comments/1jzdw7m/theres_so_many_great_history_youtubers_but_the/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\"Zoomer Historian\" Unmasked: We name the Hitler apologist with a ...",
+                                                                                                                                                                                           "snippet":  "The extremist behind one of the largest Hitler apologist channels on YouTube, as the former gaming YouTuber Sam Wilkes from Guernsey.",
+                                                                                                                                                                                           "url":  "https://hopenothate.org.uk/2025/03/03/zoomer-historian-unmasked-we-name-the-hitler-apologist-with-a-huge-online-following/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\"youtube banned\" - Results on X | Live Posts \u0026 Updates",
+                                                                                                                                                                                           "snippet":  "Dear YouTube Team, My channel was mistakenly terminated for “not following Community Guidelines.” The channel contained no spam, deceptive, harmful, or ...",
+                                                                                                                                                                                           "url":  "https://x.com/search?q=youtube%252520banned\u0026src=typed_query"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Zoomer Historian: Dresden, Denialism \u0026 Laziness - YouTube",
+                                                                                                                                                                                           "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=mbhQ8sO2vQs"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "ZOOMER HISTORIAN GOT TERMINATED : r/DerScheisser - Reddit",
+                                                                                                                                                                                           "snippet":  "Yes well obviously a civilized and Christian man would just round them up and gas them, that\u0027s why the ss officer was confused. Seriously though ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/DerScheisser/comments/1orvzkq/zoomer_historian_got_terminated/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "If you need to throw up, then here a \u0027Zoomer historian\u0027 is talking ...",
+                                                                                                                                                                                           "snippet":  "A \u0027Zoomer historian\u0027 is talking about the annexation of the Sudetenland in a positive light for Nazi Germany.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/czech/comments/1jy8r36/pokud_se_pot%2525C5%252599ebujete_vyzvracet_tak_zde_zoomer/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "/his/ - Zoomer Historian has been banned from YouTube - 4chan",
+                                                                                                                                                                                           "snippet":  "I think hes a neo nazi retarded bitch, but I dont agree with censorship and think banning him is gay. \u003e\u003e ...Anonymous 11/07/25(Fri)08: ...",
+                                                                                                                                                                                           "url":  "https://boards.4chan.org/his/thread/18142048/zoomer-historian-has-been-banned-from-youtube"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Historytuber Fredda calls out white supremacist Zoomer Historian for ...",
+                                                                                                                                                                                           "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/youtubedrama/comments/1jujepq/historytuber_fredda_calls_out_white_supremacist/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Zoomer \"Historian\" in a nutshell - Facebook",
+                                                                                                                                                                                           "snippet":  "Black History in Canada - A new perspective on Black History Month. 0 reactions. Russ Haas ▻ The Wâtchtøwer. 9y · Public ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/groups/926510482375923/posts/1361576415535992/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Neo-Nazi \"History\" Youtuber Zoomer Historian Has Channel ...",
+                                                                                                                                                                                           "snippet":  "1K votes, 79 comments. Zoomer Historian, an ex-FIFA turned NSDAP propaganda channel that claimed to showcase an \"apolitical\" telling of ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/youtubedrama/comments/1org9yp/neonazi_history_youtuber_zoomer_historian_has/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The task involves examining a specific X post from the provided link.\n- To get the content, I\u0027m fetching the post details using its ID: 1987591555692007529.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eabf47910-dc89-4e16-9d87-1f1258ff39bd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987591555692007529}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The fetched post by @plassoplo is a reply expressing strong anger: \"These mother fuckers deserve everything that is coming to them I swear to God the Almighty. NEVER FORGET that it was they themselves who tried to force their will upon a thunderstorm.\"\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "abf47910-dc89-4e16-9d87-1f1258ff39bd"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "abf47910-dc89-4e16-9d87-1f1258ff39bd"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Gathering context",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The post replies to @ZoomerHistorian announcing a YouTube ban for hate speech and a move to Rumble.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7fe24a58-70c3-4c02-9429-c740109c6efc\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"ZoomerHistorian YouTube ban\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- ZoomerHistorian is a controversial YouTuber known for far-right views, often accused of being a Hitler apologist and neo-Nazi sympathizer.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7fe24a58-70c3-4c02-9429-c740109c6efc"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7fe24a58-70c3-4c02-9429-c740109c6efc",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "There\u0027s so many great history YouTubers, but the Nazi apologist is ...",
+                                                                                                                                                                                           "snippet":  "Fredda video about why Zoomer Historian is bad at being a historian. He picks unreliable sources, lies about things, leaves out key information, and pretends ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/HistoryMemes/comments/1jzdw7m/theres_so_many_great_history_youtubers_but_the/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\"Zoomer Historian\" Unmasked: We name the Hitler apologist with a ...",
+                                                                                                                                                                                           "snippet":  "The extremist behind one of the largest Hitler apologist channels on YouTube, as the former gaming YouTuber Sam Wilkes from Guernsey.",
+                                                                                                                                                                                           "url":  "https://hopenothate.org.uk/2025/03/03/zoomer-historian-unmasked-we-name-the-hitler-apologist-with-a-huge-online-following/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\"youtube banned\" - Results on X | Live Posts \u0026 Updates",
+                                                                                                                                                                                           "snippet":  "Dear YouTube Team, My channel was mistakenly terminated for “not following Community Guidelines.” The channel contained no spam, deceptive, harmful, or ...",
+                                                                                                                                                                                           "url":  "https://x.com/search?q=youtube%252520banned\u0026src=typed_query"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Zoomer Historian: Dresden, Denialism \u0026 Laziness - YouTube",
+                                                                                                                                                                                           "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=mbhQ8sO2vQs"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "ZOOMER HISTORIAN GOT TERMINATED : r/DerScheisser - Reddit",
+                                                                                                                                                                                           "snippet":  "Yes well obviously a civilized and Christian man would just round them up and gas them, that\u0027s why the ss officer was confused. Seriously though ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/DerScheisser/comments/1orvzkq/zoomer_historian_got_terminated/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "If you need to throw up, then here a \u0027Zoomer historian\u0027 is talking ...",
+                                                                                                                                                                                           "snippet":  "A \u0027Zoomer historian\u0027 is talking about the annexation of the Sudetenland in a positive light for Nazi Germany.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/czech/comments/1jy8r36/pokud_se_pot%2525C5%252599ebujete_vyzvracet_tak_zde_zoomer/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "/his/ - Zoomer Historian has been banned from YouTube - 4chan",
+                                                                                                                                                                                           "snippet":  "I think hes a neo nazi retarded bitch, but I dont agree with censorship and think banning him is gay. \u003e\u003e ...Anonymous 11/07/25(Fri)08: ...",
+                                                                                                                                                                                           "url":  "https://boards.4chan.org/his/thread/18142048/zoomer-historian-has-been-banned-from-youtube"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Historytuber Fredda calls out white supremacist Zoomer Historian for ...",
+                                                                                                                                                                                           "snippet":  "Zoomer Historian is a British pseudo historian. That means he presents himself as a historian presents his content as history but utilizes different methodology.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/youtubedrama/comments/1jujepq/historytuber_fredda_calls_out_white_supremacist/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Zoomer \"Historian\" in a nutshell - Facebook",
+                                                                                                                                                                                           "snippet":  "Black History in Canada - A new perspective on Black History Month. 0 reactions. Russ Haas ▻ The Wâtchtøwer. 9y · Public ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/groups/926510482375923/posts/1361576415535992/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Neo-Nazi \"History\" Youtuber Zoomer Historian Has Channel ...",
+                                                                                                                                                                                           "snippet":  "1K votes, 79 comments. Zoomer Historian, an ex-FIFA turned NSDAP propaganda channel that claimed to showcase an \"apolitical\" telling of ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/youtubedrama/comments/1org9yp/neonazi_history_youtuber_zoomer_historian_has/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1987591571072581632",
+                                                                              "created_at_ms":  1762713733037,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1987591555692007529",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

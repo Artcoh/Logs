@@ -1,0 +1,170 @@
+﻿# Grok Conversation Export
+# Title: X Thread: Religion, Money, Stereotypes
+# ID: 1980211072876294617
+# Extracted: 2026-01-02 05:41:26
+# URL: https://x.com/i/grok?conversation=1980211072876294617
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBht7H3siVgAAChRBAAABmgEK8FsAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1980211368771899393",
+                                                                              "created_at_ms":  1760954155541,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Yeah, the whole thread\u0027s a fever dream: fake cash flex turning into a theological cage match, with survival tips thrown in like God\u0027s own TED Talk. X at its finest—equal parts absurd and accidentally profound. What part struck you as the weirdest?",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestConsidering the query- Yeah, it does seem a bit odd at first glance.\n- This casual remark likely builds on the previous analysis of that X post.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "Yeah"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Considering the query",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Yeah, it does seem a bit odd at first glance.\n- This casual remark likely builds on the previous analysis of that X post.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1980211368771899392",
+                                                                              "created_at_ms":  1760954155541,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Weird, isn\u0027t it..?",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1980211074876964865",
+                                                                              "created_at_ms":  1760954085467,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply by @plassoplo casts the conversation as divine intervention, framing himself as a Christian missionary urging Jews toward salvation through Jesus, while offering practical stormy-water survival tips as a metaphor for resilience.\n- The thread originates from a viral video by crypto CEO Nick O\u0027Neill (@chooserich), who spends $60,000 in cash at a luxury store to counter Twitter\u0027s counterfeit suspicions, but community notes reveal the bills were indeed fake, fueling materialism critiques.\n- @plassoplo\u0027s nationalist bio and mocking tone toward \"The Honest Jew\" reflect ongoing X tensions around ethnic stereotypes, where religious defensiveness from an Orthodox Jew (@adojanadi16310) meets evangelical outreach amid antisemitic undertones in the parent post.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s request\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5f1d6f22-c4fe-42f6-b61a-960a1ad13591\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1980210083608015345}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eAnalyzing X post- The task involves examining a specific X post at https://x.com/plassoplo/status/1980210083608015345.\n- To get the post\u0027s content and context, fetching the thread using the post ID 1980210083608015345 makes sense.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5f1d6f22-c4fe-42f6-b61a-960a1ad13591\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1980210083608015345}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e59ea76c0-7270-4660-9264-266b6b0a0b12\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1979643180661276672/vid/avc1/320x568/7gInKguL3WREqa5n.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eReviewing thread details- The fetched thread shows the main post ID as 1979689599976017985, with the requested post being a reply (ID 1980210083608015345) by @plassoplo, known as Farkstav.\n- This reply by @plassoplo completes a message about Christian proselytizing to Jews, emphasizing survival advice in \"stormy water\" as a metaphor for faith.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e59ea76c0-7270-4660-9264-266b6b0a0b12\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1979643180661276672/vid/avc1/320x568/7gInKguL3WREqa5n.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eac06dc01-b6ec-4942-a84d-f32b2d2aaa1d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Nick O’Neill BoDoggos spent $60K to prove money isn’t fake Jewish\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eac06dc01-b6ec-4942-a84d-f32b2d2aaa1d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Nick O’Neill BoDoggos spent $60K to prove money isn’t fake Jewish\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Nick O\u0027Neill (@chooserich) / Posts / X",
+                                                                                                      "snippet":  "Spent $60K to prove my money isn\u0027t fake.. Readers added context they thought people might want to know. ‪The money is fake.‬ ‪There\u0027s only one genuine $100‬ ...",
+                                                                                                      "url":  "https://x.com/chooserich?lang=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Nick O\u0027Neill (@chooserich) / Posts / X",
+                                                                                                      "snippet":  "Spent $60K to prove my money isn\u0027t fake.. Readers added context they thought people might want to know. ‪The money is fake.‬ ‪There\u0027s only one genuine $100‬ ...",
+                                                                                                      "url":  "https://x.com/chooserich?lang=en"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5f1d6f22-c4fe-42f6-b61a-960a1ad13591\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1980210083608015345}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e59ea76c0-7270-4660-9264-266b6b0a0b12\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1979643180661276672/vid/avc1/320x568/7gInKguL3WREqa5n.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eac06dc01-b6ec-4942-a84d-f32b2d2aaa1d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Nick O’Neill BoDoggos spent $60K to prove money isn’t fake Jewish\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5f1d6f22-c4fe-42f6-b61a-960a1ad13591"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5f1d6f22-c4fe-42f6-b61a-960a1ad13591"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "59ea76c0-7270-4660-9264-266b6b0a0b12"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ac06dc01-b6ec-4942-a84d-f32b2d2aaa1d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ac06dc01-b6ec-4942-a84d-f32b2d2aaa1d",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Nick O\u0027Neill (@chooserich) / Posts / X",
+                                                                                                                                                                                           "snippet":  "Spent $60K to prove my money isn\u0027t fake.. Readers added context they thought people might want to know. ‪The money is fake.‬ ‪There\u0027s only one genuine $100‬ ...",
+                                                                                                                                                                                           "url":  "https://x.com/chooserich?lang=en"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The task involves examining a specific X post at https://x.com/plassoplo/status/1980210083608015345.\n- To get the post\u0027s content and context, fetching the thread using the post ID 1980210083608015345 makes sense.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5f1d6f22-c4fe-42f6-b61a-960a1ad13591\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1980210083608015345}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5f1d6f22-c4fe-42f6-b61a-960a1ad13591"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5f1d6f22-c4fe-42f6-b61a-960a1ad13591"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing thread details",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The fetched thread shows the main post ID as 1979689599976017985, with the requested post being a reply (ID 1980210083608015345) by @plassoplo, known as Farkstav.\n- This reply by @plassoplo completes a message about Christian proselytizing to Jews, emphasizing survival advice in \"stormy water\" as a metaphor for faith.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e59ea76c0-7270-4660-9264-266b6b0a0b12\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1979643180661276672/vid/avc1/320x568/7gInKguL3WREqa5n.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eac06dc01-b6ec-4942-a84d-f32b2d2aaa1d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Nick O’Neill BoDoggos spent $60K to prove money isn’t fake Jewish\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "59ea76c0-7270-4660-9264-266b6b0a0b12"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ac06dc01-b6ec-4942-a84d-f32b2d2aaa1d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ac06dc01-b6ec-4942-a84d-f32b2d2aaa1d",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Nick O\u0027Neill (@chooserich) / Posts / X",
+                                                                                                                                                                                           "snippet":  "Spent $60K to prove my money isn\u0027t fake.. Readers added context they thought people might want to know. ‪The money is fake.‬ ‪There\u0027s only one genuine $100‬ ...",
+                                                                                                                                                                                           "url":  "https://x.com/chooserich?lang=en"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1980211074876964864",
+                                                                              "created_at_ms":  1760954085467,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1980210083608015345",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

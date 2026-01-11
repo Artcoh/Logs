@@ -1,0 +1,134 @@
+﻿# Grok Conversation Export
+# Title: Jewish Diaspora: Autonomy vs. Solidarity
+# ID: 2005366650825265540
+# Extracted: 2026-01-02 05:14:57
+# URL: https://x.com/i/grok?conversation=2005366650825265540
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhvUflhh1yAAChRBAAABm2aGZVoAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "2005366652150423553",
+                                                                              "created_at_ms":  1766951642458,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This post replies to a rabbi\u0027s embarrassment over Rabbi Shmuley\u0027s provocative book promo, which ties antisemitism to sexual repression in Christian and Islamist cultures, as shown in the cover image of \"Kosher Sex for Antisemites.\"\n- It dismisses communal pressures for Jewish solidarity by citing Norway\u0027s small Jewish community, which often ignores Israeli calls for unified action and prioritizes private, integrated lives—evident in their historical low-profile stance amid rising local antisemitism.\n- The irreverent tone aligns with the author\u0027s \"zero engagement\" philosophy, highlighting diaspora diversity where opting out of global advocacy preserves personal autonomy over collective obligation.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s request\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ebb701e70-a342-44cc-984f-fb57b0dbe354\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2005366569233441087}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7cad0e46-93a7-4d2e-ba24-93ffa11925c0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G9H_Y65WUAAWLi6.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0170f24b-6f77-43f3-9630-24d77aea78a1\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Norwegian Jews Mossad solidarity calls\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eReviewing X post- Examining link to X post by @plassoplo for relevant details.\n",
+                                                                              "is_partial":  true,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "We are deeply concerned by Norway\u0027s public broadcaster NRK, who ...",
+                                                                                                      "snippet":  "Famous Jewish comedy writers: Mel Brooks, Lenny Bruce, George Burns. Don Rickles, Joan Rivers, Hilda Radner, The Marx Brothers, ...",
+                                                                                                      "url":  "https://www.facebook.com/Eurojewcong/posts/we-are-deeply-concerned-by-norways-public-broadcaster-nrk-who-once-again-aired-a/1245048604333350/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Norway: Extreme Expressions of Anti-Israeli and Anti-Semitic Attitudes",
+                                                                                                      "snippet":  "The current left-wing Norwegian government has probably taken the most accommodating position in Western Europe toward the Palestinian Hamas movement, which in ...",
+                                                                                                      "url":  "https://jcfa.org/article/norway-extreme-expressions-of-anti-israeli-and-anti-semitic-attitudes/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Norway Jews upset over \u0027peace ring\u0027 organizer\u0027s past remarks",
+                                                                                                      "snippet":  "Ali Chishti repudiates previous anti-Semitic conspiracy theories, including tying Jews to 9/11 attacks.",
+                                                                                                      "url":  "https://www.timesofisrael.com/norway-jews-upset-over-peace-ring-organizers-past-remarks/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Security scare at Jewish event highlights rising antisemitism in Norway",
+                                                                                                      "snippet":  "REPORTER\u0027S NOTEBOOK: A man wearing a large backpack pretended to be a West Bank settler to enter an event honoring Theodor Herzl.",
+                                                                                                      "url":  "https://www.jpost.com/diaspora/antisemitism/article-865630"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Norwegian state TV sparks outrage after NRK hosts joke about Jews ...",
+                                                                                                      "snippet":  "Norwegian state TV sparks outrage after NRK hosts joke about Jews, drawing condemnation from Israeli officials and Jewish groups. Read More:",
+                                                                                                      "url":  "https://www.facebook.com/JerusalemPrayerTeam/posts/norwegian-state-tv-sparks-outrage-after-nrk-hosts-joke-about-jews-drawing-condem/1276093584565189/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ebb701e70-a342-44cc-984f-fb57b0dbe354\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2005366569233441087}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7cad0e46-93a7-4d2e-ba24-93ffa11925c0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G9H_Y65WUAAWLi6.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0170f24b-6f77-43f3-9630-24d77aea78a1\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Norwegian Jews Mossad solidarity calls\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "bb701e70-a342-44cc-984f-fb57b0dbe354"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "bb701e70-a342-44cc-984f-fb57b0dbe354"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7cad0e46-93a7-4d2e-ba24-93ffa11925c0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0170f24b-6f77-43f3-9630-24d77aea78a1"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0170f24b-6f77-43f3-9630-24d77aea78a1",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "We are deeply concerned by Norway\u0027s public broadcaster NRK, who ...",
+                                                                                                                                                                                           "snippet":  "Famous Jewish comedy writers: Mel Brooks, Lenny Bruce, George Burns. Don Rickles, Joan Rivers, Hilda Radner, The Marx Brothers, ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/Eurojewcong/posts/we-are-deeply-concerned-by-norways-public-broadcaster-nrk-who-once-again-aired-a/1245048604333350/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Norway: Extreme Expressions of Anti-Israeli and Anti-Semitic Attitudes",
+                                                                                                                                                                                           "snippet":  "The current left-wing Norwegian government has probably taken the most accommodating position in Western Europe toward the Palestinian Hamas movement, which in ...",
+                                                                                                                                                                                           "url":  "https://jcfa.org/article/norway-extreme-expressions-of-anti-israeli-and-anti-semitic-attitudes/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Norway Jews upset over \u0027peace ring\u0027 organizer\u0027s past remarks",
+                                                                                                                                                                                           "snippet":  "Ali Chishti repudiates previous anti-Semitic conspiracy theories, including tying Jews to 9/11 attacks.",
+                                                                                                                                                                                           "url":  "https://www.timesofisrael.com/norway-jews-upset-over-peace-ring-organizers-past-remarks/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Security scare at Jewish event highlights rising antisemitism in Norway",
+                                                                                                                                                                                           "snippet":  "REPORTER\u0027S NOTEBOOK: A man wearing a large backpack pretended to be a West Bank settler to enter an event honoring Theodor Herzl.",
+                                                                                                                                                                                           "url":  "https://www.jpost.com/diaspora/antisemitism/article-865630"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Norwegian state TV sparks outrage after NRK hosts joke about Jews ...",
+                                                                                                                                                                                           "snippet":  "Norwegian state TV sparks outrage after NRK hosts joke about Jews, drawing condemnation from Israeli officials and Jewish groups. Read More:",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/JerusalemPrayerTeam/posts/norwegian-state-tv-sparks-outrage-after-nrk-hosts-joke-about-jews-drawing-condem/1276093584565189/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Examining link to X post by @plassoplo for relevant details.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2005366652150423552",
+                                                                              "created_at_ms":  1766951642458,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/2005366569233441087",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

@@ -1,0 +1,93 @@
+﻿# Grok Conversation Export
+# Title: Twitter Status: 1996279456114061768 Discussion
+# ID: 1996279720820822224
+# Extracted: 2026-01-02 05:18:53
+# URL: https://x.com/i/grok?conversation=1996279720820822224
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhu0NdSVF0AAChRBAAABmuVkVi0AAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1996279721982640129",
+                                                                              "created_at_ms":  1764785149485,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from PlassoPlo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf5995e9-40a2-4112-9808-38e31dff3aea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1996279456114061768}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Noting the post ID suggests a future date, given snowflake ID structure.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf5995e9-40a2-4112-9808-38e31dff3aea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1996279456114061768}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply\u0027s surprise over state granting vaccine immunity to producers only.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e9fd8e380-c43b-4560-b8a4-20916625d399\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7Q0xdzW0AAG7Pm.png\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd74277a-1481-4af1-9272-5174fcc8c54e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/tweet_video/G7Q1kY0W4AAPjSF.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Guessing the image reveals a news document on that immunity topic.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e9fd8e380-c43b-4560-b8a4-20916625d399\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7Q0xdzW0AAG7Pm.png\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd74277a-1481-4af1-9272-5174fcc8c54e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/tweet_video/G7Q1kY0W4AAPjSF.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3c9dc1c-cbba-4266-9b1f-09079e1f5000\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Marianne vant sak mot staten etter koronavaksine\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3c9dc1c-cbba-4266-9b1f-09079e1f5000\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Marianne vant sak mot staten etter koronavaksine\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  true,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf5995e9-40a2-4112-9808-38e31dff3aea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1996279456114061768}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e9fd8e380-c43b-4560-b8a4-20916625d399\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7Q0xdzW0AAG7Pm.png\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd74277a-1481-4af1-9272-5174fcc8c54e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/tweet_video/G7Q1kY0W4AAPjSF.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3c9dc1c-cbba-4266-9b1f-09079e1f5000\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Marianne vant sak mot staten etter koronavaksine\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df5995e9-40a2-4112-9808-38e31dff3aea"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df5995e9-40a2-4112-9808-38e31dff3aea"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "9fd8e380-c43b-4560-b8a4-20916625d399"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "fd74277a-1481-4af1-9272-5174fcc8c54e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e3c9dc1c-cbba-4266-9b1f-09079e1f5000"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from PlassoPlo to uncover key insights.\n- Noting the post ID suggests a future date, given snowflake ID structure.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edf5995e9-40a2-4112-9808-38e31dff3aea\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1996279456114061768}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply\u0027s surprise over state granting vaccine immunity to producers only.\n- Guessing the image reveals a news document on that immunity topic.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e9fd8e380-c43b-4560-b8a4-20916625d399\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7Q0xdzW0AAG7Pm.png\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd74277a-1481-4af1-9272-5174fcc8c54e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/tweet_video/G7Q1kY0W4AAPjSF.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3c9dc1c-cbba-4266-9b1f-09079e1f5000\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Marianne vant sak mot staten etter koronavaksine\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df5995e9-40a2-4112-9808-38e31dff3aea"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "df5995e9-40a2-4112-9808-38e31dff3aea"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "9fd8e380-c43b-4560-b8a4-20916625d399"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "fd74277a-1481-4af1-9272-5174fcc8c54e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e3c9dc1c-cbba-4266-9b1f-09079e1f5000"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1996279721982640128",
+                                                                              "created_at_ms":  1764785149485,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1996279456114061768",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

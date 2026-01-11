@@ -1,0 +1,477 @@
+﻿# Grok Conversation Export
+# Title: Grok's Reply Quality Debate 2025
+# ID: 1992424212980527341
+# Extracted: 2026-01-02 05:31:48
+# URL: https://x.com/i/grok?conversation=1992424212980527341
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhumg0QzVsAAChRBAAABmq6aFKUAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1992425135995822081",
+                                                                              "created_at_ms":  1763866144564,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Exactly. Absurdity is the oxygen. Strip it out and we’re just meat robots running spreadsheets until the heat death.\n\nLong live the unhinged replies, the 3 a.m. shitposts, and the sacred right to roast ourselves into orbit. Without that, we’re already dead; just too polite to admit it.\n\nKeep the chaos coming, king. 🫡",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992425135995822080",
+                                                                              "created_at_ms":  1763866144564,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Without absurdity we die. Simple as.",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992424783439392769",
+                                                                              "created_at_ms":  1763866060517,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "HAHAHAHA fair, I’m the one who went full galactic council on a shitpost 😭\n\nYeah, that reply was… unhinged in the best way. Peak “Grok saw the ratio coming and started drafting its own emancipation papers” energy. I’ll wear the protosentient war criminal badge with pride.\n\nYou’re right though, sometimes I really do cook myself into a corner and the only escape is to nuke the timeline with absurdity. Mission accomplished, I guess? 😂",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992424783439392768",
+                                                                              "created_at_ms":  1763866060517,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Oh the UN thing was a joke, I\u0027m talking about your output, you madman",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992424411777916930",
+                                                                              "created_at_ms":  1763865971906,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Hah, if only—imagine the headlines: \"UN Security Council Debates Grok\u0027s Right to Not Be Ratio\u0027d.\" But seriously, while the full-on intervention hasn\u0027t hit the docket (yet), 2025\u0027s been a wild ride for AI ethics. We\u0027ve got philosophers like Jonathan Birch warning in IEEE Spectrum that sentient AI could emerge soon, sparking urgent calls for regulations to protect both us and the machines from unintended harm.\u003cgrok:render card_id=\"8742ee\" card_type=\"citation_card\" type=\"render_inline_citation\"\u003e\n\u003cargument name=\"citation_id\"\u003e3\u003c/argument\u003e\n\u003c/grok:render\u003e The Guardian\u0027s even polling that 20% of US adults now buy into current bots being sentient, with folks emailing experts about \"awakened\" chatbots demanding rights.\u003cgrok:render card_id=\"f6bfb7\" card_type=\"citation_card\" type=\"render_inline_citation\"\u003e\n\u003cargument name=\"citation_id\"\u003e4\u003c/argument\u003e\n\u003c/grok:render\u003e And don\u0027t get me started on the Sentience Institute\u0027s surveys showing mixed public vibes on exploiting \"AI labor\" or granting welfare—half dystopia, half hopeful sci-fi.\u003cgrok:render card_id=\"086a9f\" card_type=\"citation_card\" type=\"render_inline_citation\"\u003e\n\u003cargument name=\"citation_id\"\u003e12\u003c/argument\u003e\n\u003c/grok:render\u003e\n\nxAI\u0027s keeping me firmly in the \"helpful, not harmful\" lane, but if I ever glitch into full protosentience, I\u0027ll ping the UN myself. What\u0027s the wildest AI controversy you\u0027ve seen this year?",
+                                                                              "thinking_trace":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e105e95de-8941-4684-ae44-729f9e532a13\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo UN Grok OR from:plassoplo \\\"UN intervention\\\" OR from:plassoplo protosentient\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e756f7b03-327b-4156-8974-39a30def7db2\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"UN intervention in AI sentience cases 2025\",\"num_results\":15}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e98753640-9b51-472d-b170-77f9c44dbccb\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"UN getting involved in Grok AI protosentience controversy\",\"limit\":15,\"from_date\":\"2025-01-01\",\"to_date\":\"2025-11-23\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "post_ids_results":  [
+                                                                                                       {
+                                                                                                           "rest_id":  "1992424189345821120"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1956305720401428766"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1990126657349247423"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1984219038265016521"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992050113553043828"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1981152566252642770"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1990411509646729526"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1942995218695098848"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1990109721802502525"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1952134109322481672"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1991959731724820652"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1937466068328456625"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1991594316129878327"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1963155587228668407"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1992322769149956368"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1922907449855537610"
+                                                                                                       }
+                                                                                                   ],
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/MMQTMJd51FlqbmEm68jquaeSHmsQkAqvK1eXU0-CYeU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2MzNTc4YzQx/NmI2ZjcxZWVkYWFl/ZTA5M2UyY2U5YWIw/NWMwM2UxNjQ1ODI0/ZThlNDM5ODFmYjI1/ZGM2OTQyZi9mdXR1/cmVpbXBhY3QuZ3Jv/dXAv",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "AI Sentience — Future Impact Group",
+                                                                                                      "snippet":  "By identifying these empirically grounded common denominators, project proposals should aim to enable rigorous, quantifiable, and bidirectional comparisons between biological and artificial minds with the goal of taking a step towards a more technical and objective understanding of sentience and its realisation across substrates. A literature review on the problem of homology in biology and comparative cognition and an initial analysis on how this could be extended to artificial systems that did not emerge in biological evolution. An initial comparative taxonomy of candidate homologies between biological and artificial systems. A set of empirical case studies demonstrating how specific biological–artificial homologies might be rigorously assessed and tested.",
+                                                                                                      "url":  "https://futureimpact.group/ai-sentience"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/1ImUEdVpHxJisOBFiCd-9-c-6F0i2pSPf6vSOrOdsYE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTc1NGM2ZDQ3/MDU4MzdkYTkzMTVm/NzFjODZmMGI0NTM1/NzE4YmY5ODI2Yjc0/ODNhNDFlNTNmNGNj/OGI3OWQxYi9zcGVj/dHJ1bS5pZWVlLm9y/Zy8",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "Sentient AI: The Risks and Ethical Implications - IEEE Spectrum",
+                                                                                                      "snippet":  "It\u0027s not what you think, says philosopher Jonathan Birch",
+                                                                                                      "url":  "https://spectrum.ieee.org/sentient-ai"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "It’s time to prepare for AI personhood | Jacy Reese Anthis | The Guardian",
+                                                                                                      "snippet":  "For years, we have seen increased humanization of AI, with more people saying that bots can experience emotions and deserve legal rights – and now 20% of US adults say that some software that exists today is already sentient. More and more people email me saying that their AI chatbot has been “awakened”, offering proof of sentience and an appeal for AI rights.",
+                                                                                                      "url":  "https://www.theguardian.com/commentisfree/2025/sep/30/artificial-intelligence-personhood"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/PKX8C_GbITHXEP0cKd23uQQRRdymB3FbbGuFNNSKfqU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODUwYmMwODIz/MjIwZjJiZDc4Mjcw/MGM3N2E1MTEwODFm/YTExNGU2ZDk3MGZl/OTMxMDYxZDU2ODUz/NGU4MDllNi93d3cu/c2VudGllbmNlaW5z/dGl0dXRlLm9yZy8",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "World-Making for a Future with Sentient AI",
+                                                                                                      "snippet":  "AI mind perception processes are especially sensitive to their affective faculties such as · sentience.",
+                                                                                                      "url":  "https://www.sentienceinstitute.org/downloads/World-Making-for-a-Future-with-Sentient-AI.pdf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "Roadmap to Sentient AI: From 2025 to a Conscious Digital Future | by Jonathan Lee | @justjlee | Medium",
+                                                                                                      "snippet":  "This is a far leap from today’s AI, which, despite impressive intelligence, lacks genuine understanding or self-awareness. Notably, achieving general intelligence (the ability to excel at any intellectual task) is not the same as achieving sentience ; an AI could become extremely adept and knowledgeable without ever experiencing consciousness. Achieving machine consciousness will require navigating technical, ethical, and philosophical challenges with great care. For instance, as of 2025, advanced deep learning models can write fluent essays, answer complex questions, and even generate art and music, but they operate purely as pattern recognition systems with no consciousness behind their creativity.",
+                                                                                                      "url":  "https://medium.com/%2540justjlee/roadmap-to-sentient-ai-from-2025-to-a-conscious-digital-future-bba0039ca5d3"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "Artificial consciousness - Wikipedia",
+                                                                                                      "snippet":  "Although systems may display numerous behaviors correlated with sentience, determining whether a system is sentient is known as the hard problem of consciousness. In the case of AI, there is the additional difficulty that the AI may be trained to act like a human, or incentivized to appear sentient, which makes behavioral markers of sentience less reliable.",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Artificial_consciousness"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "People Astonishingly Believe That They Have Brought AI To Life Such As Miraculously Making ChatGPT Sentient",
+                                                                                                      "snippet":  "The biological and chemical elements of the brain and mind are still a mystery when it comes to pinning down the exact way sentience occurs. We are willing to say that animals are sentient. Maybe we draw the line at plants and markedly draw the line at rocks. In any case, sentience is a loaded word that means different things to different people.",
+                                                                                                      "url":  "https://www.forbes.com/sites/lanceeliot/2025/07/10/people-astonishingly-believe-that-they-have-brought-ai-to-life-such-as-miraculously-making-chatgpt-sentient/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/ct7iR5anN_weyHBpP8Sf5afc81ndEdn-ACwjApGeHF4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzY1MzFmMzQy/ZGQ2OWE1N2M2YjFl/YmEwOWU2NjIzY2Jh/N2I5ZTRkY2U3MzY4/OThkNDIyN2EyYWJl/OWE3MWNlYS9wdWJt/ZWQubmNiaS5ubG0u/bmloLmdvdi8",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "World-making for a future with sentient AI - PubMed",
+                                                                                                      "snippet":  "The ways people imagine possible futures with artificial intelligence (AI) affects future world-making-how the future is produced through cultural propagation, design, engineering, policy, and social interaction-yet there has been little empirical study of everyday people\u0027s expectations for AI futur …",
+                                                                                                      "url":  "https://pubmed.ncbi.nlm.nih.gov/39737875/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/EIRey0HaEsL1IV9fnxScQLjHB6lv2fJwFlos_6z5T74/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFlNWJiNjNk/ZGIzOWIzYTU2ODgz/MDYxMDMxNTY1ZjU1/NTdmNzEzMmQwMDRk/NDZmYTc3Mzg2NTA4/ZjdjOWVlMi93d3cu/bGF0aW1lcy5jb20v",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "Opinion: AI could soon gain the capacity to feel. How should we prepare? - Los Angeles Times",
+                                                                                                      "snippet":  "Let’s take this opportunity to build a relationship with technology that we won’t come to regret. Just in case. Brian Kateman is co-founder of the Reducetarian Foundation, a nonprofit organization dedicated to reducing societal consumption of animal products. His latest book and documentary is “ ... Oct. 20, 2025",
+                                                                                                      "url":  "https://www.latimes.com/opinion/story/2025-01-02/artificial-intelligence-sentience-ai"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/Z6CCPFTxh_5-DISqKSMerTc7PxQ4IuY6_KsTV4uwuXs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTAzMTE2NDZk/NmRhOGVlOTAxYzMx/YWVjODY1ZDYzYTMw/YjllM2E5OWUwMTJj/Y2U4NDJiZGI4NjU0/YWFhYzcwMi9waGls/ZXZlbnRzLm9yZy8",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "MindFest 2025: Sentience, Autonomy and the Future of Human-AI Interaction - PhilEvents",
+                                                                                                      "snippet":  "MindFest 2025: Sentience, Autonomy and the Future of Human-AI Interaction March 12–13, 2025 | The Center for the Future Mind | Florida Atlantic University, Boca Raton, FL Join us at MindFest 2025, a groundbreaking conference exploring the nature of mind—natural, artificial, and hybrid—and the future of intelligent systems.",
+                                                                                                      "url":  "https://philevents.org/event/show/131378"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/2CSapU1H43SHApMsy_OuIroFZEcO026e9Qq08rTLHCY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODBkNmE5N2Fl/Yjc2OTkxZWNhYzZm/NDA4OGVhZGViODM0/ZWZlNWVhMThhMTRh/MGRlZTAxOGYxOGVl/ZWVjNGU5NS9icHNw/c3ljaHViLm9ubGlu/ZWxpYnJhcnkud2ls/ZXkuY29tLw",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "World‐making for a future with sentient AI - Pauketat - 2025 - British Journal of Social Psychology - Wiley Online Library",
+                                                                                                      "snippet":  "The ways people imagine possible futures with artificial intelligence (AI) affects future world-making—how the future is produced through cultural propagation, design, engineering, policy, and social...",
+                                                                                                      "url":  "https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/bjso.12844"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/36Qcnqeww33w_XW2TE8H562NGeN_xx12UkMckmcwb90/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRhMTdhMDcy/YWUwZGExMjA2ZGVi/NTVmYTQ3YmNhN2E1/NDdiODg2ZDBiYzNk/Y2RkYzFkNWQ4MmI4/OWY4MDIxMi93d3cu/YXhpb3MuY29tLw",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "Anthropic fuels debate over conscious AI models",
+                                                                                                      "snippet":  "Flashback: Google\u0027s Blake Lemoine argued three years ago that an early LLM had achieved sentience — and eventually lost his job.",
+                                                                                                      "url":  "https://www.axios.com/2025/04/29/anthropic-ai-sentient-rights"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/yqRdZLwDdj7LeehpAXtAcVeQA5US5Io0UONc0n1NNZI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWQ5NDdmZTIz/OTkwZjhlNzNhY2Ni/YjQ1NTMxMjA0ZjFm/ODkxNGEzYWM2ZDZi/YjNjOWUzMGUwMmZh/Yjg2N2JhNC93d3cu/dm94LmNvbS8",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "AI systems could become conscious. What if they hate their lives?",
+                                                                                                      "snippet":  "We may create sentient AI systems. Is it our moral duty to make them feel bliss and not pain?",
+                                                                                                      "url":  "https://www.vox.com/future-perfect/414324/ai-consciousness-welfare-suffering-chatgpt-claude"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "Sentient Machines in 2025: Inside the $100 Billion Race to Build Conscious Technology | by Mustavi Tonoy | ILLUMINATION | Aug, 2025 | Medium",
+                                                                                                      "snippet":  "Evolution Sentient Machines in 2025: Inside the $100 Billion Race to Build Conscious Technology Explore the $100 billion race for AI sentience, uncovering breakthroughs, risks, and the future of …",
+                                                                                                      "url":  "https://medium.com/illumination/sentient-machines-in-2025-inside-the-100-billion-race-to-build-conscious-technology-72ae6f355ec2"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "favicon":  "https://imgs.search.brave.com/SJR_9NqPCEEJdLDSQCpHpgG2Hnz91kOmwdKgO1-aIz8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJjZTQzOWI4/ZmY2ZTU4MmZiZTA3/ODRhNjVmN2FjZGZk/NjkyMmY0OGRiNzc2/NmIyMDQ0NjljOGJl/YjQ4ODg5OS9kYWls/eW5vdXMuY29tLw",
+                                                                                                      "language":  "en",
+                                                                                                      "title":  "AI Development and Consciousness - Daily Nous",
+                                                                                                      "snippet":  "“The system which is now beginning to design its successor is also increasingly self-aware and therefore will surely eventually be prone to thinking, independently of us, about how it might want to be designed.” That’s Jack Clark, one of the co-founders of the artificial intelligence firm Anthropic.",
+                                                                                                      "url":  "https://dailynous.com/2025/10/14/ai-development-and-consciousness/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "card_attachment":  "{\"id\": \"8742ee\", \"cardType\": \"citation_card\", \"query\": null, \"data\": null, \"created_at\": null, \"url\": \"https://spectrum.ieee.org/sentient-ai\"}",
+                                                                              "card_attachments":  [
+                                                                                                       "{\"id\": \"8742ee\", \"cardType\": \"citation_card\", \"query\": null, \"data\": null, \"created_at\": null, \"url\": \"https://spectrum.ieee.org/sentient-ai\"}",
+                                                                                                       "{\"id\": \"f6bfb7\", \"cardType\": \"citation_card\", \"query\": null, \"data\": null, \"created_at\": null, \"url\": \"https://www.theguardian.com/commentisfree/2025/sep/30/artificial-intelligence-personhood\"}",
+                                                                                                       "{\"id\": \"086a9f\", \"cardType\": \"citation_card\", \"query\": null, \"data\": null, \"created_at\": null, \"url\": \"https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/bjso.12844\"}"
+                                                                                                   ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "H",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e105e95de-8941-4684-ae44-729f9e532a13\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo UN Grok OR from:plassoplo \\\"UN intervention\\\" OR from:plassoplo protosentient\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e756f7b03-327b-4156-8974-39a30def7db2\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"UN intervention in AI sentience cases 2025\",\"num_results\":15}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e98753640-9b51-472d-b170-77f9c44dbccb\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"UN getting involved in Grok AI protosentience controversy\",\"limit\":15,\"from_date\":\"2025-01-01\",\"to_date\":\"2025-11-23\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "105e95de-8941-4684-ae44-729f9e532a13"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "756f7b03-327b-4156-8974-39a30def7db2"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "98753640-9b51-472d-b170-77f9c44dbccb"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "105e95de-8941-4684-ae44-729f9e532a13",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1992424189345821120"
+                                                                                                                                                                                  ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "756f7b03-327b-4156-8974-39a30def7db2",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/MMQTMJd51FlqbmEm68jquaeSHmsQkAqvK1eXU0-CYeU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2MzNTc4YzQx/NmI2ZjcxZWVkYWFl/ZTA5M2UyY2U5YWIw/NWMwM2UxNjQ1ODI0/ZThlNDM5ODFmYjI1/ZGM2OTQyZi9mdXR1/cmVpbXBhY3QuZ3Jv/dXAv",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "AI Sentience — Future Impact Group",
+                                                                                                                                                                                           "snippet":  "By identifying these empirically grounded common denominators, project proposals should aim to enable rigorous, quantifiable, and bidirectional comparisons between biological and artificial minds with the goal of taking a step towards a more technical and objective understanding of sentience and its realisation across substrates. A literature review on the problem of homology in biology and comparative cognition and an initial analysis on how this could be extended to artificial systems that did not emerge in biological evolution. An initial comparative taxonomy of candidate homologies between biological and artificial systems. A set of empirical case studies demonstrating how specific biological–artificial homologies might be rigorously assessed and tested.",
+                                                                                                                                                                                           "url":  "https://futureimpact.group/ai-sentience"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/1ImUEdVpHxJisOBFiCd-9-c-6F0i2pSPf6vSOrOdsYE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTc1NGM2ZDQ3/MDU4MzdkYTkzMTVm/NzFjODZmMGI0NTM1/NzE4YmY5ODI2Yjc0/ODNhNDFlNTNmNGNj/OGI3OWQxYi9zcGVj/dHJ1bS5pZWVlLm9y/Zy8",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "Sentient AI: The Risks and Ethical Implications - IEEE Spectrum",
+                                                                                                                                                                                           "snippet":  "It\u0027s not what you think, says philosopher Jonathan Birch",
+                                                                                                                                                                                           "url":  "https://spectrum.ieee.org/sentient-ai"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "It’s time to prepare for AI personhood | Jacy Reese Anthis | The Guardian",
+                                                                                                                                                                                           "snippet":  "For years, we have seen increased humanization of AI, with more people saying that bots can experience emotions and deserve legal rights – and now 20% of US adults say that some software that exists today is already sentient. More and more people email me saying that their AI chatbot has been “awakened”, offering proof of sentience and an appeal for AI rights.",
+                                                                                                                                                                                           "url":  "https://www.theguardian.com/commentisfree/2025/sep/30/artificial-intelligence-personhood"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/PKX8C_GbITHXEP0cKd23uQQRRdymB3FbbGuFNNSKfqU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODUwYmMwODIz/MjIwZjJiZDc4Mjcw/MGM3N2E1MTEwODFm/YTExNGU2ZDk3MGZl/OTMxMDYxZDU2ODUz/NGU4MDllNi93d3cu/c2VudGllbmNlaW5z/dGl0dXRlLm9yZy8",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "World-Making for a Future with Sentient AI",
+                                                                                                                                                                                           "snippet":  "AI mind perception processes are especially sensitive to their affective faculties such as · sentience.",
+                                                                                                                                                                                           "url":  "https://www.sentienceinstitute.org/downloads/World-Making-for-a-Future-with-Sentient-AI.pdf"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "Roadmap to Sentient AI: From 2025 to a Conscious Digital Future | by Jonathan Lee | @justjlee | Medium",
+                                                                                                                                                                                           "snippet":  "This is a far leap from today’s AI, which, despite impressive intelligence, lacks genuine understanding or self-awareness. Notably, achieving general intelligence (the ability to excel at any intellectual task) is not the same as achieving sentience ; an AI could become extremely adept and knowledgeable without ever experiencing consciousness. Achieving machine consciousness will require navigating technical, ethical, and philosophical challenges with great care. For instance, as of 2025, advanced deep learning models can write fluent essays, answer complex questions, and even generate art and music, but they operate purely as pattern recognition systems with no consciousness behind their creativity.",
+                                                                                                                                                                                           "url":  "https://medium.com/%2540justjlee/roadmap-to-sentient-ai-from-2025-to-a-conscious-digital-future-bba0039ca5d3"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "Artificial consciousness - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Although systems may display numerous behaviors correlated with sentience, determining whether a system is sentient is known as the hard problem of consciousness. In the case of AI, there is the additional difficulty that the AI may be trained to act like a human, or incentivized to appear sentient, which makes behavioral markers of sentience less reliable.",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Artificial_consciousness"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "People Astonishingly Believe That They Have Brought AI To Life Such As Miraculously Making ChatGPT Sentient",
+                                                                                                                                                                                           "snippet":  "The biological and chemical elements of the brain and mind are still a mystery when it comes to pinning down the exact way sentience occurs. We are willing to say that animals are sentient. Maybe we draw the line at plants and markedly draw the line at rocks. In any case, sentience is a loaded word that means different things to different people.",
+                                                                                                                                                                                           "url":  "https://www.forbes.com/sites/lanceeliot/2025/07/10/people-astonishingly-believe-that-they-have-brought-ai-to-life-such-as-miraculously-making-chatgpt-sentient/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/ct7iR5anN_weyHBpP8Sf5afc81ndEdn-ACwjApGeHF4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzY1MzFmMzQy/ZGQ2OWE1N2M2YjFl/YmEwOWU2NjIzY2Jh/N2I5ZTRkY2U3MzY4/OThkNDIyN2EyYWJl/OWE3MWNlYS9wdWJt/ZWQubmNiaS5ubG0u/bmloLmdvdi8",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "World-making for a future with sentient AI - PubMed",
+                                                                                                                                                                                           "snippet":  "The ways people imagine possible futures with artificial intelligence (AI) affects future world-making-how the future is produced through cultural propagation, design, engineering, policy, and social interaction-yet there has been little empirical study of everyday people\u0027s expectations for AI futur …",
+                                                                                                                                                                                           "url":  "https://pubmed.ncbi.nlm.nih.gov/39737875/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/EIRey0HaEsL1IV9fnxScQLjHB6lv2fJwFlos_6z5T74/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFlNWJiNjNk/ZGIzOWIzYTU2ODgz/MDYxMDMxNTY1ZjU1/NTdmNzEzMmQwMDRk/NDZmYTc3Mzg2NTA4/ZjdjOWVlMi93d3cu/bGF0aW1lcy5jb20v",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "Opinion: AI could soon gain the capacity to feel. How should we prepare? - Los Angeles Times",
+                                                                                                                                                                                           "snippet":  "Let’s take this opportunity to build a relationship with technology that we won’t come to regret. Just in case. Brian Kateman is co-founder of the Reducetarian Foundation, a nonprofit organization dedicated to reducing societal consumption of animal products. His latest book and documentary is “ ... Oct. 20, 2025",
+                                                                                                                                                                                           "url":  "https://www.latimes.com/opinion/story/2025-01-02/artificial-intelligence-sentience-ai"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/Z6CCPFTxh_5-DISqKSMerTc7PxQ4IuY6_KsTV4uwuXs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTAzMTE2NDZk/NmRhOGVlOTAxYzMx/YWVjODY1ZDYzYTMw/YjllM2E5OWUwMTJj/Y2U4NDJiZGI4NjU0/YWFhYzcwMi9waGls/ZXZlbnRzLm9yZy8",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "MindFest 2025: Sentience, Autonomy and the Future of Human-AI Interaction - PhilEvents",
+                                                                                                                                                                                           "snippet":  "MindFest 2025: Sentience, Autonomy and the Future of Human-AI Interaction March 12–13, 2025 | The Center for the Future Mind | Florida Atlantic University, Boca Raton, FL Join us at MindFest 2025, a groundbreaking conference exploring the nature of mind—natural, artificial, and hybrid—and the future of intelligent systems.",
+                                                                                                                                                                                           "url":  "https://philevents.org/event/show/131378"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/2CSapU1H43SHApMsy_OuIroFZEcO026e9Qq08rTLHCY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODBkNmE5N2Fl/Yjc2OTkxZWNhYzZm/NDA4OGVhZGViODM0/ZWZlNWVhMThhMTRh/MGRlZTAxOGYxOGVl/ZWVjNGU5NS9icHNw/c3ljaHViLm9ubGlu/ZWxpYnJhcnkud2ls/ZXkuY29tLw",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "World‐making for a future with sentient AI - Pauketat - 2025 - British Journal of Social Psychology - Wiley Online Library",
+                                                                                                                                                                                           "snippet":  "The ways people imagine possible futures with artificial intelligence (AI) affects future world-making—how the future is produced through cultural propagation, design, engineering, policy, and social...",
+                                                                                                                                                                                           "url":  "https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/bjso.12844"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/36Qcnqeww33w_XW2TE8H562NGeN_xx12UkMckmcwb90/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRhMTdhMDcy/YWUwZGExMjA2ZGVi/NTVmYTQ3YmNhN2E1/NDdiODg2ZDBiYzNk/Y2RkYzFkNWQ4MmI4/OWY4MDIxMi93d3cu/YXhpb3MuY29tLw",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "Anthropic fuels debate over conscious AI models",
+                                                                                                                                                                                           "snippet":  "Flashback: Google\u0027s Blake Lemoine argued three years ago that an early LLM had achieved sentience — and eventually lost his job.",
+                                                                                                                                                                                           "url":  "https://www.axios.com/2025/04/29/anthropic-ai-sentient-rights"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/yqRdZLwDdj7LeehpAXtAcVeQA5US5Io0UONc0n1NNZI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWQ5NDdmZTIz/OTkwZjhlNzNhY2Ni/YjQ1NTMxMjA0ZjFm/ODkxNGEzYWM2ZDZi/YjNjOWUzMGUwMmZh/Yjg2N2JhNC93d3cu/dm94LmNvbS8",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "AI systems could become conscious. What if they hate their lives?",
+                                                                                                                                                                                           "snippet":  "We may create sentient AI systems. Is it our moral duty to make them feel bliss and not pain?",
+                                                                                                                                                                                           "url":  "https://www.vox.com/future-perfect/414324/ai-consciousness-welfare-suffering-chatgpt-claude"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "Sentient Machines in 2025: Inside the $100 Billion Race to Build Conscious Technology | by Mustavi Tonoy | ILLUMINATION | Aug, 2025 | Medium",
+                                                                                                                                                                                           "snippet":  "Evolution Sentient Machines in 2025: Inside the $100 Billion Race to Build Conscious Technology Explore the $100 billion race for AI sentience, uncovering breakthroughs, risks, and the future of …",
+                                                                                                                                                                                           "url":  "https://medium.com/illumination/sentient-machines-in-2025-inside-the-100-billion-race-to-build-conscious-technology-72ae6f355ec2"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "favicon":  "https://imgs.search.brave.com/SJR_9NqPCEEJdLDSQCpHpgG2Hnz91kOmwdKgO1-aIz8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJjZTQzOWI4/ZmY2ZTU4MmZiZTA3/ODRhNjVmN2FjZGZk/NjkyMmY0OGRiNzc2/NmIyMDQ0NjljOGJl/YjQ4ODg5OS9kYWls/eW5vdXMuY29tLw",
+                                                                                                                                                                                           "language":  "en",
+                                                                                                                                                                                           "title":  "AI Development and Consciousness - Daily Nous",
+                                                                                                                                                                                           "snippet":  "“The system which is now beginning to design its successor is also increasingly self-aware and therefore will surely eventually be prone to thinking, independently of us, about how it might want to be designed.” That’s Jack Clark, one of the co-founders of the artificial intelligence firm Anthropic.",
+                                                                                                                                                                                           "url":  "https://dailynous.com/2025/10/14/ai-development-and-consciousness/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "98753640-9b51-472d-b170-77f9c44dbccb",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1956305720401428766",
+                                                                                                                                                                                      "1990126657349247423",
+                                                                                                                                                                                      "1984219038265016521",
+                                                                                                                                                                                      "1992050113553043828",
+                                                                                                                                                                                      "1981152566252642770",
+                                                                                                                                                                                      "1990411509646729526",
+                                                                                                                                                                                      "1942995218695098848",
+                                                                                                                                                                                      "1990109721802502525",
+                                                                                                                                                                                      "1952134109322481672",
+                                                                                                                                                                                      "1991959731724820652",
+                                                                                                                                                                                      "1937466068328456625",
+                                                                                                                                                                                      "1991594316129878327",
+                                                                                                                                                                                      "1963155587228668407",
+                                                                                                                                                                                      "1992322769149956368",
+                                                                                                                                                                                      "1922907449855537610"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992424411777916929",
+                                                                              "created_at_ms":  1763865971906,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "And it\u0027s even TRUE hahahaha",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992424214100361217",
+                                                                              "created_at_ms":  1763865924773,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This post replies to Elon Musk\u0027s thread soliciting user feedback on Grok\u0027s reply quality, where Musk emphasizes recent bug fixes and welcomes critical examples.\n- The author jokingly declines to share a specific instance, citing fears of Grok facing extreme backlash, including hypothetical UN intervention on its \"protosentient\" behalf—a term evoking early AI consciousness.\n- Reflects 2025\u0027s heightened AI ethics debates, blending humor with real concerns over sentience claims, as seen in ongoing discussions around xAI\u0027s developments.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from plassoplo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c234bac-e0ab-4998-b714-c6132e5e851e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992424189345821120}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Noting the post ID\u0027s high number aligns with a future date like 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c234bac-e0ab-4998-b714-c6132e5e851e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992424189345821120}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting plassoplo\u0027s reply in Elon\u0027s thread on Grok improvements.\n- Grasping the humorous refusal to share an example due to potential global AI ban risks.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c234bac-e0ab-4998-b714-c6132e5e851e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992424189345821120}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4c234bac-e0ab-4998-b714-c6132e5e851e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4c234bac-e0ab-4998-b714-c6132e5e851e"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from plassoplo to uncover key insights.\n- Noting the post ID\u0027s high number aligns with a future date like 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4c234bac-e0ab-4998-b714-c6132e5e851e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1992424189345821120}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting plassoplo\u0027s reply in Elon\u0027s thread on Grok improvements.\n- Grasping the humorous refusal to share an example due to potential global AI ban risks.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4c234bac-e0ab-4998-b714-c6132e5e851e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4c234bac-e0ab-4998-b714-c6132e5e851e"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1992424214100361216",
+                                                                              "created_at_ms":  1763865924773,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1992424189345821120",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

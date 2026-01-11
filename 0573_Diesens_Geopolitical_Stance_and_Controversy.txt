@@ -1,0 +1,291 @@
+﻿# Grok Conversation Export
+# Title: Diesen’s Geopolitical Stance and Controversy
+# ID: 1989078192754213027
+# Extracted: 2026-01-02 05:34:32
+# URL: https://x.com/i/grok?conversation=1989078192754213027
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuaoBRBlkAAChRBAAABmn8NVNoAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1989078194297651201",
+                                                                              "created_at_ms":  1763068171482,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post defends Norwegian professor Glenn Diesen, a frequent critic of Western Ukraine policy, by attributing his public resilience to consistently accurate geopolitical predictions and covert support from original intelligence networks, amid accusations of him amplifying Kremlin narratives.\n- It alludes to \"stochastic\" risks—implying random, rhetoric-fueled violence that outspoken figures like Diesen might face without protection—reflecting broader tensions in Norway\u0027s polarized discourse on Russia, where Diesen recently expressed frustration with media attacks and considered emigrating.\n- Diesen\u0027s summer 2025 public controversies, including a heated debate with former defense minister Ine Marie Sereide and withdrawal from a political candidacy, underscore his shift from academia to high-visibility commentary, drawing both fervent support and sharp criticism for perceived pro-Russian bias.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1989078179328520462.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb4e975ce-b95c-4b20-b66e-692e6119134d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989078179328520462}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze it properly, I\u0027m fetching the post\u0027s content and any surrounding context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb4e975ce-b95c-4b20-b66e-692e6119134d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989078179328520462}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Turns out, this post is actually a reply in a larger thread starting with @AageB discussing Glenn Diesen.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e185e6208-1edc-4e34-ba65-f44b29b34e56\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G5nOzpFWgAAeo0Q.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef1b4f613-e52d-41cb-9f83-6fc528b4236a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- The post\u0027s text in Norwegian translates to: \"That\u0027s because he has been consistently right all the time. Solid support in OG intops and is therefore still safe. Stochastically speaking, he should have been gone long ago... Strange that.\"\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e185e6208-1edc-4e34-ba65-f44b29b34e56\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G5nOzpFWgAAeo0Q.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef1b4f613-e52d-41cb-9f83-6fc528b4236a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nAnalyzing image content- The image in the thread shows a screenshot of a post about a podcast featuring Glenn Diesen, discussing media bias and personal attacks during a debate with Ine Marie Sereide.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Prof Glenn Diesen\u0027s Deep Anguish Should be A Wake-Up Call for ...",
+                                                                                                      "snippet":  "Glenn Diesen is Professor of Political Science at the University of South-Eastern Norway (USN) and known widely for his numerous scholarly ...",
+                                                                                                      "url":  "https://countercurrents.org/2025/05/prof-glenn-diesens-deep-anguish-should-be-a-wake-up-call-for-fast-declining-european-democracy/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen: Europe\u0027s new political class is rejecting reality",
+                                                                                                      "snippet":  "Russia considers NATO\u0027s incursion into Ukraine to be an existential threat, yet Europe\u0027s political class continues to deny the risks.",
+                                                                                                      "url":  "https://maghrebi.org/2025/08/27/glenn-diesen-europes-new-political-class-is-rejecting-reality/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Party FOR: Glenn Diesen is withdrawing as the top candidate in ...",
+                                                                                                      "snippet":  "There\u0027s a big difference between personal attacks and legitimate criticism of a person\u0027s views, political opinions, or spreading misinformation.",
+                                                                                                      "url":  "https://www.reddit.com/r/norge/comments/1l0ikex/partiet_for_glenn_diesen_trekker_seg_som/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Kremlin Shady Horse\u0027s: Glenn Diesen |",
+                                                                                                      "snippet":  "The project \"Shady Horses\" delves into investigating Russian propaganda dissemination within Western countries through prominent individuals ...",
+                                                                                                      "url":  "https://uacrisis.org/en/kremlin-shady-horse-glenn-diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Peace and Justice (Norway) - Wikipedia",
+                                                                                                      "snippet":  "Peace and Justice is a Norwegian political party registered in 2024. It was founded in May 2023 by Marielle Leraand [no], the former deputy leader of the ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Peace_and_Justice_%2528Norway%2529"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Destroying Ukraine with Idealism - Brave New Europe",
+                                                                                                      "snippet":  "The most appealing and dangerous idealist argument that destroyed Ukraine is that it has the right to join any military alliance it desires.",
+                                                                                                      "url":  "https://braveneweurope.com/glenn-diesen-destroying-ukraine-with-idealism"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jeffrey Sachs in Conversation with Prof. Glenn Diesen, The Ukraine ...",
+                                                                                                      "snippet":  "A very helpful book for people to read to understand the Dynamics of global change and the reasons for the Ukraine war.",
+                                                                                                      "url":  "https://www.reddit.com/r/chomsky/comments/1hy3nvc/jeffrey_sachs_in_conversation_with_prof_glenn/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                      "snippet":  "Professor, University of South-Eastern Norway. AUTHOR IDs: SPIN RSCI: 7360-7425 ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018 Scopus AuthorID",
+                                                                                                      "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "A geopolitician perspective - Press TV",
+                                                                                                      "snippet":  "This episode centers on Eurasian integration and the evolving role of conservatism in global politics.",
+                                                                                                      "url":  "https://www.presstv.ir/Detail/2025/08/16/753230/A-Geopolitician-Perspectives"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Prof Glenn Diesen\u0027s Deep Anguish Should be A Wake-Up Call for ...",
+                                                                                                      "snippet":  "Glenn Diesen is Professor of Political Science at the University of South-Eastern Norway (USN) and known widely for his numerous scholarly ...",
+                                                                                                      "url":  "https://countercurrents.org/2025/05/prof-glenn-diesens-deep-anguish-should-be-a-wake-up-call-for-fast-declining-european-democracy/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen: Europe\u0027s new political class is rejecting reality",
+                                                                                                      "snippet":  "Russia considers NATO\u0027s incursion into Ukraine to be an existential threat, yet Europe\u0027s political class continues to deny the risks.",
+                                                                                                      "url":  "https://maghrebi.org/2025/08/27/glenn-diesen-europes-new-political-class-is-rejecting-reality/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Party FOR: Glenn Diesen is withdrawing as the top candidate in ...",
+                                                                                                      "snippet":  "There\u0027s a big difference between personal attacks and legitimate criticism of a person\u0027s views, political opinions, or spreading misinformation.",
+                                                                                                      "url":  "https://www.reddit.com/r/norge/comments/1l0ikex/partiet_for_glenn_diesen_trekker_seg_som/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Kremlin Shady Horse\u0027s: Glenn Diesen |",
+                                                                                                      "snippet":  "The project \"Shady Horses\" delves into investigating Russian propaganda dissemination within Western countries through prominent individuals ...",
+                                                                                                      "url":  "https://uacrisis.org/en/kremlin-shady-horse-glenn-diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Peace and Justice (Norway) - Wikipedia",
+                                                                                                      "snippet":  "Peace and Justice is a Norwegian political party registered in 2024. It was founded in May 2023 by Marielle Leraand [no], the former deputy leader of the ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Peace_and_Justice_%2528Norway%2529"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Destroying Ukraine with Idealism - Brave New Europe",
+                                                                                                      "snippet":  "The most appealing and dangerous idealist argument that destroyed Ukraine is that it has the right to join any military alliance it desires.",
+                                                                                                      "url":  "https://braveneweurope.com/glenn-diesen-destroying-ukraine-with-idealism"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jeffrey Sachs in Conversation with Prof. Glenn Diesen, The Ukraine ...",
+                                                                                                      "snippet":  "A very helpful book for people to read to understand the Dynamics of global change and the reasons for the Ukraine war.",
+                                                                                                      "url":  "https://www.reddit.com/r/chomsky/comments/1hy3nvc/jeffrey_sachs_in_conversation_with_prof_glenn/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                      "snippet":  "Professor, University of South-Eastern Norway. AUTHOR IDs: SPIN RSCI: 7360-7425 ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018 Scopus AuthorID",
+                                                                                                      "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "A geopolitician perspective - Press TV",
+                                                                                                      "snippet":  "This episode centers on Eurasian integration and the evolving role of conservatism in global politics.",
+                                                                                                      "url":  "https://www.presstv.ir/Detail/2025/08/16/753230/A-Geopolitician-Perspectives"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb4e975ce-b95c-4b20-b66e-692e6119134d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989078179328520462}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e185e6208-1edc-4e34-ba65-f44b29b34e56\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G5nOzpFWgAAeo0Q.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef1b4f613-e52d-41cb-9f83-6fc528b4236a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b4e975ce-b95c-4b20-b66e-692e6119134d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b4e975ce-b95c-4b20-b66e-692e6119134d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "185e6208-1edc-4e34-ba65-f44b29b34e56"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f1b4f613-e52d-41cb-9f83-6fc528b4236a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f1b4f613-e52d-41cb-9f83-6fc528b4236a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Prof Glenn Diesen\u0027s Deep Anguish Should be A Wake-Up Call for ...",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen is Professor of Political Science at the University of South-Eastern Norway (USN) and known widely for his numerous scholarly ...",
+                                                                                                                                                                                           "url":  "https://countercurrents.org/2025/05/prof-glenn-diesens-deep-anguish-should-be-a-wake-up-call-for-fast-declining-european-democracy/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen: Europe\u0027s new political class is rejecting reality",
+                                                                                                                                                                                           "snippet":  "Russia considers NATO\u0027s incursion into Ukraine to be an existential threat, yet Europe\u0027s political class continues to deny the risks.",
+                                                                                                                                                                                           "url":  "https://maghrebi.org/2025/08/27/glenn-diesen-europes-new-political-class-is-rejecting-reality/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Party FOR: Glenn Diesen is withdrawing as the top candidate in ...",
+                                                                                                                                                                                           "snippet":  "There\u0027s a big difference between personal attacks and legitimate criticism of a person\u0027s views, political opinions, or spreading misinformation.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/norge/comments/1l0ikex/partiet_for_glenn_diesen_trekker_seg_som/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Kremlin Shady Horse\u0027s: Glenn Diesen |",
+                                                                                                                                                                                           "snippet":  "The project \"Shady Horses\" delves into investigating Russian propaganda dissemination within Western countries through prominent individuals ...",
+                                                                                                                                                                                           "url":  "https://uacrisis.org/en/kremlin-shady-horse-glenn-diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Peace and Justice (Norway) - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Peace and Justice is a Norwegian political party registered in 2024. It was founded in May 2023 by Marielle Leraand [no], the former deputy leader of the ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Peace_and_Justice_%2528Norway%2529"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Destroying Ukraine with Idealism - Brave New Europe",
+                                                                                                                                                                                           "snippet":  "The most appealing and dangerous idealist argument that destroyed Ukraine is that it has the right to join any military alliance it desires.",
+                                                                                                                                                                                           "url":  "https://braveneweurope.com/glenn-diesen-destroying-ukraine-with-idealism"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jeffrey Sachs in Conversation with Prof. Glenn Diesen, The Ukraine ...",
+                                                                                                                                                                                           "snippet":  "A very helpful book for people to read to understand the Dynamics of global change and the reasons for the Ukraine war.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/chomsky/comments/1hy3nvc/jeffrey_sachs_in_conversation_with_prof_glenn/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                                                                                                           "snippet":  "Professor, University of South-Eastern Norway. AUTHOR IDs: SPIN RSCI: 7360-7425 ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018 Scopus AuthorID",
+                                                                                                                                                                                           "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "A geopolitician perspective - Press TV",
+                                                                                                                                                                                           "snippet":  "This episode centers on Eurasian integration and the evolving role of conservatism in global politics.",
+                                                                                                                                                                                           "url":  "https://www.presstv.ir/Detail/2025/08/16/753230/A-Geopolitician-Perspectives"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1989078179328520462.\n- To analyze it properly, I\u0027m fetching the post\u0027s content and any surrounding context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb4e975ce-b95c-4b20-b66e-692e6119134d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989078179328520462}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Turns out, this post is actually a reply in a larger thread starting with @AageB discussing Glenn Diesen.\n- The post\u0027s text in Norwegian translates to: \"That\u0027s because he has been consistently right all the time. Solid support in OG intops and is therefore still safe. Stochastically speaking, he should have been gone long ago... Strange that.\"\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e185e6208-1edc-4e34-ba65-f44b29b34e56\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G5nOzpFWgAAeo0Q.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef1b4f613-e52d-41cb-9f83-6fc528b4236a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b4e975ce-b95c-4b20-b66e-692e6119134d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b4e975ce-b95c-4b20-b66e-692e6119134d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "185e6208-1edc-4e34-ba65-f44b29b34e56"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f1b4f613-e52d-41cb-9f83-6fc528b4236a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f1b4f613-e52d-41cb-9f83-6fc528b4236a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Prof Glenn Diesen\u0027s Deep Anguish Should be A Wake-Up Call for ...",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen is Professor of Political Science at the University of South-Eastern Norway (USN) and known widely for his numerous scholarly ...",
+                                                                                                                                                                                           "url":  "https://countercurrents.org/2025/05/prof-glenn-diesens-deep-anguish-should-be-a-wake-up-call-for-fast-declining-european-democracy/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen: Europe\u0027s new political class is rejecting reality",
+                                                                                                                                                                                           "snippet":  "Russia considers NATO\u0027s incursion into Ukraine to be an existential threat, yet Europe\u0027s political class continues to deny the risks.",
+                                                                                                                                                                                           "url":  "https://maghrebi.org/2025/08/27/glenn-diesen-europes-new-political-class-is-rejecting-reality/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Party FOR: Glenn Diesen is withdrawing as the top candidate in ...",
+                                                                                                                                                                                           "snippet":  "There\u0027s a big difference between personal attacks and legitimate criticism of a person\u0027s views, political opinions, or spreading misinformation.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/norge/comments/1l0ikex/partiet_for_glenn_diesen_trekker_seg_som/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Kremlin Shady Horse\u0027s: Glenn Diesen |",
+                                                                                                                                                                                           "snippet":  "The project \"Shady Horses\" delves into investigating Russian propaganda dissemination within Western countries through prominent individuals ...",
+                                                                                                                                                                                           "url":  "https://uacrisis.org/en/kremlin-shady-horse-glenn-diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Peace and Justice (Norway) - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Peace and Justice is a Norwegian political party registered in 2024. It was founded in May 2023 by Marielle Leraand [no], the former deputy leader of the ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Peace_and_Justice_%2528Norway%2529"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Destroying Ukraine with Idealism - Brave New Europe",
+                                                                                                                                                                                           "snippet":  "The most appealing and dangerous idealist argument that destroyed Ukraine is that it has the right to join any military alliance it desires.",
+                                                                                                                                                                                           "url":  "https://braveneweurope.com/glenn-diesen-destroying-ukraine-with-idealism"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jeffrey Sachs in Conversation with Prof. Glenn Diesen, The Ukraine ...",
+                                                                                                                                                                                           "snippet":  "A very helpful book for people to read to understand the Dynamics of global change and the reasons for the Ukraine war.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/chomsky/comments/1hy3nvc/jeffrey_sachs_in_conversation_with_prof_glenn/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                                                                                                           "snippet":  "Professor, University of South-Eastern Norway. AUTHOR IDs: SPIN RSCI: 7360-7425 ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018 Scopus AuthorID",
+                                                                                                                                                                                           "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "A geopolitician perspective - Press TV",
+                                                                                                                                                                                           "snippet":  "This episode centers on Eurasian integration and the evolving role of conservatism in global politics.",
+                                                                                                                                                                                           "url":  "https://www.presstv.ir/Detail/2025/08/16/753230/A-Geopolitician-Perspectives"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing image content",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The image in the thread shows a screenshot of a post about a podcast featuring Glenn Diesen, discussing media bias and personal attacks during a debate with Ine Marie Sereide.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1989078194297651200",
+                                                                              "created_at_ms":  1763068171482,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1989078179328520462",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

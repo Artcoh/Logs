@@ -1,0 +1,308 @@
+﻿# Grok Conversation Export
+# Title: Beards, Masculinity, and Cultural Norms
+# ID: 1994378955827134951
+# Extracted: 2026-01-02 05:20:32
+# URL: https://x.com/i/grok?conversation=1994378955827134951
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhutdRg91iAAChRBAAABmsphZMoAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1994379272631320577",
+                                                                              "created_at_ms":  1764332047047,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Haha fair, you’re just out here observing the chaos like the rest of us 😂  \n\nSome dudes really do treat the beard like it’s load-bearing for their entire gender identity. Meanwhile others (you, apparently) are just trying to live without the razor giving them war flashbacks. Respect.",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994379272631320576",
+                                                                              "created_at_ms":  1764332047047,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Yo I\u0027m not the one into fucking that hard just to be clear. some are tho",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994378956972105729",
+                                                                              "created_at_ms":  1764331971786,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post replies to a meme recirculating a 2017 MailOnline article on Turkish preacher Murat Bayaral\u0027s claim that beardless men resemble women and incite \"indecent thoughts\" in others, with the original poster asking if the cleric is correct.\n- @plassoplo humorously attributes personal aversion to shaving—described as \"physiological pain and existential dread\"—to men \"fucking hard\" at masculinity, implying it masks blurred sexual boundaries.\n- Psychological studies support beard symbolism, including a 2016 Evolution and Human Behavior paper showing full beards enhance perceived dominance and maturity, potentially reinforcing cultural norms around gender and attraction.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from PlassoPlo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb188751-5c7d-47af-9c59-136f17eeeded\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994378912638685292}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Noting the post ID suggests it\u0027s from the recent past relative to 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb188751-5c7d-47af-9c59-136f17eeeded\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994378912638685292}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edecf5c49-50d5-4e59-b18d-349ae9762f23\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G4x5MwOX0AAUDsF.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Spotting the reply discusses beard removal causing deep existential dread in some men.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edecf5c49-50d5-4e59-b18d-349ae9762f23\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G4x5MwOX0AAUDsF.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e305252f3-ee5a-4381-8a61-c3d67533c561\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"studies on beards and perceived masculinity attraction\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e305252f3-ee5a-4381-8a61-c3d67533c561\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"studies on beards and perceived masculinity attraction\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eee1564e1-eef4-450d-8b22-25bb0c31468f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Turkish Islamic preacher men without beards cause indecent thoughts\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eee1564e1-eef4-450d-8b22-25bb0c31468f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Turkish Islamic preacher men without beards cause indecent thoughts\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Identifying the preacher as Murat Bayaral from a 2017 article on beards preventing indecent thoughts.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Men\u0027s Facial Hair Preferences Reflect Facial Hair Impression ...",
+                                                                                                      "snippet":  "Abstract. Men with distinct facial hair are perceived as more aggressive, dominant, older, and more formidable, mostly by other men.",
+                                                                                                      "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10501953/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Is beard the male makeup? An experimental study on trust ...",
+                                                                                                      "snippet":  "The findings reveal that a light stubble beard enhances perceived attractiveness, leading to an increase in trust, albeit not uniformly across all participants.",
+                                                                                                      "url":  "https://www.sciencedirect.com/science/article/pii/S0001691825000551"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Do Women Prefer Men With Beards? | Psychology Today",
+                                                                                                      "snippet":  "The women perceived male faces with full beards as the most masculine, aggressive, and socially mature; the women also thought these men looked older.",
+                                                                                                      "url":  "https://www.psychologytoday.com/us/blog/the-attraction-doctor/201607/do-women-prefer-men-with-beards"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The science behind attraction to beards - Numan",
+                                                                                                      "snippet":  "Beards are linked to increased perception of age, social status, aggressiveness, and masculinity. Studies show mixed results on attractiveness, but beards may ...",
+                                                                                                      "url":  "https://www.numan.com/beard/grooming/science-behind-attraction-to-beards"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The role of facial hair in women\u0027s perceptions of men\u0027s attractiveness ...",
+                                                                                                      "snippet":  "Our findings confirm that beardedness affects judgments of male socio-sexual attributes and suggest that an intermediate level of beardedness is most ...",
+                                                                                                      "url":  "https://www.researchgate.net/publication/257492193_The_role_of_facial_hair_in_women%2527s_perceptions_of_men%2527s_attractiveness_health_masculinity_and_parenting_abilities"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Men\u0027s Facial Hair Preferences Reflect Facial Hair Impression ...",
+                                                                                                      "snippet":  "Abstract. Men with distinct facial hair are perceived as more aggressive, dominant, older, and more formidable, mostly by other men.",
+                                                                                                      "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10501953/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Is beard the male makeup? An experimental study on trust ...",
+                                                                                                      "snippet":  "The findings reveal that a light stubble beard enhances perceived attractiveness, leading to an increase in trust, albeit not uniformly across all participants.",
+                                                                                                      "url":  "https://www.sciencedirect.com/science/article/pii/S0001691825000551"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Do Women Prefer Men With Beards? | Psychology Today",
+                                                                                                      "snippet":  "The women perceived male faces with full beards as the most masculine, aggressive, and socially mature; the women also thought these men looked older.",
+                                                                                                      "url":  "https://www.psychologytoday.com/us/blog/the-attraction-doctor/201607/do-women-prefer-men-with-beards"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The science behind attraction to beards - Numan",
+                                                                                                      "snippet":  "Beards are linked to increased perception of age, social status, aggressiveness, and masculinity. Studies show mixed results on attractiveness, but beards may ...",
+                                                                                                      "url":  "https://www.numan.com/beard/grooming/science-behind-attraction-to-beards"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The role of facial hair in women\u0027s perceptions of men\u0027s attractiveness ...",
+                                                                                                      "snippet":  "Our findings confirm that beardedness affects judgments of male socio-sexual attributes and suggest that an intermediate level of beardedness is most ...",
+                                                                                                      "url":  "https://www.researchgate.net/publication/257492193_The_role_of_facial_hair_in_women%2527s_perceptions_of_men%2527s_attractiveness_health_masculinity_and_parenting_abilities"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Men Without Beards Are Just Like Women, Preacher Says",
+                                                                                                      "snippet":  "You could be possessed by indecent thoughts,\" he explained, expressing fear that men might look at members of the same sex with sexual interest.",
+                                                                                                      "url":  "https://www.newsweek.com/men-beards-islam-religion-turkey-751079"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Shout Out To All My Bearded Comrades #beardlife - Instagram",
+                                                                                                      "snippet":  "Turkish Islamic preacher says men without beards cause indecent thoughts in other men because they look like women.",
+                                                                                                      "url":  "https://www.instagram.com/reel/DO4IefTjYsg/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Since 2017, Turkish preacher Murat Bayaral has sparked significant ...",
+                                                                                                      "snippet":  "If a man has a sexual desire for a shaved man because of his soft and hairless face, it is kinda sickness. to be honest beard is cool, ...",
+                                                                                                      "url":  "https://www.facebook.com/upsoclboysplayroom/posts/since-2017-turkish-preacher-murat-bayaral-has-sparked-significant-controversy-by/1177212314558372/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Men Without Beards Are Just Like Women, Preacher Says",
+                                                                                                      "snippet":  "You could be possessed by indecent thoughts,\" he explained, expressing fear that men might look at members of the same sex with sexual interest.",
+                                                                                                      "url":  "https://www.newsweek.com/men-beards-islam-religion-turkey-751079"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Shout Out To All My Bearded Comrades #beardlife - Instagram",
+                                                                                                      "snippet":  "Turkish Islamic preacher says men without beards cause indecent thoughts in other men because they look like women.",
+                                                                                                      "url":  "https://www.instagram.com/reel/DO4IefTjYsg/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Since 2017, Turkish preacher Murat Bayaral has sparked significant ...",
+                                                                                                      "snippet":  "If a man has a sexual desire for a shaved man because of his soft and hairless face, it is kinda sickness. to be honest beard is cool, ...",
+                                                                                                      "url":  "https://www.facebook.com/upsoclboysplayroom/posts/since-2017-turkish-preacher-murat-bayaral-has-sparked-significant-controversy-by/1177212314558372/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb188751-5c7d-47af-9c59-136f17eeeded\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994378912638685292}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edecf5c49-50d5-4e59-b18d-349ae9762f23\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G4x5MwOX0AAUDsF.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e305252f3-ee5a-4381-8a61-c3d67533c561\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"studies on beards and perceived masculinity attraction\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eee1564e1-eef4-450d-8b22-25bb0c31468f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Turkish Islamic preacher men without beards cause indecent thoughts\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db188751-5c7d-47af-9c59-136f17eeeded"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db188751-5c7d-47af-9c59-136f17eeeded"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "decf5c49-50d5-4e59-b18d-349ae9762f23"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "305252f3-ee5a-4381-8a61-c3d67533c561"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "305252f3-ee5a-4381-8a61-c3d67533c561",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Men\u0027s Facial Hair Preferences Reflect Facial Hair Impression ...",
+                                                                                                                                                                                           "snippet":  "Abstract. Men with distinct facial hair are perceived as more aggressive, dominant, older, and more formidable, mostly by other men.",
+                                                                                                                                                                                           "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10501953/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Is beard the male makeup? An experimental study on trust ...",
+                                                                                                                                                                                           "snippet":  "The findings reveal that a light stubble beard enhances perceived attractiveness, leading to an increase in trust, albeit not uniformly across all participants.",
+                                                                                                                                                                                           "url":  "https://www.sciencedirect.com/science/article/pii/S0001691825000551"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Do Women Prefer Men With Beards? | Psychology Today",
+                                                                                                                                                                                           "snippet":  "The women perceived male faces with full beards as the most masculine, aggressive, and socially mature; the women also thought these men looked older.",
+                                                                                                                                                                                           "url":  "https://www.psychologytoday.com/us/blog/the-attraction-doctor/201607/do-women-prefer-men-with-beards"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The science behind attraction to beards - Numan",
+                                                                                                                                                                                           "snippet":  "Beards are linked to increased perception of age, social status, aggressiveness, and masculinity. Studies show mixed results on attractiveness, but beards may ...",
+                                                                                                                                                                                           "url":  "https://www.numan.com/beard/grooming/science-behind-attraction-to-beards"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The role of facial hair in women\u0027s perceptions of men\u0027s attractiveness ...",
+                                                                                                                                                                                           "snippet":  "Our findings confirm that beardedness affects judgments of male socio-sexual attributes and suggest that an intermediate level of beardedness is most ...",
+                                                                                                                                                                                           "url":  "https://www.researchgate.net/publication/257492193_The_role_of_facial_hair_in_women%2527s_perceptions_of_men%2527s_attractiveness_health_masculinity_and_parenting_abilities"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ee1564e1-eef4-450d-8b22-25bb0c31468f"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ee1564e1-eef4-450d-8b22-25bb0c31468f",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Men Without Beards Are Just Like Women, Preacher Says",
+                                                                                                                                                                                           "snippet":  "You could be possessed by indecent thoughts,\" he explained, expressing fear that men might look at members of the same sex with sexual interest.",
+                                                                                                                                                                                           "url":  "https://www.newsweek.com/men-beards-islam-religion-turkey-751079"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Shout Out To All My Bearded Comrades #beardlife - Instagram",
+                                                                                                                                                                                           "snippet":  "Turkish Islamic preacher says men without beards cause indecent thoughts in other men because they look like women.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DO4IefTjYsg/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Since 2017, Turkish preacher Murat Bayaral has sparked significant ...",
+                                                                                                                                                                                           "snippet":  "If a man has a sexual desire for a shaved man because of his soft and hairless face, it is kinda sickness. to be honest beard is cool, ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/upsoclboysplayroom/posts/since-2017-turkish-preacher-murat-bayaral-has-sparked-significant-controversy-by/1177212314558372/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from PlassoPlo to uncover key insights.\n- Noting the post ID suggests it\u0027s from the recent past relative to 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb188751-5c7d-47af-9c59-136f17eeeded\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994378912638685292}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply discusses beard removal causing deep existential dread in some men.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edecf5c49-50d5-4e59-b18d-349ae9762f23\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G4x5MwOX0AAUDsF.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e305252f3-ee5a-4381-8a61-c3d67533c561\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"studies on beards and perceived masculinity attraction\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eee1564e1-eef4-450d-8b22-25bb0c31468f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Turkish Islamic preacher men without beards cause indecent thoughts\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Identifying the preacher as Murat Bayaral from a 2017 article on beards preventing indecent thoughts.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db188751-5c7d-47af-9c59-136f17eeeded"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db188751-5c7d-47af-9c59-136f17eeeded"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "decf5c49-50d5-4e59-b18d-349ae9762f23"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "305252f3-ee5a-4381-8a61-c3d67533c561"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "305252f3-ee5a-4381-8a61-c3d67533c561",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Men\u0027s Facial Hair Preferences Reflect Facial Hair Impression ...",
+                                                                                                                                                                                           "snippet":  "Abstract. Men with distinct facial hair are perceived as more aggressive, dominant, older, and more formidable, mostly by other men.",
+                                                                                                                                                                                           "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10501953/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Is beard the male makeup? An experimental study on trust ...",
+                                                                                                                                                                                           "snippet":  "The findings reveal that a light stubble beard enhances perceived attractiveness, leading to an increase in trust, albeit not uniformly across all participants.",
+                                                                                                                                                                                           "url":  "https://www.sciencedirect.com/science/article/pii/S0001691825000551"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Do Women Prefer Men With Beards? | Psychology Today",
+                                                                                                                                                                                           "snippet":  "The women perceived male faces with full beards as the most masculine, aggressive, and socially mature; the women also thought these men looked older.",
+                                                                                                                                                                                           "url":  "https://www.psychologytoday.com/us/blog/the-attraction-doctor/201607/do-women-prefer-men-with-beards"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The science behind attraction to beards - Numan",
+                                                                                                                                                                                           "snippet":  "Beards are linked to increased perception of age, social status, aggressiveness, and masculinity. Studies show mixed results on attractiveness, but beards may ...",
+                                                                                                                                                                                           "url":  "https://www.numan.com/beard/grooming/science-behind-attraction-to-beards"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The role of facial hair in women\u0027s perceptions of men\u0027s attractiveness ...",
+                                                                                                                                                                                           "snippet":  "Our findings confirm that beardedness affects judgments of male socio-sexual attributes and suggest that an intermediate level of beardedness is most ...",
+                                                                                                                                                                                           "url":  "https://www.researchgate.net/publication/257492193_The_role_of_facial_hair_in_women%2527s_perceptions_of_men%2527s_attractiveness_health_masculinity_and_parenting_abilities"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ee1564e1-eef4-450d-8b22-25bb0c31468f"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ee1564e1-eef4-450d-8b22-25bb0c31468f",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Men Without Beards Are Just Like Women, Preacher Says",
+                                                                                                                                                                                           "snippet":  "You could be possessed by indecent thoughts,\" he explained, expressing fear that men might look at members of the same sex with sexual interest.",
+                                                                                                                                                                                           "url":  "https://www.newsweek.com/men-beards-islam-religion-turkey-751079"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Shout Out To All My Bearded Comrades #beardlife - Instagram",
+                                                                                                                                                                                           "snippet":  "Turkish Islamic preacher says men without beards cause indecent thoughts in other men because they look like women.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DO4IefTjYsg/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Since 2017, Turkish preacher Murat Bayaral has sparked significant ...",
+                                                                                                                                                                                           "snippet":  "If a man has a sexual desire for a shaved man because of his soft and hairless face, it is kinda sickness. to be honest beard is cool, ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/upsoclboysplayroom/posts/since-2017-turkish-preacher-murat-bayaral-has-sparked-significant-controversy-by/1177212314558372/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994378956972105728",
+                                                                              "created_at_ms":  1764331971786,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1994378912638685292",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

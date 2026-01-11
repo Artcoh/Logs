@@ -1,0 +1,329 @@
+﻿# Grok Conversation Export
+# Title: Far-Right Labels and Factional Divides
+# ID: 1988428569299599403
+# Extracted: 2026-01-02 05:37:39
+# URL: https://x.com/i/grok?conversation=1988428569299599403
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuYUT/ultAAChRBAAABmnXSA7wAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1988428570511724545",
+                                                                              "created_at_ms":  1762913289148,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply by @plassoplo clarifies labels in far-right circles: Myron Gaines and Sneako align as \"honorary\" figures—non-white influencers sympathetic to Groyper ideas—while @paleochristcon (Andrew Wilson) critiques mainstream conservatives without targeting Nick Fuentes\u0027 America First movement directly.\n- It stems from a thread where @wokal_distance argues institutional feminization and DEI indoctrination in schools radicalize young white men toward groups like Groypers, a white nationalist faction led by Fuentes that trolls perceived \"fake\" conservatives.\n- The discussion highlights fractures within the right, where \"honorary\" status allows minority voices like Sneako (a Muslim streamer) into ethnocentric spaces, contrasting with purist exclusions, as seen in reports of Gaines facing racism in Groyper calls.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1988428541214507370.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7177961c-1441-47b4-9ca4-3bd95c9edad9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988428541214507370}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze it properly, I\u0027m fetching the post\u0027s content and any surrounding context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7177961c-1441-47b4-9ca4-3bd95c9edad9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988428541214507370}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The main thread starts with a post from @wokal_distance discussing why young men are radicalizing, drawing from his son\u0027s school experience and critiquing a feminized, DEI-focused environment.\n- @plassoplo\u0027s reply expresses disdain for the Groyper movement while detailing its accuracies, suggesting adults step back for the youth.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb5d79cd-5a8c-49d1-bc56-e83435040ff3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ec704b354-d4f4-4550-b524-6c3efdccd33b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"paleochristcon\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ff6ccd1-e029-4108-a3eb-18433983f405\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Myron Gaines Sneako Groyper\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eResearching key figures- To deepen the analysis, I\u0027m searching for details on the Groyper movement and figures like Nick Fuentes, Myron Gaines, Sneako, and @paleochristcon.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb5d79cd-5a8c-49d1-bc56-e83435040ff3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ec704b354-d4f4-4550-b524-6c3efdccd33b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"paleochristcon\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ff6ccd1-e029-4108-a3eb-18433983f405\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Myron Gaines Sneako Groyper\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Groypers form a far-right group tied to Nick Fuentes, known for white nationalist and antisemitic views.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                      "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                      "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Groypers - Wikipedia",
+                                                                                                      "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                      "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                      "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                      "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                      "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "[PDF] Groypers-External-October-2022-1.pdf - ISD",
+                                                                                                      "snippet":  "This document provides an overview of Groypers and is one in a series of extremism briefing notes produced by the Institute for Strategic Dialogue (ISD) out of ...",
+                                                                                                      "url":  "https://www.isdglobal.org/wp-content/uploads/2022/10/Groypers-External-October-2022-1.pdf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "SNEAKO runs into a Groyper wearing an “America First” hat after ...",
+                                                                                                      "snippet":  "SNEAKO runs into a Groyper wearing an “America First” hat after Zohran Mamdani wins New York City mayor · Sneako on Sharia Law and western ...",
+                                                                                                      "url":  "https://www.instagram.com/reel/DQrOTR2jl4c/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Sneako TRIGGERED by Myron Gaines Views on America…",
+                                                                                                      "snippet":  "Myron Gaines SHOCKS liberal student in trans debate.",
+                                                                                                      "url":  "https://www.instagram.com/popular/sneako-myron-gaines/reels/DQE1XWDDCUh/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "SneaksterParti | #sneako #billionaire #myrongaines - Instagram",
+                                                                                                      "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim. more. View all 5 comments. 1 day ago. sneaksterparti.",
+                                                                                                      "url":  "https://www.instagram.com/reel/DQj6slojkb-/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Sneako couldn\u0027t believe he met a muslim groyper ... - Instagram",
+                                                                                                      "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim ... What\u0027s going on? I\u0027m just what was that? Yeah. Okay.",
+                                                                                                      "url":  "https://www.instagram.com/reel/DQtobdlDvmT/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Grok on X",
+                                                                                                      "snippet":  "Myron Gaines joined a white nationalist group call (associated with groypers) but faced racist insults and was removed due to his race.",
+                                                                                                      "url":  "http://x.com/grok/status/1966088373912875079"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                      "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                      "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Groypers - Wikipedia",
+                                                                                                      "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                      "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                      "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                      "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                      "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "[PDF] Groypers-External-October-2022-1.pdf - ISD",
+                                                                                                      "snippet":  "This document provides an overview of Groypers and is one in a series of extremism briefing notes produced by the Institute for Strategic Dialogue (ISD) out of ...",
+                                                                                                      "url":  "https://www.isdglobal.org/wp-content/uploads/2022/10/Groypers-External-October-2022-1.pdf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "SNEAKO runs into a Groyper wearing an “America First” hat after ...",
+                                                                                                      "snippet":  "SNEAKO runs into a Groyper wearing an “America First” hat after Zohran Mamdani wins New York City mayor · Sneako on Sharia Law and western ...",
+                                                                                                      "url":  "https://www.instagram.com/reel/DQrOTR2jl4c/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Sneako TRIGGERED by Myron Gaines Views on America…",
+                                                                                                      "snippet":  "Myron Gaines SHOCKS liberal student in trans debate.",
+                                                                                                      "url":  "https://www.instagram.com/popular/sneako-myron-gaines/reels/DQE1XWDDCUh/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "SneaksterParti | #sneako #billionaire #myrongaines - Instagram",
+                                                                                                      "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim. more. View all 5 comments. 1 day ago. sneaksterparti.",
+                                                                                                      "url":  "https://www.instagram.com/reel/DQj6slojkb-/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Sneako couldn\u0027t believe he met a muslim groyper ... - Instagram",
+                                                                                                      "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim ... What\u0027s going on? I\u0027m just what was that? Yeah. Okay.",
+                                                                                                      "url":  "https://www.instagram.com/reel/DQtobdlDvmT/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Grok on X",
+                                                                                                      "snippet":  "Myron Gaines joined a white nationalist group call (associated with groypers) but faced racist insults and was removed due to his race.",
+                                                                                                      "url":  "http://x.com/grok/status/1966088373912875079"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7177961c-1441-47b4-9ca4-3bd95c9edad9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988428541214507370}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb5d79cd-5a8c-49d1-bc56-e83435040ff3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ec704b354-d4f4-4550-b524-6c3efdccd33b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"paleochristcon\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ff6ccd1-e029-4108-a3eb-18433983f405\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Myron Gaines Sneako Groyper\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7177961c-1441-47b4-9ca4-3bd95c9edad9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7177961c-1441-47b4-9ca4-3bd95c9edad9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db5d79cd-5a8c-49d1-bc56-e83435040ff3"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "c704b354-d4f4-4550-b524-6c3efdccd33b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ff6ccd1-e029-4108-a3eb-18433983f405"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db5d79cd-5a8c-49d1-bc56-e83435040ff3",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                                                                                                           "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                                                                                                           "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Groypers - Wikipedia",
+                                                                                                                                                                                           "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                                                                                                           "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                                                                                                           "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                                                                                                           "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                                                                                                           "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] Groypers-External-October-2022-1.pdf - ISD",
+                                                                                                                                                                                           "snippet":  "This document provides an overview of Groypers and is one in a series of extremism briefing notes produced by the Institute for Strategic Dialogue (ISD) out of ...",
+                                                                                                                                                                                           "url":  "https://www.isdglobal.org/wp-content/uploads/2022/10/Groypers-External-October-2022-1.pdf"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ff6ccd1-e029-4108-a3eb-18433983f405",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "SNEAKO runs into a Groyper wearing an “America First” hat after ...",
+                                                                                                                                                                                           "snippet":  "SNEAKO runs into a Groyper wearing an “America First” hat after Zohran Mamdani wins New York City mayor · Sneako on Sharia Law and western ...",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DQrOTR2jl4c/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Sneako TRIGGERED by Myron Gaines Views on America…",
+                                                                                                                                                                                           "snippet":  "Myron Gaines SHOCKS liberal student in trans debate.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/popular/sneako-myron-gaines/reels/DQE1XWDDCUh/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "SneaksterParti | #sneako #billionaire #myrongaines - Instagram",
+                                                                                                                                                                                           "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim. more. View all 5 comments. 1 day ago. sneaksterparti.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DQj6slojkb-/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Sneako couldn\u0027t believe he met a muslim groyper ... - Instagram",
+                                                                                                                                                                                           "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim ... What\u0027s going on? I\u0027m just what was that? Yeah. Okay.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DQtobdlDvmT/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Grok on X",
+                                                                                                                                                                                           "snippet":  "Myron Gaines joined a white nationalist group call (associated with groypers) but faced racist insults and was removed due to his race.",
+                                                                                                                                                                                           "url":  "http://x.com/grok/status/1966088373912875079"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1988428541214507370.\n- To analyze it properly, I\u0027m fetching the post\u0027s content and any surrounding context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7177961c-1441-47b4-9ca4-3bd95c9edad9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988428541214507370}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The main thread starts with a post from @wokal_distance discussing why young men are radicalizing, drawing from his son\u0027s school experience and critiquing a feminized, DEI-focused environment.\n- @plassoplo\u0027s reply expresses disdain for the Groyper movement while detailing its accuracies, suggesting adults step back for the youth.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7177961c-1441-47b4-9ca4-3bd95c9edad9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7177961c-1441-47b4-9ca4-3bd95c9edad9"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Researching key figures",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- To deepen the analysis, I\u0027m searching for details on the Groyper movement and figures like Nick Fuentes, Myron Gaines, Sneako, and @paleochristcon.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003edb5d79cd-5a8c-49d1-bc56-e83435040ff3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ec704b354-d4f4-4550-b524-6c3efdccd33b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"paleochristcon\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ff6ccd1-e029-4108-a3eb-18433983f405\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Myron Gaines Sneako Groyper\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Groypers form a far-right group tied to Nick Fuentes, known for white nationalist and antisemitic views.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db5d79cd-5a8c-49d1-bc56-e83435040ff3"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "c704b354-d4f4-4550-b524-6c3efdccd33b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ff6ccd1-e029-4108-a3eb-18433983f405"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "db5d79cd-5a8c-49d1-bc56-e83435040ff3",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                                                                                                           "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                                                                                                           "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Groypers - Wikipedia",
+                                                                                                                                                                                           "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                                                                                                           "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                                                                                                           "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                                                                                                           "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                                                                                                           "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] Groypers-External-October-2022-1.pdf - ISD",
+                                                                                                                                                                                           "snippet":  "This document provides an overview of Groypers and is one in a series of extremism briefing notes produced by the Institute for Strategic Dialogue (ISD) out of ...",
+                                                                                                                                                                                           "url":  "https://www.isdglobal.org/wp-content/uploads/2022/10/Groypers-External-October-2022-1.pdf"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ff6ccd1-e029-4108-a3eb-18433983f405",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "SNEAKO runs into a Groyper wearing an “America First” hat after ...",
+                                                                                                                                                                                           "snippet":  "SNEAKO runs into a Groyper wearing an “America First” hat after Zohran Mamdani wins New York City mayor · Sneako on Sharia Law and western ...",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DQrOTR2jl4c/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Sneako TRIGGERED by Myron Gaines Views on America…",
+                                                                                                                                                                                           "snippet":  "Myron Gaines SHOCKS liberal student in trans debate.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/popular/sneako-myron-gaines/reels/DQE1XWDDCUh/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "SneaksterParti | #sneako #billionaire #myrongaines - Instagram",
+                                                                                                                                                                                           "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim. more. View all 5 comments. 1 day ago. sneaksterparti.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DQj6slojkb-/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Sneako couldn\u0027t believe he met a muslim groyper ... - Instagram",
+                                                                                                                                                                                           "snippet":  "Sneako couldn\u0027t believe he met a muslim groyper #sneako #explore #reels #viral #muslim ... What\u0027s going on? I\u0027m just what was that? Yeah. Okay.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/reel/DQtobdlDvmT/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Grok on X",
+                                                                                                                                                                                           "snippet":  "Myron Gaines joined a white nationalist group call (associated with groypers) but faced racist insults and was removed due to his race.",
+                                                                                                                                                                                           "url":  "http://x.com/grok/status/1966088373912875079"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1988428570511724544",
+                                                                              "created_at_ms":  1762913289148,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1988428541214507370",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

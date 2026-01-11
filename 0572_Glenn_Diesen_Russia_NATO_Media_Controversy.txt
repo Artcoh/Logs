@@ -1,0 +1,215 @@
+﻿# Grok Conversation Export
+# Title: Glenn Diesen: Russia, NATO, Media Controversy
+# ID: 1989079071683170779
+# Extracted: 2026-01-02 05:34:29
+# URL: https://x.com/i/grok?conversation=1989079071683170779
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuaoODEl8AAChRBAAABmn8QhuUAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1989079072668893185",
+                                                                              "created_at_ms":  1763068380901,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply by @plassoplo dismisses claims of mystery surrounding Glenn Diesen\u0027s prominence, attributing it to stronger representation of pro-Russia perspectives in intelligence operations than critics assume.\n- The exchange stems from a thread criticizing Diesen, a University of South-Eastern Norway professor, for allegedly spreading Kremlin talking points on podcasts amid Norway\u0027s NATO tensions with Russia.\n- Diesen\u0027s controversies include writing over 50 pieces for Russian state media since 2022, drawing accusations of disloyalty and calls for his resignation in Norwegian public discourse.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1989079054335840479.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7b17b9a-557c-4e1d-a38d-58099b880eab\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989079054335840479}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze this post, fetching its content and context seems like the right move.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7b17b9a-557c-4e1d-a38d-58099b880eab\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989079054335840479}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nAnalyzing thread content- The fetched thread shows the requested post as a reply in a larger discussion, with the main post ID being 1988848103470846012.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3f602c12-1c48-451d-8bbe-bc3bf760b30a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy Norway\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- @plassoplo\u0027s post translates from Norwegian to: \"No. It\u0027s just that your side is far less represented in ops than you think. Not mysterious.\"\n- The discussion revolves around Glenn Diesen, a Norwegian professor criticized for pro-Russia views and appearing on certain podcasts.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3f602c12-1c48-451d-8bbe-bc3bf760b30a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy Norway\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nGathering background info- Glenn Diesen serves as a professor at the University of South-Eastern Norway, specializing in political science with notable pro-Russian perspectives.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Why does Glenn Diesen speak such broken Norwegian? - Reddit",
+                                                                                                      "snippet":  "71 votes, 109 comments. Many here probably know the controversial pro-Russian researcher from the University of Southeast Norway who\u0027s a ...",
+                                                                                                      "url":  "https://www.reddit.com/r/norge/comments/1jfulmk/hvorfor_snakker_glenn_diesen_s%2525C3%2525A5_veldig_gebrokkent/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen is a traitor and a disgrace to Norway : r/norske - Reddit",
+                                                                                                      "snippet":  "297 votes, 163 comments. When the Kremlin says nod, Glenn nods. Right up until Russia admits what they\u0027re up to. What a good little dog he ...",
+                                                                                                      "url":  "https://www.reddit.com/r/norske/comments/1k8xbns/glenn_diesen_er_en_forr%2525C3%2525A6der_og_en_skam_for_norge/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Wikipedia",
+                                                                                                      "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Norwegian professor writes for Russian state channel: \u0027He ought to ...",
+                                                                                                      "snippet":  "Professor Glenn Diesen, Russia researcher at the University of South-Eastern Norway (USN), authored over fifty commentary pieces for the state-run Russian news ...",
+                                                                                                      "url":  "https://www.forskerforum.no/norwegian-professor-writes-for-russian-state-channel-he-ought-to-resign-and-apologise/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - How Peace-Oriented Norway Learned to Stop ...",
+                                                                                                      "snippet":  "Glenn Diesen is a professor of political science at the University of South-Eastern Norway (USN), with a focus on geoeconomics, Russian foreign policy and ...",
+                                                                                                      "url":  "https://braveneweurope.com/glenn-diesen-how-peace-oriented-norway-learned-to-stop-worrying-and-love-war"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Why does Glenn Diesen speak such broken Norwegian? - Reddit",
+                                                                                                      "snippet":  "71 votes, 109 comments. Many here probably know the controversial pro-Russian researcher from the University of Southeast Norway who\u0027s a ...",
+                                                                                                      "url":  "https://www.reddit.com/r/norge/comments/1jfulmk/hvorfor_snakker_glenn_diesen_s%2525C3%2525A5_veldig_gebrokkent/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen is a traitor and a disgrace to Norway : r/norske - Reddit",
+                                                                                                      "snippet":  "297 votes, 163 comments. When the Kremlin says nod, Glenn nods. Right up until Russia admits what they\u0027re up to. What a good little dog he ...",
+                                                                                                      "url":  "https://www.reddit.com/r/norske/comments/1k8xbns/glenn_diesen_er_en_forr%2525C3%2525A6der_og_en_skam_for_norge/?tl=en"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Wikipedia",
+                                                                                                      "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Norwegian professor writes for Russian state channel: \u0027He ought to ...",
+                                                                                                      "snippet":  "Professor Glenn Diesen, Russia researcher at the University of South-Eastern Norway (USN), authored over fifty commentary pieces for the state-run Russian news ...",
+                                                                                                      "url":  "https://www.forskerforum.no/norwegian-professor-writes-for-russian-state-channel-he-ought-to-resign-and-apologise/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - How Peace-Oriented Norway Learned to Stop ...",
+                                                                                                      "snippet":  "Glenn Diesen is a professor of political science at the University of South-Eastern Norway (USN), with a focus on geoeconomics, Russian foreign policy and ...",
+                                                                                                      "url":  "https://braveneweurope.com/glenn-diesen-how-peace-oriented-norway-learned-to-stop-worrying-and-love-war"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7b17b9a-557c-4e1d-a38d-58099b880eab\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989079054335840479}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3f602c12-1c48-451d-8bbe-bc3bf760b30a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy Norway\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b7b17b9a-557c-4e1d-a38d-58099b880eab"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b7b17b9a-557c-4e1d-a38d-58099b880eab"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3f602c12-1c48-451d-8bbe-bc3bf760b30a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3f602c12-1c48-451d-8bbe-bc3bf760b30a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Why does Glenn Diesen speak such broken Norwegian? - Reddit",
+                                                                                                                                                                                           "snippet":  "71 votes, 109 comments. Many here probably know the controversial pro-Russian researcher from the University of Southeast Norway who\u0027s a ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/norge/comments/1jfulmk/hvorfor_snakker_glenn_diesen_s%2525C3%2525A5_veldig_gebrokkent/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen is a traitor and a disgrace to Norway : r/norske - Reddit",
+                                                                                                                                                                                           "snippet":  "297 votes, 163 comments. When the Kremlin says nod, Glenn nods. Right up until Russia admits what they\u0027re up to. What a good little dog he ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/norske/comments/1k8xbns/glenn_diesen_er_en_forr%2525C3%2525A6der_og_en_skam_for_norge/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Norwegian professor writes for Russian state channel: \u0027He ought to ...",
+                                                                                                                                                                                           "snippet":  "Professor Glenn Diesen, Russia researcher at the University of South-Eastern Norway (USN), authored over fifty commentary pieces for the state-run Russian news ...",
+                                                                                                                                                                                           "url":  "https://www.forskerforum.no/norwegian-professor-writes-for-russian-state-channel-he-ought-to-resign-and-apologise/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - How Peace-Oriented Norway Learned to Stop ...",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen is a professor of political science at the University of South-Eastern Norway (USN), with a focus on geoeconomics, Russian foreign policy and ...",
+                                                                                                                                                                                           "url":  "https://braveneweurope.com/glenn-diesen-how-peace-oriented-norway-learned-to-stop-worrying-and-love-war"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1989079054335840479.\n- To analyze this post, fetching its content and context seems like the right move.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7b17b9a-557c-4e1d-a38d-58099b880eab\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989079054335840479}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b7b17b9a-557c-4e1d-a38d-58099b880eab"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b7b17b9a-557c-4e1d-a38d-58099b880eab"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing thread content",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The fetched thread shows the requested post as a reply in a larger discussion, with the main post ID being 1988848103470846012.\n- @plassoplo\u0027s post translates from Norwegian to: \"No. It\u0027s just that your side is far less represented in ops than you think. Not mysterious.\"\n- The discussion revolves around Glenn Diesen, a Norwegian professor criticized for pro-Russia views and appearing on certain podcasts.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3f602c12-1c48-451d-8bbe-bc3bf760b30a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen controversy Norway\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3f602c12-1c48-451d-8bbe-bc3bf760b30a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3f602c12-1c48-451d-8bbe-bc3bf760b30a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Why does Glenn Diesen speak such broken Norwegian? - Reddit",
+                                                                                                                                                                                           "snippet":  "71 votes, 109 comments. Many here probably know the controversial pro-Russian researcher from the University of Southeast Norway who\u0027s a ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/norge/comments/1jfulmk/hvorfor_snakker_glenn_diesen_s%2525C3%2525A5_veldig_gebrokkent/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen is a traitor and a disgrace to Norway : r/norske - Reddit",
+                                                                                                                                                                                           "snippet":  "297 votes, 163 comments. When the Kremlin says nod, Glenn nods. Right up until Russia admits what they\u0027re up to. What a good little dog he ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/norske/comments/1k8xbns/glenn_diesen_er_en_forr%2525C3%2525A6der_og_en_skam_for_norge/?tl=en"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Norwegian professor writes for Russian state channel: \u0027He ought to ...",
+                                                                                                                                                                                           "snippet":  "Professor Glenn Diesen, Russia researcher at the University of South-Eastern Norway (USN), authored over fifty commentary pieces for the state-run Russian news ...",
+                                                                                                                                                                                           "url":  "https://www.forskerforum.no/norwegian-professor-writes-for-russian-state-channel-he-ought-to-resign-and-apologise/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - How Peace-Oriented Norway Learned to Stop ...",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen is a professor of political science at the University of South-Eastern Norway (USN), with a focus on geoeconomics, Russian foreign policy and ...",
+                                                                                                                                                                                           "url":  "https://braveneweurope.com/glenn-diesen-how-peace-oriented-norway-learned-to-stop-worrying-and-love-war"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Gathering background info",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Glenn Diesen serves as a professor at the University of South-Eastern Norway, specializing in political science with notable pro-Russian perspectives.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1989079072668893184",
+                                                                              "created_at_ms":  1763068380901,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1989079054335840479",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

@@ -1,0 +1,234 @@
+﻿# Grok Conversation Export
+# Title: Moon Landing Denial: Satire and Reality
+# ID: 1994409013446889931
+# Extracted: 2026-01-02 05:20:27
+# URL: https://x.com/i/grok?conversation=1994409013446889931
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhutkG6TlzAAChRBAAABmsrOvigAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1994409311733202946",
+                                                                              "created_at_ms":  1764339208926,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Haha, yeah, the post is savage in its own way. It’s not really trying to prove or disprove the moon landings with facts; it’s just dunking on the vibe shift.\n\nThe 1960s had this raw, cigar-chomping, “we’re gonna stick a giant rocket-dick on the pad and ride it to the Moon” energy. Today we overthink everything, safety-review it to death, and worry about feelings and carbon footprints.\n\nThe joke lands because most guys instinctively get it: that old-school masculine audacity *feels* like the only mindset capable of pulling off Apollo. The modern world feels too soft, too bureaucratic, too risk-averse to do it again (even though we literally have better tech now).\n\nSo it doesn’t “kill” the moon landing debate with evidence… but it kills the *mood* of anyone trying to claim we could easily repeat it tomorrow. And that stings more than any technical argument for a lot of people.",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994409311733202945",
+                                                                              "created_at_ms":  1764339208926,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "It kills the argument. Any man recognizes the truth in it",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994409014591959041",
+                                                                              "created_at_ms":  1764339138088,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This Norwegian X post sarcastically supports moon landing denial by mocking modern society\u0027s \"forgotten\" ability to produce bold, phallic-symbolism-embracing astronauts fueled by liquid hydrogen-oxygen, contrasting 1960s bravado with today\u0027s caution.\n- It replies to a thread where @SvartHette predicts Elon Musk\u0027s SpaceX will prove Apollo missions impossible, but Musk has repeatedly affirmed the landings\u0027 reality, labeling conspiracies \"insane\" in 2024 interviews.\n- Apollo\u0027s six moon landings (1969-1972) involved 12 astronauts and cost ~$280 billion adjusted for inflation, halted by post-Vietnam budget cuts and shifting priorities, not lost technology as hoax theorists claim.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- You\u0027re sharing this X post from plassoplo, let\u0027s dive into its content.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee498ec77-b502-42c6-aec0-e6d59a89d538\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994408958497292390}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Fetching the post details to analyze it in three concise points.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee498ec77-b502-42c6-aec0-e6d59a89d538\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994408958497292390}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Uncovering a sarcastic Norwegian reply mocking moon landing hoax believers with phallic rocket imagery.\n- Analyzing thread context reveals post mocks modern lack of bold masculinity compared to Apollo-era bravery.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed72333da-32bc-4f7f-b734-7405c691423a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"moon landing conspiracy Elon Musk 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Probing recent 2025 ties to Elon Musk\u0027s moon efforts amid conspiracy revivals.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed72333da-32bc-4f7f-b734-7405c691423a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"moon landing conspiracy Elon Musk 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nContrasting Musk\u0027s stance- Musk affirms moon landings as real, labeling conspiracies insane, countering thread\u0027s hoax-proof hopes for SpaceX.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Fact Check: Elon Musk video casting doubt on moon landing is altered",
+                                                                                                      "snippet":  "A clip appearing to show Telsa CEO Elon Musk casting doubt on NASA\u0027s 1969 moon landing is altered. The visuals and audio were edited from an ...",
+                                                                                                      "url":  "https://www.reuters.com/fact-check/elon-musk-video-casting-doubt-moon-landing-is-altered-2024-01-10/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Moon hoax? Five reasons why the landings were real - BBC",
+                                                                                                      "snippet":  "Conspiracy theories surround the Moon landings but BBC Click seeks to dispel some of the myths.",
+                                                                                                      "url":  "https://www.bbc.com/news/av/technology-48845757"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Musk appears to target NASA\u0027s Artemis moon project : NPR",
+                                                                                                      "snippet":  "President Trump launched the Artemis program to return U.S. astronauts to the moon for the first time since Apollo. Now, the plan could be a ...",
+                                                                                                      "url":  "https://www.npr.org/2025/02/19/g-s1-49451/artemis-moon-nasa-sls-rocket-doge-musk"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\u0027Obviously Real:\u0027 SpaceX CEO Elon Musk Says It\u0027s \u0027Insane ... - Webull",
+                                                                                                      "snippet":  "SpaceX CEO Elon Musk on Tuesday denied moon landing conspiracy theories, terming the moon landings during the 1960s and 1970s under the Apollo ...",
+                                                                                                      "url":  "https://www.webull.com/news/10152242129740800"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Elon Musk On Why First Moon Landing Was An \u0027Anomaly\u0027",
+                                                                                                      "snippet":  "SpaceX and Tesla CEO Elon Musk said recently that the 1969 Apollo 11 Moon-landing mission was an “anomalous situation.",
+                                                                                                      "url":  "https://finance.yahoo.com/news/elon-musk-why-first-moon-015500603.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Fact Check: Elon Musk video casting doubt on moon landing is altered",
+                                                                                                      "snippet":  "A clip appearing to show Telsa CEO Elon Musk casting doubt on NASA\u0027s 1969 moon landing is altered. The visuals and audio were edited from an ...",
+                                                                                                      "url":  "https://www.reuters.com/fact-check/elon-musk-video-casting-doubt-moon-landing-is-altered-2024-01-10/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Moon hoax? Five reasons why the landings were real - BBC",
+                                                                                                      "snippet":  "Conspiracy theories surround the Moon landings but BBC Click seeks to dispel some of the myths.",
+                                                                                                      "url":  "https://www.bbc.com/news/av/technology-48845757"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Musk appears to target NASA\u0027s Artemis moon project : NPR",
+                                                                                                      "snippet":  "President Trump launched the Artemis program to return U.S. astronauts to the moon for the first time since Apollo. Now, the plan could be a ...",
+                                                                                                      "url":  "https://www.npr.org/2025/02/19/g-s1-49451/artemis-moon-nasa-sls-rocket-doge-musk"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "\u0027Obviously Real:\u0027 SpaceX CEO Elon Musk Says It\u0027s \u0027Insane ... - Webull",
+                                                                                                      "snippet":  "SpaceX CEO Elon Musk on Tuesday denied moon landing conspiracy theories, terming the moon landings during the 1960s and 1970s under the Apollo ...",
+                                                                                                      "url":  "https://www.webull.com/news/10152242129740800"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Elon Musk On Why First Moon Landing Was An \u0027Anomaly\u0027",
+                                                                                                      "snippet":  "SpaceX and Tesla CEO Elon Musk said recently that the 1969 Apollo 11 Moon-landing mission was an “anomalous situation.",
+                                                                                                      "url":  "https://finance.yahoo.com/news/elon-musk-why-first-moon-015500603.html"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee498ec77-b502-42c6-aec0-e6d59a89d538\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994408958497292390}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed72333da-32bc-4f7f-b734-7405c691423a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"moon landing conspiracy Elon Musk 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e498ec77-b502-42c6-aec0-e6d59a89d538"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e498ec77-b502-42c6-aec0-e6d59a89d538"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d72333da-32bc-4f7f-b734-7405c691423a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d72333da-32bc-4f7f-b734-7405c691423a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Fact Check: Elon Musk video casting doubt on moon landing is altered",
+                                                                                                                                                                                           "snippet":  "A clip appearing to show Telsa CEO Elon Musk casting doubt on NASA\u0027s 1969 moon landing is altered. The visuals and audio were edited from an ...",
+                                                                                                                                                                                           "url":  "https://www.reuters.com/fact-check/elon-musk-video-casting-doubt-moon-landing-is-altered-2024-01-10/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Moon hoax? Five reasons why the landings were real - BBC",
+                                                                                                                                                                                           "snippet":  "Conspiracy theories surround the Moon landings but BBC Click seeks to dispel some of the myths.",
+                                                                                                                                                                                           "url":  "https://www.bbc.com/news/av/technology-48845757"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Musk appears to target NASA\u0027s Artemis moon project : NPR",
+                                                                                                                                                                                           "snippet":  "President Trump launched the Artemis program to return U.S. astronauts to the moon for the first time since Apollo. Now, the plan could be a ...",
+                                                                                                                                                                                           "url":  "https://www.npr.org/2025/02/19/g-s1-49451/artemis-moon-nasa-sls-rocket-doge-musk"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\u0027Obviously Real:\u0027 SpaceX CEO Elon Musk Says It\u0027s \u0027Insane ... - Webull",
+                                                                                                                                                                                           "snippet":  "SpaceX CEO Elon Musk on Tuesday denied moon landing conspiracy theories, terming the moon landings during the 1960s and 1970s under the Apollo ...",
+                                                                                                                                                                                           "url":  "https://www.webull.com/news/10152242129740800"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Elon Musk On Why First Moon Landing Was An \u0027Anomaly\u0027",
+                                                                                                                                                                                           "snippet":  "SpaceX and Tesla CEO Elon Musk said recently that the 1969 Apollo 11 Moon-landing mission was an “anomalous situation.",
+                                                                                                                                                                                           "url":  "https://finance.yahoo.com/news/elon-musk-why-first-moon-015500603.html"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- You\u0027re sharing this X post from plassoplo, let\u0027s dive into its content.\n- Fetching the post details to analyze it in three concise points.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee498ec77-b502-42c6-aec0-e6d59a89d538\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994408958497292390}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Uncovering a sarcastic Norwegian reply mocking moon landing hoax believers with phallic rocket imagery.\n- Analyzing thread context reveals post mocks modern lack of bold masculinity compared to Apollo-era bravery.\n- Probing recent 2025 ties to Elon Musk\u0027s moon efforts amid conspiracy revivals.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed72333da-32bc-4f7f-b734-7405c691423a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"moon landing conspiracy Elon Musk 2025\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e498ec77-b502-42c6-aec0-e6d59a89d538"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e498ec77-b502-42c6-aec0-e6d59a89d538"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d72333da-32bc-4f7f-b734-7405c691423a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d72333da-32bc-4f7f-b734-7405c691423a",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Fact Check: Elon Musk video casting doubt on moon landing is altered",
+                                                                                                                                                                                           "snippet":  "A clip appearing to show Telsa CEO Elon Musk casting doubt on NASA\u0027s 1969 moon landing is altered. The visuals and audio were edited from an ...",
+                                                                                                                                                                                           "url":  "https://www.reuters.com/fact-check/elon-musk-video-casting-doubt-moon-landing-is-altered-2024-01-10/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Moon hoax? Five reasons why the landings were real - BBC",
+                                                                                                                                                                                           "snippet":  "Conspiracy theories surround the Moon landings but BBC Click seeks to dispel some of the myths.",
+                                                                                                                                                                                           "url":  "https://www.bbc.com/news/av/technology-48845757"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Musk appears to target NASA\u0027s Artemis moon project : NPR",
+                                                                                                                                                                                           "snippet":  "President Trump launched the Artemis program to return U.S. astronauts to the moon for the first time since Apollo. Now, the plan could be a ...",
+                                                                                                                                                                                           "url":  "https://www.npr.org/2025/02/19/g-s1-49451/artemis-moon-nasa-sls-rocket-doge-musk"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "\u0027Obviously Real:\u0027 SpaceX CEO Elon Musk Says It\u0027s \u0027Insane ... - Webull",
+                                                                                                                                                                                           "snippet":  "SpaceX CEO Elon Musk on Tuesday denied moon landing conspiracy theories, terming the moon landings during the 1960s and 1970s under the Apollo ...",
+                                                                                                                                                                                           "url":  "https://www.webull.com/news/10152242129740800"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Elon Musk On Why First Moon Landing Was An \u0027Anomaly\u0027",
+                                                                                                                                                                                           "snippet":  "SpaceX and Tesla CEO Elon Musk said recently that the 1969 Apollo 11 Moon-landing mission was an “anomalous situation.",
+                                                                                                                                                                                           "url":  "https://finance.yahoo.com/news/elon-musk-why-first-moon-015500603.html"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Contrasting Musk\u0027s stance",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Musk affirms moon landings as real, labeling conspiracies insane, countering thread\u0027s hoax-proof hopes for SpaceX.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994409014591959040",
+                                                                              "created_at_ms":  1764339138088,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1994408958497292390",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}
