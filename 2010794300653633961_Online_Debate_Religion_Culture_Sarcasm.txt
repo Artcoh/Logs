@@ -1,0 +1,82 @@
+﻿# Grok Conversation Export
+# Title: Online Debate: Religion, Culture, Sarcasm
+# ID: 2010794300653633961
+# Extracted: 2026-01-19 11:07:08
+# URL: https://x.com/i/grok?conversation=2010794300653633961
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhvnxsOYV1AAChRBAAABm7OoEkgAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "2010794302020997121",
+                                                                              "created_at_ms":  1768245695048,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply by @plassoplo sarcastically concedes to @Nikolayevich941\u0027s claim of intellectual superiority, using self-deprecating humor to dismiss the argument that Judaism \"controls\" Christianity without engaging further.\n- The exchange stems from a viral Vikings clip depicting Ragnar Lothbrok\u0027s baptism, sparking debate on pagan-to-Christian conversion, with earlier replies invoking anti-Semitic tropes by questioning worship of \"a Jew\" (Jesus).\n- @plassoplo\u0027s prior defense portrays Jesus as a revolutionary figure who upended corrupt Judaism via resurrection, highlighting ongoing cultural tensions between Hellenism, Christianity, and Judaism in online discourse.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestReviewing X post- Examining link to Plasso\u0027s X post for key details.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef26ffbd4-38b6-48a8-a006-88c6fc4f670b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2010794290843467873}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Fetching post content using thread fetch tool.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef26ffbd4-38b6-48a8-a006-88c6fc4f670b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2010794290843467873}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Post is sarcastic reply dismissing critic with IQ jab.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2c3e5946-7223-416e-ac5e-54be5a9d05f7\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/ext_tw_video/2010434874478391296/pu/vid/avc1/490x270/Xc_qNEJ5lgjY3fa8.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Viewing video in main post for added context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2c3e5946-7223-416e-ac5e-54be5a9d05f7\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/ext_tw_video/2010434874478391296/pu/vid/avc1/490x270/Xc_qNEJ5lgjY3fa8.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef26ffbd4-38b6-48a8-a006-88c6fc4f670b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2010794290843467873}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2c3e5946-7223-416e-ac5e-54be5a9d05f7\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/ext_tw_video/2010434874478391296/pu/vid/avc1/490x270/Xc_qNEJ5lgjY3fa8.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f26ffbd4-38b6-48a8-a006-88c6fc4f670b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f26ffbd4-38b6-48a8-a006-88c6fc4f670b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "2c3e5946-7223-416e-ac5e-54be5a9d05f7"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Examining link to Plasso\u0027s X post for key details.\n- Fetching post content using thread fetch tool.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef26ffbd4-38b6-48a8-a006-88c6fc4f670b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2010794290843467873}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Post is sarcastic reply dismissing critic with IQ jab.\n- Viewing video in main post for added context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2c3e5946-7223-416e-ac5e-54be5a9d05f7\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/ext_tw_video/2010434874478391296/pu/vid/avc1/490x270/Xc_qNEJ5lgjY3fa8.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f26ffbd4-38b6-48a8-a006-88c6fc4f670b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f26ffbd4-38b6-48a8-a006-88c6fc4f670b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "2c3e5946-7223-416e-ac5e-54be5a9d05f7"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2010794302020997120",
+                                                                              "created_at_ms":  1768245695048,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/2010794290843467873",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

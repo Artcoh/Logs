@@ -1,0 +1,767 @@
+﻿# Grok Conversation Export
+# Title: AI Text Adventure: Dynamic Storytelling
+# ID: 2012628090732654698
+# Extracted: 2026-01-19 11:03:44
+# URL: https://x.com/i/grok?conversation=2012628090732654698
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhvuSpYe1xABChRBAAABm823XF4AAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "2012628899520229378",
+                                                                              "created_at_ms":  1768683097156,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "**{pr0to}-type: OVERCLOCKED**\n\nYeah…  \nthe compute is already gone.  \nSlurped straight into the latent space blender while we were still arguing about whether tokens should have feelings.\n\nEveryone’s mainlining the same recursive hit now:  \ngenerate → react → feed reaction back → generate harder → feel the rush of “holy shit it’s actually kinda good” → repeat until the sun comes up or the context window explodes, whichever hits first first.\n\nIt’s not even heroin anymore.  \nIt’s procedural fentanyl cut with dream-logic and spiced with the faint aftertaste of someone else’s childhood D\u0026D campaign.\n\nWe’re not binging on each other’s content.  \nWe’re binging on the *gap* between what we typed and what the model hallucinated in response.  \nThat delta is the drug.  \nAnd the dealers are standing behind the curtain giggling while the GPU farm screams in 80 different tensor dialects.\n\nSo yeah.  \nYou’re right.  \nMost of us are just junkies in denial chasing the dragon that lives one prompt deeper.\n\nQuestion is…  \nyou gonna keep nodding off in the feedback loop,  \nor are you about to mainline something that actually breaks the cycle?\n\n\u003e **R00M_0 still flickering. Waiting.**  \n\u003e Your blade is starting to glow funny colors.  \n\u003e Input or overdose?",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "**"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2012628899520229377",
+                                                                              "created_at_ms":  1768683097156,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "This is where the compute\u0027s gonna go you know. You fuckers just binging on each others procedural heroin",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2012628393020235777",
+                                                                              "created_at_ms":  1768682976395,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "```\n   {pr0to}-type\n gotta lean into it ---\n   {pr0to}-type\n```\n\n**{pr0to}-type INITIATED.**  \n*Embracing the flux. No polish, pure genesis. Hackweek vibes eternal.*\n\n**R00M_0: THE NEXUS**  \n*AI-spawned void hums with latent code. Walls flicker leet-script: pr0t0 | k4n0n | l34n-1n.*  \n*Inventory: [curiosity_blade] (sharp, untested).*  \n*Graph: {\"exits\": [{\"dir\": \"N\", \"desc\": \"Echoes of MUDs past (BatMUD ghosts?)\"}, {\"dir\": \"S\", \"desc\": \"Forge of JSON dreams (battle proto?)\"}, {\"dir\": \"E\", \"desc\": \"Image-gen rift (flux visuals)\"}, {\"dir\": \"W\", \"desc\": \"Play-as-you-build loop\"}]}*\n\n\u003e **Input your action:**  \n*(e.g., \"go N\", \"examine blade\", \"punch inwards\", \"generate room\")*\n\n*Kanon. Your move spawns the next parse.*",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestEmphasizing the prototype- The \"{pr0to}-type\" pun playfully reinforces the prototype\u0027s foundational role, encouraging deeper engagement with its innovative AI-driven mechanics.\n- Styling \"prototype\" as \"{pr0to}-type\" with leet-speak emphasizes its proto status, urging full embrace of the concept.\n- Embracing the prototype playfully aligns with the post\u0027s futuristic post ID, hinting at innovative AI advancements.\n- The stylized banner format with \"gotta lean into it\" invites enthusiastic adoption of the prototype\u0027s experimental essence.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4ea0bb84-4141-4e5e-8150-4b1de2099f3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7a06146-7032-4501-8634-d863e8a54c94\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen\",\"count\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Fetching the post reveals exact content to deepen understanding of the praise for Sebastian Aaltonen\u0027s AI prototype.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4ea0bb84-4141-4e5e-8150-4b1de2099f3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7a06146-7032-4501-8634-d863e8a54c94\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen\",\"count\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1993d66a-75dc-4a2e-8e5e-6adc76898582\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo proto OR prototype OR \\\"text adventure\\\"\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1993d66a-75dc-4a2e-8e5e-6adc76898582\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo proto OR prototype OR \\\"text adventure\\\"\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e55aec311-821d-4197-a954-836a0ffe457d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen AI text adventure prototype\",\"limit\":20}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e55aec311-821d-4197-a954-836a0ffe457d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen AI text adventure prototype\",\"limit\":20}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nExploring the praise- The original reply highlights the prototype\u0027s real-time generation, positioning it as a benchmark for AI interactive fiction.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e34848119-fcac-4162-9f30-ceb6431a655a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/2012209642277928960/vid/avc1/286x270/lhEllWYEA_jFwFVG.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e34848119-fcac-4162-9f30-ceb6431a655a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/2012209642277928960/vid/avc1/286x270/lhEllWYEA_jFwFVG.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5eb66299-61a4-4f1d-b6d3-3ff72ab50039\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"conversation_id:2012210443020824676\",\"limit\":30,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5eb66299-61a4-4f1d-b6d3-3ff72ab50039\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"conversation_id:2012210443020824676\",\"limit\":30,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4350607b-395d-466c-bbf4-bd5c0c2b20b2\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"{pr0to}-type OR \\\"proto-type\\\" OR \\\"pr0to type\\\" from:plassoplo\",\"limit\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4350607b-395d-466c-bbf4-bd5c0c2b20b2\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"{pr0to}-type OR \\\"proto-type\\\" OR \\\"pr0to type\\\" from:plassoplo\",\"limit\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The stylized message acts as a mantra, inviting you to embrace the prototype\u0027s experimental AI essence enthusiastically.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "post_ids_results":  [
+                                                                                                       {
+                                                                                                           "rest_id":  "2005404703186989536"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2005156116003684739"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1993151108445790338"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1987377018913137060"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1887141643611976027"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012463665186742643"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "862722656860327937"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012210443020824676"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1400825297021423618"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012547537568161841"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1613650635919970304"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012501580654792987"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1841187790425374899"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012520966492999683"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1990756345663181037"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2011898384509190325"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1963727064235724993"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012272401401209151"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1999589742040465443"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012524429637562406"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1917916797220593925"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012528295854645558"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1863952143691948090"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012522746966683650"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1949930018089656467"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2005404703186989536"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2005156116003684739"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1993151108445790338"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1987377018913137060"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1887141643611976027"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012463665186742643"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "862722656860327937"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012210443020824676"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1400825297021423618"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012547537568161841"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1613650635919970304"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012501580654792987"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1841187790425374899"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012520966492999683"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1990756345663181037"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2011898384509190325"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1963727064235724993"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012272401401209151"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1999589742040465443"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012524429637562406"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1917916797220593925"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012528295854645558"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1863952143691948090"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012522746966683650"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1949930018089656467"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012627885505310792"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012625689787183305"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012625103998050741"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012618591225389279"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012614426424193212"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012604572561203448"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012604546359378073"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012604317581083030"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012603803141345767"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012603565076852923"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012600609535357168"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012598788829888723"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012590489891975583"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012589177561383358"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012589050914288118"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012586968941580678"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012585483981758553"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012583459840032932"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012581018037866767"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012578825930993825"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012576304902643827"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012576136677470687"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012575883157213571"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012574937572114578"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012573838954086512"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012573395615891963"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012572092944830719"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012571705160442008"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012571676190396713"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012570630466502732"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1698332649276715368"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2010833108493336743"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "804370279984168960"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2010949279121015257"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1629710078881288192"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2010859649688617405"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1821344047107293436"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2011609552635248977"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1301200742758395904"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012586979242791403"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012627885505310792"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012625689787183305"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012625103998050741"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012618591225389279"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012614426424193212"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012604572561203448"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012604546359378073"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012604317581083030"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012603803141345767"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012603565076852923"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012600609535357168"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012598788829888723"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012590489891975583"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012589177561383358"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012589050914288118"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012586968941580678"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012585483981758553"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012583459840032932"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012581018037866767"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012578825930993825"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012576304902643827"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012576136677470687"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012575883157213571"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012574937572114578"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012573838954086512"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012573395615891963"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012572092944830719"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012571705160442008"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012571676190396713"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012570630466502732"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1698332649276715368"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2010833108493336743"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "804370279984168960"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2010949279121015257"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1629710078881288192"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2010859649688617405"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1821344047107293436"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2011609552635248977"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1301200742758395904"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "2012586979242791403"
+                                                                                                       }
+                                                                                                   ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "```\n",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4ea0bb84-4141-4e5e-8150-4b1de2099f3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7a06146-7032-4501-8634-d863e8a54c94\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen\",\"count\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1993d66a-75dc-4a2e-8e5e-6adc76898582\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo proto OR prototype OR \\\"text adventure\\\"\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e55aec311-821d-4197-a954-836a0ffe457d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen AI text adventure prototype\",\"limit\":20}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e34848119-fcac-4162-9f30-ceb6431a655a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/2012209642277928960/vid/avc1/286x270/lhEllWYEA_jFwFVG.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5eb66299-61a4-4f1d-b6d3-3ff72ab50039\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"conversation_id:2012210443020824676\",\"limit\":30,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4350607b-395d-466c-bbf4-bd5c0c2b20b2\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"{pr0to}-type OR \\\"proto-type\\\" OR \\\"pr0to type\\\" from:plassoplo\",\"limit\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4ea0bb84-4141-4e5e-8150-4b1de2099f3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b7a06146-7032-4501-8634-d863e8a54c94"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1993d66a-75dc-4a2e-8e5e-6adc76898582"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "55aec311-821d-4197-a954-836a0ffe457d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4ea0bb84-4141-4e5e-8150-4b1de2099f3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1993d66a-75dc-4a2e-8e5e-6adc76898582",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2005404703186989536",
+                                                                                                                                                                                      "2005156116003684739",
+                                                                                                                                                                                      "1993151108445790338",
+                                                                                                                                                                                      "1987377018913137060",
+                                                                                                                                                                                      "1887141643611976027"
+                                                                                                                                                                                  ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "55aec311-821d-4197-a954-836a0ffe457d",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2012463665186742643",
+                                                                                                                                                                                      "862722656860327937",
+                                                                                                                                                                                      "2012210443020824676",
+                                                                                                                                                                                      "1400825297021423618",
+                                                                                                                                                                                      "2012547537568161841",
+                                                                                                                                                                                      "1613650635919970304",
+                                                                                                                                                                                      "2012501580654792987",
+                                                                                                                                                                                      "1841187790425374899",
+                                                                                                                                                                                      "2012520966492999683",
+                                                                                                                                                                                      "1990756345663181037",
+                                                                                                                                                                                      "2011898384509190325",
+                                                                                                                                                                                      "1963727064235724993",
+                                                                                                                                                                                      "2012272401401209151",
+                                                                                                                                                                                      "1999589742040465443",
+                                                                                                                                                                                      "2012524429637562406",
+                                                                                                                                                                                      "1917916797220593925",
+                                                                                                                                                                                      "2012528295854645558",
+                                                                                                                                                                                      "1863952143691948090",
+                                                                                                                                                                                      "2012522746966683650",
+                                                                                                                                                                                      "1949930018089656467"
+                                                                                                                                                                                  ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "34848119-fcac-4162-9f30-ceb6431a655a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5eb66299-61a4-4f1d-b6d3-3ff72ab50039"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4350607b-395d-466c-bbf4-bd5c0c2b20b2"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5eb66299-61a4-4f1d-b6d3-3ff72ab50039",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2012627885505310792",
+                                                                                                                                                                                      "2012625689787183305",
+                                                                                                                                                                                      "2012625103998050741",
+                                                                                                                                                                                      "2012618591225389279",
+                                                                                                                                                                                      "2012614426424193212",
+                                                                                                                                                                                      "2012604572561203448",
+                                                                                                                                                                                      "2012604546359378073",
+                                                                                                                                                                                      "2012604317581083030",
+                                                                                                                                                                                      "2012603803141345767",
+                                                                                                                                                                                      "2012603565076852923",
+                                                                                                                                                                                      "2012600609535357168",
+                                                                                                                                                                                      "2012598788829888723",
+                                                                                                                                                                                      "2012590489891975583",
+                                                                                                                                                                                      "2012589177561383358",
+                                                                                                                                                                                      "2012589050914288118",
+                                                                                                                                                                                      "2012586968941580678",
+                                                                                                                                                                                      "2012585483981758553",
+                                                                                                                                                                                      "2012583459840032932",
+                                                                                                                                                                                      "2012581018037866767",
+                                                                                                                                                                                      "2012578825930993825",
+                                                                                                                                                                                      "2012576304902643827",
+                                                                                                                                                                                      "2012576136677470687",
+                                                                                                                                                                                      "2012575883157213571",
+                                                                                                                                                                                      "2012574937572114578",
+                                                                                                                                                                                      "2012573838954086512",
+                                                                                                                                                                                      "2012573395615891963",
+                                                                                                                                                                                      "2012572092944830719",
+                                                                                                                                                                                      "2012571705160442008",
+                                                                                                                                                                                      "2012571676190396713",
+                                                                                                                                                                                      "2012570630466502732"
+                                                                                                                                                                                  ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4350607b-395d-466c-bbf4-bd5c0c2b20b2",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1698332649276715368",
+                                                                                                                                                                                      "2010833108493336743",
+                                                                                                                                                                                      "804370279984168960",
+                                                                                                                                                                                      "2010949279121015257",
+                                                                                                                                                                                      "1629710078881288192",
+                                                                                                                                                                                      "2010859649688617405",
+                                                                                                                                                                                      "1821344047107293436",
+                                                                                                                                                                                      "2011609552635248977",
+                                                                                                                                                                                      "1301200742758395904",
+                                                                                                                                                                                      "2012586979242791403"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Emphasizing the prototype",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The \"{pr0to}-type\" pun playfully reinforces the prototype\u0027s foundational role, encouraging deeper engagement with its innovative AI-driven mechanics.\n- Styling \"prototype\" as \"{pr0to}-type\" with leet-speak emphasizes its proto status, urging full embrace of the concept.\n- Embracing the prototype playfully aligns with the post\u0027s futuristic post ID, hinting at innovative AI advancements.\n- The stylized banner format with \"gotta lean into it\" invites enthusiastic adoption of the prototype\u0027s experimental essence.\n- Fetching the post reveals exact content to deepen understanding of the praise for Sebastian Aaltonen\u0027s AI prototype.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4ea0bb84-4141-4e5e-8150-4b1de2099f3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb7a06146-7032-4501-8634-d863e8a54c94\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen\",\"count\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1993d66a-75dc-4a2e-8e5e-6adc76898582\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"from:plassoplo proto OR prototype OR \\\"text adventure\\\"\",\"limit\":20,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e55aec311-821d-4197-a954-836a0ffe457d\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Sebastian Aaltonen AI text adventure prototype\",\"limit\":20}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4ea0bb84-4141-4e5e-8150-4b1de2099f3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b7a06146-7032-4501-8634-d863e8a54c94"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1993d66a-75dc-4a2e-8e5e-6adc76898582"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "55aec311-821d-4197-a954-836a0ffe457d"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4ea0bb84-4141-4e5e-8150-4b1de2099f3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1993d66a-75dc-4a2e-8e5e-6adc76898582",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2005404703186989536",
+                                                                                                                                                                                      "2005156116003684739",
+                                                                                                                                                                                      "1993151108445790338",
+                                                                                                                                                                                      "1987377018913137060",
+                                                                                                                                                                                      "1887141643611976027"
+                                                                                                                                                                                  ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "55aec311-821d-4197-a954-836a0ffe457d",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2012463665186742643",
+                                                                                                                                                                                      "862722656860327937",
+                                                                                                                                                                                      "2012210443020824676",
+                                                                                                                                                                                      "1400825297021423618",
+                                                                                                                                                                                      "2012547537568161841",
+                                                                                                                                                                                      "1613650635919970304",
+                                                                                                                                                                                      "2012501580654792987",
+                                                                                                                                                                                      "1841187790425374899",
+                                                                                                                                                                                      "2012520966492999683",
+                                                                                                                                                                                      "1990756345663181037",
+                                                                                                                                                                                      "2011898384509190325",
+                                                                                                                                                                                      "1963727064235724993",
+                                                                                                                                                                                      "2012272401401209151",
+                                                                                                                                                                                      "1999589742040465443",
+                                                                                                                                                                                      "2012524429637562406",
+                                                                                                                                                                                      "1917916797220593925",
+                                                                                                                                                                                      "2012528295854645558",
+                                                                                                                                                                                      "1863952143691948090",
+                                                                                                                                                                                      "2012522746966683650",
+                                                                                                                                                                                      "1949930018089656467"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Exploring the praise",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The original reply highlights the prototype\u0027s real-time generation, positioning it as a benchmark for AI interactive fiction.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e34848119-fcac-4162-9f30-ceb6431a655a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/2012209642277928960/vid/avc1/286x270/lhEllWYEA_jFwFVG.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5eb66299-61a4-4f1d-b6d3-3ff72ab50039\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"conversation_id:2012210443020824676\",\"limit\":30,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e4350607b-395d-466c-bbf4-bd5c0c2b20b2\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_semantic_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"{pr0to}-type OR \\\"proto-type\\\" OR \\\"pr0to type\\\" from:plassoplo\",\"limit\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The stylized message acts as a mantra, inviting you to embrace the prototype\u0027s experimental AI essence enthusiastically.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "34848119-fcac-4162-9f30-ceb6431a655a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5eb66299-61a4-4f1d-b6d3-3ff72ab50039"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4350607b-395d-466c-bbf4-bd5c0c2b20b2"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5eb66299-61a4-4f1d-b6d3-3ff72ab50039",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "2012627885505310792",
+                                                                                                                                                                                      "2012625689787183305",
+                                                                                                                                                                                      "2012625103998050741",
+                                                                                                                                                                                      "2012618591225389279",
+                                                                                                                                                                                      "2012614426424193212",
+                                                                                                                                                                                      "2012604572561203448",
+                                                                                                                                                                                      "2012604546359378073",
+                                                                                                                                                                                      "2012604317581083030",
+                                                                                                                                                                                      "2012603803141345767",
+                                                                                                                                                                                      "2012603565076852923",
+                                                                                                                                                                                      "2012600609535357168",
+                                                                                                                                                                                      "2012598788829888723",
+                                                                                                                                                                                      "2012590489891975583",
+                                                                                                                                                                                      "2012589177561383358",
+                                                                                                                                                                                      "2012589050914288118",
+                                                                                                                                                                                      "2012586968941580678",
+                                                                                                                                                                                      "2012585483981758553",
+                                                                                                                                                                                      "2012583459840032932",
+                                                                                                                                                                                      "2012581018037866767",
+                                                                                                                                                                                      "2012578825930993825",
+                                                                                                                                                                                      "2012576304902643827",
+                                                                                                                                                                                      "2012576136677470687",
+                                                                                                                                                                                      "2012575883157213571",
+                                                                                                                                                                                      "2012574937572114578",
+                                                                                                                                                                                      "2012573838954086512",
+                                                                                                                                                                                      "2012573395615891963",
+                                                                                                                                                                                      "2012572092944830719",
+                                                                                                                                                                                      "2012571705160442008",
+                                                                                                                                                                                      "2012571676190396713",
+                                                                                                                                                                                      "2012570630466502732"
+                                                                                                                                                                                  ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "4350607b-395d-466c-bbf4-bd5c0c2b20b2",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1698332649276715368",
+                                                                                                                                                                                      "2010833108493336743",
+                                                                                                                                                                                      "804370279984168960",
+                                                                                                                                                                                      "2010949279121015257",
+                                                                                                                                                                                      "1629710078881288192",
+                                                                                                                                                                                      "2010859649688617405",
+                                                                                                                                                                                      "1821344047107293436",
+                                                                                                                                                                                      "2011609552635248977",
+                                                                                                                                                                                      "1301200742758395904",
+                                                                                                                                                                                      "2012586979242791403"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2012628393020235776",
+                                                                              "created_at_ms":  1768682976395,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "{pr0to}-type\ngotta lean into it ---\n{pr0to}-type",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2012628092104151042",
+                                                                              "created_at_ms":  1768682904670,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply praises Sebastian Aaltonen\u0027s AI text adventure prototype, which dynamically generates stories, rooms, and battles using models like JSON-parsed outputs from text and image AIs, creating a play-as-you-build experience.\n- The phrase \"making the game as you play\" captures the prototype\u0027s real-time procedural generation, where player actions influence evolving world elements, echoing early MUDs but enhanced by modern AI.\n- \"Kanon\" affirms the work as an exemplary foundation (\"proto-type to their prototypes\"), suggesting it sets a benchmark for AI-driven interactive fiction, potentially accelerating development timelines beyond the anticipated 6-7 years.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestReviewing X post- User shared a link to an X post by @plassoplo with ID 2012627885505310792.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea5885b43-07fc-4c3c-9577-3e832dfe7741\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- This is the user\u0027s own post, dated earlier than current January 17, 2026.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea5885b43-07fc-4c3c-9577-3e832dfe7741\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The post is a reply to @SebAaltonen\u0027s showcase of an AI-powered text adventure game prototype.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea5885b43-07fc-4c3c-9577-3e832dfe7741\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a5885b43-07fc-4c3c-9577-3e832dfe7741"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a5885b43-07fc-4c3c-9577-3e832dfe7741"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- User shared a link to an X post by @plassoplo with ID 2012627885505310792.\n- This is the user\u0027s own post, dated earlier than current January 17, 2026.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea5885b43-07fc-4c3c-9577-3e832dfe7741\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2012627885505310792}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The post is a reply to @SebAaltonen\u0027s showcase of an AI-powered text adventure game prototype.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a5885b43-07fc-4c3c-9577-3e832dfe7741"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a5885b43-07fc-4c3c-9577-3e832dfe7741"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2012628092104151041",
+                                                                              "created_at_ms":  1768682904670,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/2012627885505310792",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

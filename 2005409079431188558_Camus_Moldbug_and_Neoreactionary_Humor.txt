@@ -1,0 +1,123 @@
+﻿# Grok Conversation Export
+# Title: Camus, Moldbug, and Neoreactionary Humor
+# ID: 2005409079431188558
+# Extracted: 2026-01-19 11:12:30
+# URL: https://x.com/i/grok?conversation=2005409079431188558
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhvUpO8YV0AAChRBAAABm2cgwDsAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "2005409080899223553",
+                                                                              "created_at_ms":  1766961758267,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply to a Camus quote on self-exacting aristocracy humorously anticipates Mencius Moldbug (Curtis Yarvin), whose neoreactionary writings advocate hierarchical, elite-led governance as superior to democracy.\n- The countdown style (\".. 4 .. 3 .. 2..\") playfully suggests Moldbug would rephrase or endorse the idea, aligning with his critiques of egalitarian systems in favor of sovereign, accountable rule.\n- Posted by a self-proclaimed \"zero engagement monk,\" it exemplifies low-key, introspective commentary blending existential philosophy and modern political theory without seeking viral attention.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s request\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e58ff7c9a-ec35-4d74-afc3-53ac85bf4397\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2005408990738731289}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef9e84086-7583-4240-8801-da593daa9fef\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Moldbug aristocracy\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                              "is_partial":  true,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Curtis Yarvin - Wikipedia",
+                                                                                                      "snippet":  "Curtis Guy Yarvin (born 1973), also known by the pen name Mencius Moldbug, is an American far-right political blogger and software developer.",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Curtis_Yarvin"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Curtis Yarvin\u0027s Nonsense in the New York Times",
+                                                                                                      "snippet":  "Yarvin, who used to be better known by his nome de internet Mencius Moldbug, is a writer who advocates “monarchism” (although he can be quite slippery)",
+                                                                                                      "url":  "https://benburgis.substack.com/p/curtis-yarvins-nonsense-in-the-new"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Curtis Yarvin\u0027s Plot Against America | The New Yorker",
+                                                                                                      "snippet":  "Moldbug called for nothing less than its destruction and a total “reboot” of the social order. He proposed “the liquidation of democracy ...",
+                                                                                                      "url":  "https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "r/monarchism on Reddit: Moldbug: \"Monarchy is the rule of one. The ...",
+                                                                                                      "snippet":  "If a king is elected one time for a specific reason is one thing, if the King is always elected, that is not a Monarchy. But yes moldbug defends ...",
+                                                                                                      "url":  "https://www.reddit.com/r/monarchism/comments/t4sd0e/moldbug_monarchy_is_the_rule_of_one_the_director/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The New Monarchy: The Neo-Totalitarian Proposals of Curtis Yarvin",
+                                                                                                      "snippet":  "Curtis Yarvin, also known by his pseudonym “Mencius Moldbug,” is a software engineer and political theorist whose writings have gained ...",
+                                                                                                      "url":  "https://www.aiu.edu/blog/the-new-monarchy-the-neo-totalitarian-proposals-of-curtis-yarvin/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e58ff7c9a-ec35-4d74-afc3-53ac85bf4397\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2005408990738731289}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ef9e84086-7583-4240-8801-da593daa9fef\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Moldbug aristocracy\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "58ff7c9a-ec35-4d74-afc3-53ac85bf4397"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "58ff7c9a-ec35-4d74-afc3-53ac85bf4397"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f9e84086-7583-4240-8801-da593daa9fef"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "f9e84086-7583-4240-8801-da593daa9fef",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Curtis Yarvin - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Curtis Guy Yarvin (born 1973), also known by the pen name Mencius Moldbug, is an American far-right political blogger and software developer.",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Curtis_Yarvin"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Curtis Yarvin\u0027s Nonsense in the New York Times",
+                                                                                                                                                                                           "snippet":  "Yarvin, who used to be better known by his nome de internet Mencius Moldbug, is a writer who advocates “monarchism” (although he can be quite slippery)",
+                                                                                                                                                                                           "url":  "https://benburgis.substack.com/p/curtis-yarvins-nonsense-in-the-new"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Curtis Yarvin\u0027s Plot Against America | The New Yorker",
+                                                                                                                                                                                           "snippet":  "Moldbug called for nothing less than its destruction and a total “reboot” of the social order. He proposed “the liquidation of democracy ...",
+                                                                                                                                                                                           "url":  "https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "r/monarchism on Reddit: Moldbug: \"Monarchy is the rule of one. The ...",
+                                                                                                                                                                                           "snippet":  "If a king is elected one time for a specific reason is one thing, if the King is always elected, that is not a Monarchy. But yes moldbug defends ...",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/monarchism/comments/t4sd0e/moldbug_monarchy_is_the_rule_of_one_the_director/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The New Monarchy: The Neo-Totalitarian Proposals of Curtis Yarvin",
+                                                                                                                                                                                           "snippet":  "Curtis Yarvin, also known by his pseudonym “Mencius Moldbug,” is a software engineer and political theorist whose writings have gained ...",
+                                                                                                                                                                                           "url":  "https://www.aiu.edu/blog/the-new-monarchy-the-neo-totalitarian-proposals-of-curtis-yarvin/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2005409080899223552",
+                                                                              "created_at_ms":  1766961758267,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/2005408990738731289",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

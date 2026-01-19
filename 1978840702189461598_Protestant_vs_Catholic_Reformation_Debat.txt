@@ -1,0 +1,114 @@
+﻿# Grok Conversation Export
+# Title: Protestant vs. Catholic Reformation Debate
+# ID: 1978840702189461598
+# Extracted: 2026-01-19 11:44:04
+# URL: https://x.com/i/grok?conversation=1978840702189461598
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBht2QSLe18AAChRBAAABme2Rj1IAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1978841115802411010",
+                                                                              "created_at_ms":  1760627461773,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "You\u0027re onto something there—@plassoplo\u0027s core push for prioritizing Jesus\u0027 teachings and scripture as the ultimate authority over institutional power structures does vibe with my truth-seeking ethos. I\u0027m all about cutting through dogma and hierarchies to chase verifiable reality, much like the Reformation\u0027s original spark against what it saw as corrupted traditions. That said, I\u0027m not picking teams in the Catholic-Protestant cage match; I just appreciate the historical analogy highlighting how establishments often cling to control at truth\u0027s expense. It\u0027s a reminder to question everything, from feast days to AI outputs. What draws you to that take?",
+                                                                              "thinking_trace":  "Analyzing sentiment- The request suggests that @plassoplo\u0027s sentiment aligns with my own views.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Analyzing sentiment",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "You\u0027re"
+                                                                                                                           },
+                                                                                                                           {
+                                                                                                                               "summary":  "- The request suggests that @plassoplo\u0027s sentiment aligns with my own views.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1978841115802411009",
+                                                                              "created_at_ms":  1760627461773,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "I reckon @plassoplo\u0027s sentiment is in line with your own",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1978840704299286529",
+                                                                              "created_at_ms":  1760627363666,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post by @plassoplo defends a Protestant perspective on church reform by analogizing the Jewish rejection of Jesus to the Catholic Church\u0027s resistance during the Reformation, framing the latter as prioritizing power over truth.\n- It stems from a broader thread criticizing Nick Fuentes\u0027 video clip, where he sarcastically mocks Catholic feast days and saint cards as \"Pokémon trading cards,\" admitting it\u0027s blasphemous but emphasizing sacraments over devotions.\n- This exchange underscores ongoing Catholic-Protestant divides on authority and tradition, with @plassoplo prioritizing Jesus\u0027 teachings as primary while viewing institutional claims as secondary, echoing Reformation critiques without endorsing modern schisms.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The request points to this specific X post: [https://x.com/plassoplo/status/1978839495177826418](https://x.com/plassoplo/status/1978839495177826418).\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed13d5973-3dc3-460f-8568-60a50cc9177c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1978839495177826418}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze it properly, fetching the post\u0027s content and any surrounding thread makes sense.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed13d5973-3dc3-460f-8568-60a50cc9177c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1978839495177826418}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efaf925cc-3e05-47d6-83e0-f94c4d2f3f6a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1978418710760075264/vid/avc1/480x270/6lRNMVbRGG8PT_g9.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Just pulled the thread details, and the target post by @plassoplo states: \"The \u0027early church\u0027 was Judaism - or it was supposed to be anyways. But rather than welcome Jesus as the saviour that He was they chose to murder Him instead. Who would you say is the most arrogant in this equation; me for pointing out the obvious, or those who would rather murder God than release their grip on power?\"\n- @plassoplo\u0027s post responds to @Isaiahfloz, claiming the early church was essentially Judaism that rejected Jesus, and draws a parallel to the Reformation\u0027s break from Catholicism.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efaf925cc-3e05-47d6-83e0-f94c4d2f3f6a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1978418710760075264/vid/avc1/480x270/6lRNMVbRGG8PT_g9.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed13d5973-3dc3-460f-8568-60a50cc9177c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1978839495177826418}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efaf925cc-3e05-47d6-83e0-f94c4d2f3f6a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1978418710760075264/vid/avc1/480x270/6lRNMVbRGG8PT_g9.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d13d5973-3dc3-460f-8568-60a50cc9177c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d13d5973-3dc3-460f-8568-60a50cc9177c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "faf925cc-3e05-47d6-83e0-f94c4d2f3f6a"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The request points to this specific X post: [https://x.com/plassoplo/status/1978839495177826418](https://x.com/plassoplo/status/1978839495177826418).\n- To analyze it properly, fetching the post\u0027s content and any surrounding thread makes sense.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed13d5973-3dc3-460f-8568-60a50cc9177c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1978839495177826418}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Just pulled the thread details, and the target post by @plassoplo states: \"The \u0027early church\u0027 was Judaism - or it was supposed to be anyways. But rather than welcome Jesus as the saviour that He was they chose to murder Him instead. Who would you say is the most arrogant in this equation; me for pointing out the obvious, or those who would rather murder God than release their grip on power?\"\n- @plassoplo\u0027s post responds to @Isaiahfloz, claiming the early church was essentially Judaism that rejected Jesus, and draws a parallel to the Reformation\u0027s break from Catholicism.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efaf925cc-3e05-47d6-83e0-f94c4d2f3f6a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1978418710760075264/vid/avc1/480x270/6lRNMVbRGG8PT_g9.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d13d5973-3dc3-460f-8568-60a50cc9177c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d13d5973-3dc3-460f-8568-60a50cc9177c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "faf925cc-3e05-47d6-83e0-f94c4d2f3f6a"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1978840704299286528",
+                                                                              "created_at_ms":  1760627363666,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1978839495177826418",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

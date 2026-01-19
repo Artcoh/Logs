@@ -1,0 +1,427 @@
+﻿# Grok Conversation Export
+# Title: Navy SEALs Crackdown on Venezuelan Smuggling
+# ID: 1995962787705548907
+# Extracted: 2026-01-19 11:24:37
+# URL: https://x.com/i/grok?conversation=1995962787705548907
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuzFZTXl4AAChRBAAABmuDjVzMAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1995962788871634945",
+                                                                              "created_at_ms":  1764709586739,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This post endorses US Navy SEAL operations targeting Venezuelan boats amid December 2025 strikes under Operation Southern Spear, framing traffickers as \"demons\" warranting extreme lethal measures to curb narcotics and human smuggling.\n- It echoes Jocko Willink\u0027s motivational style with \"GOOOD!\" while tagging Trump and officials, amid controversy over strikes killing survivors, as highlighted in recent Pentagon updates and ABC News reports questioning adherence to international law.\n- The attached image satirizes a \"maritime justice\" brief presuming boats from cartel ports as organ-harvesting or rape vessels, urging aggressive sinkings without half-measures, tying into unverified conspiracy narratives around trafficking rituals.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from plassoplo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e83a5ebc8-9264-4077-a607-12f43a1cdd62\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995962685859790927}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Fetching the thread details for post ID 1995962685859790927 to start analysis.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e83a5ebc8-9264-4077-a607-12f43a1cdd62\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995962685859790927}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nAnalyzing post content- Noting the intense message tagging military and Trump accounts, urging demon extermination with a Jocko Willink quote.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3dfdd51b-cb42-41dc-bc4b-4152a28989a5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7MUWtZXMAAYy1W.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eInterpreting post references- Spotting \"swimmers\" likely meaning infiltrators, tying into Jocko Willink\u0027s SEAL background.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3dfdd51b-cb42-41dc-bc4b-4152a28989a5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7MUWtZXMAAYy1W.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0d7fd15f-8e90-43b2-8e2b-cddd57a95bda\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"US Navy SEALs operation December 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0d7fd15f-8e90-43b2-8e2b-cddd57a95bda\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"US Navy SEALs operation December 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2eedb4bc-aeac-4df0-9f02-d62bc073517e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"(\\\"Navy SEALs\\\" OR @us_navyseals) (demons OR boats OR organ OR harvesting) since:2025-12-01\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2eedb4bc-aeac-4df0-9f02-d62bc073517e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"(\\\"Navy SEALs\\\" OR @us_navyseals) (demons OR boats OR organ OR harvesting) since:2025-12-01\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nUncovering event context- Linking post to recent US boat strikes in Venezuela, involving SEALs and controversy over killing survivors.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "post_ids_results":  [
+                                                                                                       {
+                                                                                                           "rest_id":  "1995962685859790927"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995918585055903812"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995892652718645708"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995881012119654833"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995854721798873520"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995837328930291722"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995751668944932940"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995738312821141792"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995456787462475776"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995318042084176180"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995962685859790927"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995918585055903812"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995892652718645708"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995881012119654833"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995854721798873520"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995837328930291722"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995751668944932940"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995738312821141792"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995456787462475776"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "rest_id":  "1995318042084176180"
+                                                                                                       }
+                                                                                                   ],
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Pentagon Provides Update on Operation Southern Spear, Reaffirms ...",
+                                                                                                      "snippet":  "To date, a total of 21 kinetic strikes in U.S. Southern Command\u0027s area of operations have taken place, resulting in 82 narco-terrorists having ...",
+                                                                                                      "url":  "https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4346451/pentagon-provides-update-on-operation-southern-spear-reaffirms-socom-called-for/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "3 key questions about the US boat strikes that killed survivors",
+                                                                                                      "snippet":  "3 key questions about the US boat strikes that killed survivors. December 2, 2025 ABC News ABC Politics News. Pete Hegseth, US secretary of ...",
+                                                                                                      "url":  "https://kornradio.com/abc-politics-news/3-key-questions-about-the-us-boat-strikes-that-killed-survivors/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+                                                                                                      "snippet":  "A group of Navy SEALs emerged from the ink-black ocean on a winter night in early 2019 and crept to a rocky shore in North Korea.",
+                                                                                                      "url":  "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "USS Gerald R. Ford Arrives in St. Thomas, U.S. Virgin Islands",
+                                                                                                      "snippet":  "The Gerald R. Ford Carrier Strike Group transited the Anegada Passage and entered the Caribbean Sea, Nov. 16, 2025. As part of Joint Task Force ...",
+                                                                                                      "url":  "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4344883/uss-gerald-r-ford-arrives-in-st-thomas-us-virgin-islands/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "USNI News Fleet and Marine Tracker: Dec. 1, 2025",
+                                                                                                      "snippet":  "These are the approximate positions of the U.S. Navy\u0027s deployed carrier strike groups and amphibious ready groups throughout the world as of Dec ...",
+                                                                                                      "url":  "https://news.usni.org/2025/12/01/usni-news-fleet-and-marine-tracker-dec-1-2025"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six",
+                                                                                                      "snippet":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six. December 1, 2025, 2:18 PM PST. Roxana Tiron. Reporter. The US Navy\u0027s ...",
+                                                                                                      "url":  "https://news.bgov.com/bloomberg-government-news/admiral-at-center-of-venezuela-boat-strike-led-seal-team-six"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Adm. Frank Bradley, commander who issued second boat ...",
+                                                                                                      "snippet":  "Navy Adm. Frank M. “Mitch” Bradley has been identified by the White House as having made the decision to launch a second, follow-up Sept.",
+                                                                                                      "url":  "https://thehill.com/policy/defense/5628986-admiral-bradley-pentagon-directive/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Admiral Frank Bradley? Commander in spotlight over ...",
+                                                                                                      "snippet":  "The U.S. Navy says Bradley was \"among the first to deploy into Afghanistan\" in the wake of the 9/11 attacks and has served with SEAL Team ...",
+                                                                                                      "url":  "https://www.newsweek.com/who-is-admiral-frank-bradley-commander-in-spotlight-over-venezuela-strike-11139199"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "3 key questions about the US boat strike that killed survivors",
+                                                                                                      "snippet":  "Hegseth and a top military commander are facing serious questions about why the U.S. on Sept. 2 killed survivors of a military strike ...",
+                                                                                                      "url":  "https://abcnews.go.com/Politics/3-key-questions-us-boat-strikes-killed-survivors/story?id=128017782"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Operation Red Wings - LT Michael P. Murphy Navy SEAL Museum",
+                                                                                                      "snippet":  "Operation Red Wings involved a four-man SEAL team in Afghanistan, a fierce firefight, and the death of three SEALs, with one escaping. The mission was to scout ...",
+                                                                                                      "url":  "https://murphsealmuseum.org/operation-red-wings/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Pentagon Provides Update on Operation Southern Spear, Reaffirms ...",
+                                                                                                      "snippet":  "To date, a total of 21 kinetic strikes in U.S. Southern Command\u0027s area of operations have taken place, resulting in 82 narco-terrorists having ...",
+                                                                                                      "url":  "https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4346451/pentagon-provides-update-on-operation-southern-spear-reaffirms-socom-called-for/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "3 key questions about the US boat strikes that killed survivors",
+                                                                                                      "snippet":  "3 key questions about the US boat strikes that killed survivors. December 2, 2025 ABC News ABC Politics News. Pete Hegseth, US secretary of ...",
+                                                                                                      "url":  "https://kornradio.com/abc-politics-news/3-key-questions-about-the-us-boat-strikes-that-killed-survivors/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+                                                                                                      "snippet":  "A group of Navy SEALs emerged from the ink-black ocean on a winter night in early 2019 and crept to a rocky shore in North Korea.",
+                                                                                                      "url":  "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "USS Gerald R. Ford Arrives in St. Thomas, U.S. Virgin Islands",
+                                                                                                      "snippet":  "The Gerald R. Ford Carrier Strike Group transited the Anegada Passage and entered the Caribbean Sea, Nov. 16, 2025. As part of Joint Task Force ...",
+                                                                                                      "url":  "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4344883/uss-gerald-r-ford-arrives-in-st-thomas-us-virgin-islands/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "USNI News Fleet and Marine Tracker: Dec. 1, 2025",
+                                                                                                      "snippet":  "These are the approximate positions of the U.S. Navy\u0027s deployed carrier strike groups and amphibious ready groups throughout the world as of Dec ...",
+                                                                                                      "url":  "https://news.usni.org/2025/12/01/usni-news-fleet-and-marine-tracker-dec-1-2025"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six",
+                                                                                                      "snippet":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six. December 1, 2025, 2:18 PM PST. Roxana Tiron. Reporter. The US Navy\u0027s ...",
+                                                                                                      "url":  "https://news.bgov.com/bloomberg-government-news/admiral-at-center-of-venezuela-boat-strike-led-seal-team-six"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Adm. Frank Bradley, commander who issued second boat ...",
+                                                                                                      "snippet":  "Navy Adm. Frank M. “Mitch” Bradley has been identified by the White House as having made the decision to launch a second, follow-up Sept.",
+                                                                                                      "url":  "https://thehill.com/policy/defense/5628986-admiral-bradley-pentagon-directive/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Admiral Frank Bradley? Commander in spotlight over ...",
+                                                                                                      "snippet":  "The U.S. Navy says Bradley was \"among the first to deploy into Afghanistan\" in the wake of the 9/11 attacks and has served with SEAL Team ...",
+                                                                                                      "url":  "https://www.newsweek.com/who-is-admiral-frank-bradley-commander-in-spotlight-over-venezuela-strike-11139199"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "3 key questions about the US boat strike that killed survivors",
+                                                                                                      "snippet":  "Hegseth and a top military commander are facing serious questions about why the U.S. on Sept. 2 killed survivors of a military strike ...",
+                                                                                                      "url":  "https://abcnews.go.com/Politics/3-key-questions-us-boat-strikes-killed-survivors/story?id=128017782"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Operation Red Wings - LT Michael P. Murphy Navy SEAL Museum",
+                                                                                                      "snippet":  "Operation Red Wings involved a four-man SEAL team in Afghanistan, a fierce firefight, and the death of three SEALs, with one escaping. The mission was to scout ...",
+                                                                                                      "url":  "https://murphsealmuseum.org/operation-red-wings/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e83a5ebc8-9264-4077-a607-12f43a1cdd62\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995962685859790927}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3dfdd51b-cb42-41dc-bc4b-4152a28989a5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7MUWtZXMAAYy1W.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0d7fd15f-8e90-43b2-8e2b-cddd57a95bda\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"US Navy SEALs operation December 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2eedb4bc-aeac-4df0-9f02-d62bc073517e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"(\\\"Navy SEALs\\\" OR @us_navyseals) (demons OR boats OR organ OR harvesting) since:2025-12-01\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "83a5ebc8-9264-4077-a607-12f43a1cdd62"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "83a5ebc8-9264-4077-a607-12f43a1cdd62"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3dfdd51b-cb42-41dc-bc4b-4152a28989a5"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0d7fd15f-8e90-43b2-8e2b-cddd57a95bda"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "2eedb4bc-aeac-4df0-9f02-d62bc073517e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0d7fd15f-8e90-43b2-8e2b-cddd57a95bda",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Pentagon Provides Update on Operation Southern Spear, Reaffirms ...",
+                                                                                                                                                                                           "snippet":  "To date, a total of 21 kinetic strikes in U.S. Southern Command\u0027s area of operations have taken place, resulting in 82 narco-terrorists having ...",
+                                                                                                                                                                                           "url":  "https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4346451/pentagon-provides-update-on-operation-southern-spear-reaffirms-socom-called-for/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "3 key questions about the US boat strikes that killed survivors",
+                                                                                                                                                                                           "snippet":  "3 key questions about the US boat strikes that killed survivors. December 2, 2025 ABC News ABC Politics News. Pete Hegseth, US secretary of ...",
+                                                                                                                                                                                           "url":  "https://kornradio.com/abc-politics-news/3-key-questions-about-the-us-boat-strikes-that-killed-survivors/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+                                                                                                                                                                                           "snippet":  "A group of Navy SEALs emerged from the ink-black ocean on a winter night in early 2019 and crept to a rocky shore in North Korea.",
+                                                                                                                                                                                           "url":  "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "USS Gerald R. Ford Arrives in St. Thomas, U.S. Virgin Islands",
+                                                                                                                                                                                           "snippet":  "The Gerald R. Ford Carrier Strike Group transited the Anegada Passage and entered the Caribbean Sea, Nov. 16, 2025. As part of Joint Task Force ...",
+                                                                                                                                                                                           "url":  "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4344883/uss-gerald-r-ford-arrives-in-st-thomas-us-virgin-islands/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "USNI News Fleet and Marine Tracker: Dec. 1, 2025",
+                                                                                                                                                                                           "snippet":  "These are the approximate positions of the U.S. Navy\u0027s deployed carrier strike groups and amphibious ready groups throughout the world as of Dec ...",
+                                                                                                                                                                                           "url":  "https://news.usni.org/2025/12/01/usni-news-fleet-and-marine-tracker-dec-1-2025"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six",
+                                                                                                                                                                                           "snippet":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six. December 1, 2025, 2:18 PM PST. Roxana Tiron. Reporter. The US Navy\u0027s ...",
+                                                                                                                                                                                           "url":  "https://news.bgov.com/bloomberg-government-news/admiral-at-center-of-venezuela-boat-strike-led-seal-team-six"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Adm. Frank Bradley, commander who issued second boat ...",
+                                                                                                                                                                                           "snippet":  "Navy Adm. Frank M. “Mitch” Bradley has been identified by the White House as having made the decision to launch a second, follow-up Sept.",
+                                                                                                                                                                                           "url":  "https://thehill.com/policy/defense/5628986-admiral-bradley-pentagon-directive/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Admiral Frank Bradley? Commander in spotlight over ...",
+                                                                                                                                                                                           "snippet":  "The U.S. Navy says Bradley was \"among the first to deploy into Afghanistan\" in the wake of the 9/11 attacks and has served with SEAL Team ...",
+                                                                                                                                                                                           "url":  "https://www.newsweek.com/who-is-admiral-frank-bradley-commander-in-spotlight-over-venezuela-strike-11139199"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "3 key questions about the US boat strike that killed survivors",
+                                                                                                                                                                                           "snippet":  "Hegseth and a top military commander are facing serious questions about why the U.S. on Sept. 2 killed survivors of a military strike ...",
+                                                                                                                                                                                           "url":  "https://abcnews.go.com/Politics/3-key-questions-us-boat-strikes-killed-survivors/story?id=128017782"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Operation Red Wings - LT Michael P. Murphy Navy SEAL Museum",
+                                                                                                                                                                                           "snippet":  "Operation Red Wings involved a four-man SEAL team in Afghanistan, a fierce firefight, and the death of three SEALs, with one escaping. The mission was to scout ...",
+                                                                                                                                                                                           "url":  "https://murphsealmuseum.org/operation-red-wings/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "2eedb4bc-aeac-4df0-9f02-d62bc073517e",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1995962685859790927",
+                                                                                                                                                                                      "1995918585055903812",
+                                                                                                                                                                                      "1995892652718645708",
+                                                                                                                                                                                      "1995881012119654833",
+                                                                                                                                                                                      "1995854721798873520",
+                                                                                                                                                                                      "1995837328930291722",
+                                                                                                                                                                                      "1995751668944932940",
+                                                                                                                                                                                      "1995738312821141792",
+                                                                                                                                                                                      "1995456787462475776",
+                                                                                                                                                                                      "1995318042084176180"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from plassoplo to uncover key insights.\n- Fetching the thread details for post ID 1995962685859790927 to start analysis.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e83a5ebc8-9264-4077-a607-12f43a1cdd62\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995962685859790927}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "83a5ebc8-9264-4077-a607-12f43a1cdd62"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "83a5ebc8-9264-4077-a607-12f43a1cdd62"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing post content",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Noting the intense message tagging military and Trump accounts, urging demon extermination with a Jocko Willink quote.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Interpreting post references",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Spotting \"swimmers\" likely meaning infiltrators, tying into Jocko Willink\u0027s SEAL background.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3dfdd51b-cb42-41dc-bc4b-4152a28989a5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G7MUWtZXMAAYy1W.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e0d7fd15f-8e90-43b2-8e2b-cddd57a95bda\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"US Navy SEALs operation December 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e2eedb4bc-aeac-4df0-9f02-d62bc073517e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"(\\\"Navy SEALs\\\" OR @us_navyseals) (demons OR boats OR organ OR harvesting) since:2025-12-01\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3dfdd51b-cb42-41dc-bc4b-4152a28989a5"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0d7fd15f-8e90-43b2-8e2b-cddd57a95bda"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "2eedb4bc-aeac-4df0-9f02-d62bc073517e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "0d7fd15f-8e90-43b2-8e2b-cddd57a95bda",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Pentagon Provides Update on Operation Southern Spear, Reaffirms ...",
+                                                                                                                                                                                           "snippet":  "To date, a total of 21 kinetic strikes in U.S. Southern Command\u0027s area of operations have taken place, resulting in 82 narco-terrorists having ...",
+                                                                                                                                                                                           "url":  "https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4346451/pentagon-provides-update-on-operation-southern-spear-reaffirms-socom-called-for/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "3 key questions about the US boat strikes that killed survivors",
+                                                                                                                                                                                           "snippet":  "3 key questions about the US boat strikes that killed survivors. December 2, 2025 ABC News ABC Politics News. Pete Hegseth, US secretary of ...",
+                                                                                                                                                                                           "url":  "https://kornradio.com/abc-politics-news/3-key-questions-about-the-us-boat-strikes-that-killed-survivors/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+                                                                                                                                                                                           "snippet":  "A group of Navy SEALs emerged from the ink-black ocean on a winter night in early 2019 and crept to a rocky shore in North Korea.",
+                                                                                                                                                                                           "url":  "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "USS Gerald R. Ford Arrives in St. Thomas, U.S. Virgin Islands",
+                                                                                                                                                                                           "snippet":  "The Gerald R. Ford Carrier Strike Group transited the Anegada Passage and entered the Caribbean Sea, Nov. 16, 2025. As part of Joint Task Force ...",
+                                                                                                                                                                                           "url":  "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4344883/uss-gerald-r-ford-arrives-in-st-thomas-us-virgin-islands/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "USNI News Fleet and Marine Tracker: Dec. 1, 2025",
+                                                                                                                                                                                           "snippet":  "These are the approximate positions of the U.S. Navy\u0027s deployed carrier strike groups and amphibious ready groups throughout the world as of Dec ...",
+                                                                                                                                                                                           "url":  "https://news.usni.org/2025/12/01/usni-news-fleet-and-marine-tracker-dec-1-2025"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six",
+                                                                                                                                                                                           "snippet":  "Admiral at Center of Venezuela Boat Strike Led SEAL Team Six. December 1, 2025, 2:18 PM PST. Roxana Tiron. Reporter. The US Navy\u0027s ...",
+                                                                                                                                                                                           "url":  "https://news.bgov.com/bloomberg-government-news/admiral-at-center-of-venezuela-boat-strike-led-seal-team-six"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Adm. Frank Bradley, commander who issued second boat ...",
+                                                                                                                                                                                           "snippet":  "Navy Adm. Frank M. “Mitch” Bradley has been identified by the White House as having made the decision to launch a second, follow-up Sept.",
+                                                                                                                                                                                           "url":  "https://thehill.com/policy/defense/5628986-admiral-bradley-pentagon-directive/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Admiral Frank Bradley? Commander in spotlight over ...",
+                                                                                                                                                                                           "snippet":  "The U.S. Navy says Bradley was \"among the first to deploy into Afghanistan\" in the wake of the 9/11 attacks and has served with SEAL Team ...",
+                                                                                                                                                                                           "url":  "https://www.newsweek.com/who-is-admiral-frank-bradley-commander-in-spotlight-over-venezuela-strike-11139199"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "3 key questions about the US boat strike that killed survivors",
+                                                                                                                                                                                           "snippet":  "Hegseth and a top military commander are facing serious questions about why the U.S. on Sept. 2 killed survivors of a military strike ...",
+                                                                                                                                                                                           "url":  "https://abcnews.go.com/Politics/3-key-questions-us-boat-strikes-killed-survivors/story?id=128017782"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Operation Red Wings - LT Michael P. Murphy Navy SEAL Museum",
+                                                                                                                                                                                           "snippet":  "Operation Red Wings involved a four-man SEAL team in Afghanistan, a fierce firefight, and the death of three SEALs, with one escaping. The mission was to scout ...",
+                                                                                                                                                                                           "url":  "https://murphsealmuseum.org/operation-red-wings/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "2eedb4bc-aeac-4df0-9f02-d62bc073517e",
+                                                                                                                                                                   "x_post_ids":  [
+                                                                                                                                                                                      "1995962685859790927",
+                                                                                                                                                                                      "1995918585055903812",
+                                                                                                                                                                                      "1995892652718645708",
+                                                                                                                                                                                      "1995881012119654833",
+                                                                                                                                                                                      "1995854721798873520",
+                                                                                                                                                                                      "1995837328930291722",
+                                                                                                                                                                                      "1995751668944932940",
+                                                                                                                                                                                      "1995738312821141792",
+                                                                                                                                                                                      "1995456787462475776",
+                                                                                                                                                                                      "1995318042084176180"
+                                                                                                                                                                                  ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Uncovering event context",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Linking post to recent US boat strikes in Venezuela, involving SEALs and controversy over killing survivors.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1995962788871634944",
+                                                                              "created_at_ms":  1764709586739,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1995962685859790927",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

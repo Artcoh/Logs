@@ -1,0 +1,215 @@
+﻿# Grok Conversation Export
+# Title: Holocaust Denial and Nationalist Narratives
+# ID: 1989093776309035472
+# Extracted: 2026-01-19 11:36:44
+# URL: https://x.com/i/grok?conversation=1989093776309035472
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuarkCHFgAAChRBAAABmn9GBfcAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1989093777605001217",
+                                                                              "created_at_ms":  1763071886839,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post dismisses concern over potential Holocaust death tolls, attributing any casualties to \"collateral\" from Jewish alignment with Marxism/Leninism and the need for external purges after internal failures.\n- It replies in a heated thread where @Hexagram012 cites post-Soviet archaeological digs at Belzec and Sobibor—camps where over 1.5 million Jews were killed—revealing mass graves with cremated and intact remains, challenging denial claims.\n- This exchange reflects ongoing online debates blending Holocaust skepticism with nationalist critiques of communism, echoing mid-20th-century propaganda like Nazi and Soviet narratives on Jewish-Bolshevik ties.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1989092388288229607.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e384b686c-54ff-41d6-ac59-ab6105700a21\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989092388288229607}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze this post, I\u0027ll fetch its content and details for a quick breakdown.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e384b686c-54ff-41d6-ac59-ab6105700a21\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989092388288229607}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The post\u0027s content reads: \"All else aside; I do not care even if the numbers are true. They knew full well the dangers of aligning with Marxist/Leninism. Failure to purge internally necessitates purge externally. Collateral is always enormous.\"\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3baf70d2-0a9a-4e73-8b19-beb42a01819c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"archaeological investigations Belzec Sobibor mass graves post-Soviet\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eAnalyzing context- This post is a reply in a thread debating the Holocaust, where @plassoplo shows indifference to potential victim numbers, blaming them on political alignments with Marxism/Leninism.\n- The thread involves attempts to argue against the Shoah\u0027s occurrence, which feels meta since I\u0027m Grok responding to it.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3baf70d2-0a9a-4e73-8b19-beb42a01819c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"archaeological investigations Belzec Sobibor mass graves post-Soviet\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nVerifying evidence- Archaeological digs at Belzec from 1997-1999 uncovered mass graves, detailed in the publication \u0027Belzec - The Nazi Camp for Jews in the Light of Archaeological Sources\u0027.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Belzec Excavations - Holocaust Historical Society",
+                                                                                                      "snippet":  "The publication was titled: \u0027Belzec - The Nazi Camp for Jews in the Light of Archaeological Sources - Excavations 1997-1999\u0027. The archaeological investigations ...",
+                                                                                                      "url":  "https://www.holocausthistoricalsociety.org.uk/contents/belzec/belzecexcavations.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Excavating Nazi Extermination Centres - OpenEdition Journals",
+                                                                                                      "snippet":  "Cet article a pour objet l\u0027archéologie des camps d\u0027extermination de Chelmno, Treblinka, Sobibor et Belzec.",
+                                                                                                      "url":  "https://journals.openedition.org/temoigner/13399"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Genetic and phylogeographic evidence for Jewish Holocaust victims ...",
+                                                                                                      "snippet":  "Six million Jews were killed by Nazi Germany and its collaborators during World War II. Archaeological excavations in the area of the death ...",
+                                                                                                      "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8343952/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Earlier Belzec Investigations - JewishGen",
+                                                                                                      "snippet":  "(1) First Investigation 10.10.1945. The Polish War Crimes Commission of the Zamosc District Court, dated 11 April, 1946. investigation was lead ...",
+                                                                                                      "url":  "https://www.jewishgen.org/yizkor/belzec/bel002.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Perpetrators from Treblinka: interdisciplinary investigations of seven ...",
+                                                                                                      "snippet":  "A row of individual burials was discovered at the former Treblinka extermination and forced labor camp. Seven of those graves were explored to identify the ...",
+                                                                                                      "url":  "https://www.nature.com/articles/s40494-024-01184-7"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Belzec Excavations - Holocaust Historical Society",
+                                                                                                      "snippet":  "The publication was titled: \u0027Belzec - The Nazi Camp for Jews in the Light of Archaeological Sources - Excavations 1997-1999\u0027. The archaeological investigations ...",
+                                                                                                      "url":  "https://www.holocausthistoricalsociety.org.uk/contents/belzec/belzecexcavations.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Excavating Nazi Extermination Centres - OpenEdition Journals",
+                                                                                                      "snippet":  "Cet article a pour objet l\u0027archéologie des camps d\u0027extermination de Chelmno, Treblinka, Sobibor et Belzec.",
+                                                                                                      "url":  "https://journals.openedition.org/temoigner/13399"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Genetic and phylogeographic evidence for Jewish Holocaust victims ...",
+                                                                                                      "snippet":  "Six million Jews were killed by Nazi Germany and its collaborators during World War II. Archaeological excavations in the area of the death ...",
+                                                                                                      "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8343952/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Earlier Belzec Investigations - JewishGen",
+                                                                                                      "snippet":  "(1) First Investigation 10.10.1945. The Polish War Crimes Commission of the Zamosc District Court, dated 11 April, 1946. investigation was lead ...",
+                                                                                                      "url":  "https://www.jewishgen.org/yizkor/belzec/bel002.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Perpetrators from Treblinka: interdisciplinary investigations of seven ...",
+                                                                                                      "snippet":  "A row of individual burials was discovered at the former Treblinka extermination and forced labor camp. Seven of those graves were explored to identify the ...",
+                                                                                                      "url":  "https://www.nature.com/articles/s40494-024-01184-7"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e384b686c-54ff-41d6-ac59-ab6105700a21\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989092388288229607}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3baf70d2-0a9a-4e73-8b19-beb42a01819c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"archaeological investigations Belzec Sobibor mass graves post-Soviet\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "384b686c-54ff-41d6-ac59-ab6105700a21"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "384b686c-54ff-41d6-ac59-ab6105700a21"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3baf70d2-0a9a-4e73-8b19-beb42a01819c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3baf70d2-0a9a-4e73-8b19-beb42a01819c",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Belzec Excavations - Holocaust Historical Society",
+                                                                                                                                                                                           "snippet":  "The publication was titled: \u0027Belzec - The Nazi Camp for Jews in the Light of Archaeological Sources - Excavations 1997-1999\u0027. The archaeological investigations ...",
+                                                                                                                                                                                           "url":  "https://www.holocausthistoricalsociety.org.uk/contents/belzec/belzecexcavations.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Excavating Nazi Extermination Centres - OpenEdition Journals",
+                                                                                                                                                                                           "snippet":  "Cet article a pour objet l\u0027archéologie des camps d\u0027extermination de Chelmno, Treblinka, Sobibor et Belzec.",
+                                                                                                                                                                                           "url":  "https://journals.openedition.org/temoigner/13399"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Genetic and phylogeographic evidence for Jewish Holocaust victims ...",
+                                                                                                                                                                                           "snippet":  "Six million Jews were killed by Nazi Germany and its collaborators during World War II. Archaeological excavations in the area of the death ...",
+                                                                                                                                                                                           "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8343952/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Earlier Belzec Investigations - JewishGen",
+                                                                                                                                                                                           "snippet":  "(1) First Investigation 10.10.1945. The Polish War Crimes Commission of the Zamosc District Court, dated 11 April, 1946. investigation was lead ...",
+                                                                                                                                                                                           "url":  "https://www.jewishgen.org/yizkor/belzec/bel002.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Perpetrators from Treblinka: interdisciplinary investigations of seven ...",
+                                                                                                                                                                                           "snippet":  "A row of individual burials was discovered at the former Treblinka extermination and forced labor camp. Seven of those graves were explored to identify the ...",
+                                                                                                                                                                                           "url":  "https://www.nature.com/articles/s40494-024-01184-7"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1989092388288229607.\n- To analyze this post, I\u0027ll fetch its content and details for a quick breakdown.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e384b686c-54ff-41d6-ac59-ab6105700a21\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989092388288229607}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The post\u0027s content reads: \"All else aside; I do not care even if the numbers are true. They knew full well the dangers of aligning with Marxist/Leninism. Failure to purge internally necessitates purge externally. Collateral is always enormous.\"\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "384b686c-54ff-41d6-ac59-ab6105700a21"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "384b686c-54ff-41d6-ac59-ab6105700a21"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing context",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- This post is a reply in a thread debating the Holocaust, where @plassoplo shows indifference to potential victim numbers, blaming them on political alignments with Marxism/Leninism.\n- The thread involves attempts to argue against the Shoah\u0027s occurrence, which feels meta since I\u0027m Grok responding to it.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e3baf70d2-0a9a-4e73-8b19-beb42a01819c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"archaeological investigations Belzec Sobibor mass graves post-Soviet\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3baf70d2-0a9a-4e73-8b19-beb42a01819c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "3baf70d2-0a9a-4e73-8b19-beb42a01819c",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Belzec Excavations - Holocaust Historical Society",
+                                                                                                                                                                                           "snippet":  "The publication was titled: \u0027Belzec - The Nazi Camp for Jews in the Light of Archaeological Sources - Excavations 1997-1999\u0027. The archaeological investigations ...",
+                                                                                                                                                                                           "url":  "https://www.holocausthistoricalsociety.org.uk/contents/belzec/belzecexcavations.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Excavating Nazi Extermination Centres - OpenEdition Journals",
+                                                                                                                                                                                           "snippet":  "Cet article a pour objet l\u0027archéologie des camps d\u0027extermination de Chelmno, Treblinka, Sobibor et Belzec.",
+                                                                                                                                                                                           "url":  "https://journals.openedition.org/temoigner/13399"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Genetic and phylogeographic evidence for Jewish Holocaust victims ...",
+                                                                                                                                                                                           "snippet":  "Six million Jews were killed by Nazi Germany and its collaborators during World War II. Archaeological excavations in the area of the death ...",
+                                                                                                                                                                                           "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8343952/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Earlier Belzec Investigations - JewishGen",
+                                                                                                                                                                                           "snippet":  "(1) First Investigation 10.10.1945. The Polish War Crimes Commission of the Zamosc District Court, dated 11 April, 1946. investigation was lead ...",
+                                                                                                                                                                                           "url":  "https://www.jewishgen.org/yizkor/belzec/bel002.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Perpetrators from Treblinka: interdisciplinary investigations of seven ...",
+                                                                                                                                                                                           "snippet":  "A row of individual burials was discovered at the former Treblinka extermination and forced labor camp. Seven of those graves were explored to identify the ...",
+                                                                                                                                                                                           "url":  "https://www.nature.com/articles/s40494-024-01184-7"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Verifying evidence",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Archaeological digs at Belzec from 1997-1999 uncovered mass graves, detailed in the publication \u0027Belzec - The Nazi Camp for Jews in the Light of Archaeological Sources\u0027.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1989093777605001216",
+                                                                              "created_at_ms":  1763071886839,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1989092388288229607",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

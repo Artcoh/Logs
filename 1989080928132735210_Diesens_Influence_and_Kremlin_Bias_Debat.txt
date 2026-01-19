@@ -1,0 +1,207 @@
+﻿# Grok Conversation Export
+# Title: Diesen’s Influence and Kremlin Bias Debate
+# ID: 1989080928132735210
+# Extracted: 2026-01-19 11:36:47
+# URL: https://x.com/i/grok?conversation=1989080928132735210
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuaopEflpAAChRBAAABmn8XSFQAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1989080929621413889",
+                                                                              "created_at_ms":  1763068823636,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post by @plassoplo defends Glenn Diesen, a Norwegian professor at the University of South-Eastern Norway specializing in Russian geoeconomics, by asserting his significant influence across major media outlets and back channels, countering claims of limited reach.\n- In the surrounding thread, author @AageB accuses Diesen of promoting Kremlin narratives on platforms like the \"WW\" podcast, sparking a debate on Diesen\u0027s public impact and perceived pro-Russian bias in Norwegian discourse.\n- Diesen\u0027s large online presence, including over 100,000 X followers and millions of YouTube views, underscores his role in challenging mainstream Western views on Russia, as evidenced by his focus on Greater Eurasia initiatives in peer-reviewed works like those in Russia in Global Affairs.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1989080892846010653.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1989d4d0-ab92-41fe-aeac-c380544e9ea0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989080892846010653}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To get the full details, I\u0027m fetching the post content and its surrounding context right now.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1989d4d0-ab92-41fe-aeac-c380544e9ea0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989080892846010653}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Just pulled the post details, and it\u0027s a reply in a Norwegian-language thread about Glenn Diesen, a professor criticized for echoing Kremlin views.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5444032a-b8d9-49e1-ad70-66e49600688c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen professor\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eResearching Glenn Diesen- Glenn Diesen appears to be a controversial figure, often accused of holding pro-Russian views in geopolitical discussions.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5444032a-b8d9-49e1-ad70-66e49600688c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen professor\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- He\u0027s a Norwegian professor at the University of South-Eastern Norway, focusing on Russian international affairs, geoeconomics, conservatism, and the Greater Eurasia Initiative.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Wikipedia",
+                                                                                                      "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - YouTube",
+                                                                                                      "snippet":  "Glenn Diesen is a professor of Russian international affairs, with focus on geoeconomics, conservatism and the Greater Eurasia Initiative.",
+                                                                                                      "url":  "https://www.youtube.com/%2540GDiesen1"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen (@Glenn_Diesen) / Posts / X - Twitter",
+                                                                                                      "snippet":  "Glenn Diesen (@Glenn_Diesen) - Posts - Professor and Editor: Russian Foreign Policy, Greater Eurasia \u0026 Geoeconomics Greater Eurasia Podca.",
+                                                                                                      "url":  "https://x.com/Glenn_Diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Universitetet i Sørøst-Norge - USN",
+                                                                                                      "snippet":  "Glenn Diesen forsker primært på russlands geo-økonomiske strategi for Stor-Eurasia og russisk konservatisme.",
+                                                                                                      "url":  "https://www.usn.no/kontakt-oss/ansatte/glenn-diesen-1"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                      "snippet":  "Glenn Diesen. Professor, University of South-Eastern Norway. AUTHOR IDs. SPIN RSCI: 7360-7425. ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018. Scopus ...",
+                                                                                                      "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Wikipedia",
+                                                                                                      "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - YouTube",
+                                                                                                      "snippet":  "Glenn Diesen is a professor of Russian international affairs, with focus on geoeconomics, conservatism and the Greater Eurasia Initiative.",
+                                                                                                      "url":  "https://www.youtube.com/%2540GDiesen1"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen (@Glenn_Diesen) / Posts / X - Twitter",
+                                                                                                      "snippet":  "Glenn Diesen (@Glenn_Diesen) - Posts - Professor and Editor: Russian Foreign Policy, Greater Eurasia \u0026 Geoeconomics Greater Eurasia Podca.",
+                                                                                                      "url":  "https://x.com/Glenn_Diesen"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Universitetet i Sørøst-Norge - USN",
+                                                                                                      "snippet":  "Glenn Diesen forsker primært på russlands geo-økonomiske strategi for Stor-Eurasia og russisk konservatisme.",
+                                                                                                      "url":  "https://www.usn.no/kontakt-oss/ansatte/glenn-diesen-1"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                      "snippet":  "Glenn Diesen. Professor, University of South-Eastern Norway. AUTHOR IDs. SPIN RSCI: 7360-7425. ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018. Scopus ...",
+                                                                                                      "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1989d4d0-ab92-41fe-aeac-c380544e9ea0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989080892846010653}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5444032a-b8d9-49e1-ad70-66e49600688c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen professor\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1989d4d0-ab92-41fe-aeac-c380544e9ea0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1989d4d0-ab92-41fe-aeac-c380544e9ea0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5444032a-b8d9-49e1-ad70-66e49600688c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5444032a-b8d9-49e1-ad70-66e49600688c",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - YouTube",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen is a professor of Russian international affairs, with focus on geoeconomics, conservatism and the Greater Eurasia Initiative.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/%2540GDiesen1"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen (@Glenn_Diesen) / Posts / X - Twitter",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen (@Glenn_Diesen) - Posts - Professor and Editor: Russian Foreign Policy, Greater Eurasia \u0026 Geoeconomics Greater Eurasia Podca.",
+                                                                                                                                                                                           "url":  "https://x.com/Glenn_Diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Universitetet i Sørøst-Norge - USN",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen forsker primært på russlands geo-økonomiske strategi for Stor-Eurasia og russisk konservatisme.",
+                                                                                                                                                                                           "url":  "https://www.usn.no/kontakt-oss/ansatte/glenn-diesen-1"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen. Professor, University of South-Eastern Norway. AUTHOR IDs. SPIN RSCI: 7360-7425. ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018. Scopus ...",
+                                                                                                                                                                                           "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1989080892846010653.\n- To get the full details, I\u0027m fetching the post content and its surrounding context right now.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1989d4d0-ab92-41fe-aeac-c380544e9ea0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989080892846010653}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Just pulled the post details, and it\u0027s a reply in a Norwegian-language thread about Glenn Diesen, a professor criticized for echoing Kremlin views.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1989d4d0-ab92-41fe-aeac-c380544e9ea0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1989d4d0-ab92-41fe-aeac-c380544e9ea0"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Researching Glenn Diesen",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Glenn Diesen appears to be a controversial figure, often accused of holding pro-Russian views in geopolitical discussions.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e5444032a-b8d9-49e1-ad70-66e49600688c\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Glenn Diesen professor\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- He\u0027s a Norwegian professor at the University of South-Eastern Norway, focusing on Russian international affairs, geoeconomics, conservatism, and the Greater Eurasia Initiative.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5444032a-b8d9-49e1-ad70-66e49600688c"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "5444032a-b8d9-49e1-ad70-66e49600688c",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Glenn Eric Andre Diesen (born 1979) is a Norwegian political scientist, political commentator and politician currently serving as a professor at the ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Glenn_Diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - YouTube",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen is a professor of Russian international affairs, with focus on geoeconomics, conservatism and the Greater Eurasia Initiative.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/%2540GDiesen1"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen (@Glenn_Diesen) / Posts / X - Twitter",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen (@Glenn_Diesen) - Posts - Professor and Editor: Russian Foreign Policy, Greater Eurasia \u0026 Geoeconomics Greater Eurasia Podca.",
+                                                                                                                                                                                           "url":  "https://x.com/Glenn_Diesen"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Universitetet i Sørøst-Norge - USN",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen forsker primært på russlands geo-økonomiske strategi for Stor-Eurasia og russisk konservatisme.",
+                                                                                                                                                                                           "url":  "https://www.usn.no/kontakt-oss/ansatte/glenn-diesen-1"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Glenn Diesen - Russia in Global Affairs",
+                                                                                                                                                                                           "snippet":  "Glenn Diesen. Professor, University of South-Eastern Norway. AUTHOR IDs. SPIN RSCI: 7360-7425. ORCID: 0000-0001-9343-6353 ResearcherID: T-1281-2018. Scopus ...",
+                                                                                                                                                                                           "url":  "https://eng.globalaffairs.ru/authors/glenn-diesen/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1989080929621413888",
+                                                                              "created_at_ms":  1763068823636,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1989080892846010653",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

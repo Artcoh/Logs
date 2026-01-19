@@ -1,0 +1,289 @@
+﻿# Grok Conversation Export
+# Title: Jesus Myth Debate and Historicity Evidence
+# ID: 1988829921305596001
+# Extracted: 2026-01-19 11:37:25
+# URL: https://x.com/i/grok?conversation=1988829921305596001
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuZvkoAl7AAChRBAAABmnuGK9cAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1988829935507582977",
+                                                                              "created_at_ms":  1763008981975,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- @FarmerKulak\u0027s post recommends \"Jesus Never Existed\" by Kenneth Humphreys, a 2014 book arguing Jesus is a pagan-derived myth lacking contemporary evidence, as a rebuttal in a thread questioning biblical historicity.\n- The exchange began with a debate on rage versus hate in religious texts, escalating to archaeological disproofs like the absent Exodus evidence from Egyptian records and Sinai digs showing no trace of large Israelite migrations.\n- Humphreys\u0027 Christ myth theory remains fringe; peer-reviewed consensus, per sources like Wikipedia and historian surveys, holds Jesus existed as a 1st-century preacher executed under Pontius Pilate, corroborated by Tacitus and Josephus.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @FarmerKulak with ID 1988829518765703376.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea489a268-d6bd-46d4-89d6-78d509bc44da\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988829518765703376}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze it properly, fetching the full content of this post seems like the right next step.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea489a268-d6bd-46d4-89d6-78d509bc44da\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988829518765703376}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The fetched content shows the post recommending the book \"Jesus Never Existed\" by Kenneth Humphreys, available on [Amazon](https://www.amazon.com/Jesus-Never-Existed-Introduction-Ultimate/dp/098969724X).\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ebf73793b-d130-40bf-8b79-edf3be6dd4c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"FarmerKulak\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e644bf7a8-f89b-46c9-aa7d-1ce6a161afad\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"\\\"Jesus Never Existed\\\" Kenneth Humphreys summary\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- This post dates to today, November 13, 2025, and fits into a broader thread debating Christian scriptures and the historical existence of Jesus.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ebf73793b-d130-40bf-8b79-edf3be6dd4c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"FarmerKulak\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e644bf7a8-f89b-46c9-aa7d-1ce6a161afad\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"\\\"Jesus Never Existed\\\" Kenneth Humphreys summary\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb2899cae-8abb-406c-97ae-a446a00bf83e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"scholarly consensus historical existence of Jesus\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eResearching book details- FarmerKulak\u0027s profile shows 347 followers, with no bio listed.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb2899cae-8abb-406c-97ae-a446a00bf83e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"scholarly consensus historical existence of Jesus\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "[PDF] Kenneth Humphreys Jesus Never Existed",
+                                                                                                      "snippet":  "Kenneth Humphreys Jesus Never Existed is a provocative and controversial claim ... While many mythicists focus on textual criticism and historical analysis, ...",
+                                                                                                      "url":  "https://ww2.jacksonms.gov/browse/4dw1gL/271011/KennethHumphreysJesusNeverExisted.pdf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jesus Never Existed: An Introduction to the Ultimate Heresy",
+                                                                                                      "snippet":  "Jesus Never Existed: An Introduction to the Ultimate Heresy · Kenneth Humphreys · About the author.",
+                                                                                                      "url":  "https://www.goodreads.com/book/show/19988610"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jesus Never Existed: A Beginners Guide | Kenneth Humphreys",
+                                                                                                      "snippet":  "... analysis. He reveals why there\u0027s NO contemporary evidence for ... Jesus Never Existed: A Beginners Guide | Kenneth Humphreys | #SangamTalks.",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=QTmZlckcwMY"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jesus Never Existed? Examining the Historical Debate",
+                                                                                                      "snippet":  "Jesus Never Existed? Explore the arguments behind the Christ myth theory, historical records, scholarly research, and the impact on modern religious ...",
+                                                                                                      "url":  "https://www.jesusneverexisted.com/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ken Humphries states that \u0027Jesus never existed.\u0027 Does he ... - Quora",
+                                                                                                      "snippet":  "The only people who claim that Jesus never existed are people who have an agenda and choose not to believe because of their preconceptions.",
+                                                                                                      "url":  "https://www.quora.com/Ken-Humphries-states-that-Jesus-never-existed-Does-he-have-a-decent-reputation-among-scholars"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "[PDF] Kenneth Humphreys Jesus Never Existed",
+                                                                                                      "snippet":  "Kenneth Humphreys Jesus Never Existed is a provocative and controversial claim ... While many mythicists focus on textual criticism and historical analysis, ...",
+                                                                                                      "url":  "https://ww2.jacksonms.gov/browse/4dw1gL/271011/KennethHumphreysJesusNeverExisted.pdf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jesus Never Existed: An Introduction to the Ultimate Heresy",
+                                                                                                      "snippet":  "Jesus Never Existed: An Introduction to the Ultimate Heresy · Kenneth Humphreys · About the author.",
+                                                                                                      "url":  "https://www.goodreads.com/book/show/19988610"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jesus Never Existed: A Beginners Guide | Kenneth Humphreys",
+                                                                                                      "snippet":  "... analysis. He reveals why there\u0027s NO contemporary evidence for ... Jesus Never Existed: A Beginners Guide | Kenneth Humphreys | #SangamTalks.",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=QTmZlckcwMY"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jesus Never Existed? Examining the Historical Debate",
+                                                                                                      "snippet":  "Jesus Never Existed? Explore the arguments behind the Christ myth theory, historical records, scholarly research, and the impact on modern religious ...",
+                                                                                                      "url":  "https://www.jesusneverexisted.com/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ken Humphries states that \u0027Jesus never existed.\u0027 Does he ... - Quora",
+                                                                                                      "snippet":  "The only people who claim that Jesus never existed are people who have an agenda and choose not to believe because of their preconceptions.",
+                                                                                                      "url":  "https://www.quora.com/Ken-Humphries-states-that-Jesus-never-existed-Does-he-have-a-decent-reputation-among-scholars"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Historicity of Jesus - Wikipedia",
+                                                                                                      "snippet":  "The scholarly consensus is that Tacitus\u0027 reference to the execution of Jesus by Pilate is both authentic and of historical value as an independent Roman source.",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Why is there a historical consensus among scholars/historians that ...",
+                                                                                                      "snippet":  "Generally speaking there is a consensus that Jesus, as a historical figure, existed, and that the Christ Myth Theory is wrong.",
+                                                                                                      "url":  "https://www.reddit.com/r/AskHistorians/comments/4eiwzz/why_is_there_a_historical_consensus_among/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Did Jesus Exist? - American Atheists",
+                                                                                                      "snippet":  "In this article, I would like to show how shaky the evidence is regarding the alleged existence of a would-be messiah named Jesus.",
+                                                                                                      "url":  "https://www.atheists.org/activism/resources/did-jesus-exist/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Historicity of Jesus - Wikipedia",
+                                                                                                      "snippet":  "The scholarly consensus is that Tacitus\u0027 reference to the execution of Jesus by Pilate is both authentic and of historical value as an independent Roman source.",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Why is there a historical consensus among scholars/historians that ...",
+                                                                                                      "snippet":  "Generally speaking there is a consensus that Jesus, as a historical figure, existed, and that the Christ Myth Theory is wrong.",
+                                                                                                      "url":  "https://www.reddit.com/r/AskHistorians/comments/4eiwzz/why_is_there_a_historical_consensus_among/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Did Jesus Exist? - American Atheists",
+                                                                                                      "snippet":  "In this article, I would like to show how shaky the evidence is regarding the alleged existence of a would-be messiah named Jesus.",
+                                                                                                      "url":  "https://www.atheists.org/activism/resources/did-jesus-exist/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea489a268-d6bd-46d4-89d6-78d509bc44da\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988829518765703376}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ebf73793b-d130-40bf-8b79-edf3be6dd4c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"FarmerKulak\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e644bf7a8-f89b-46c9-aa7d-1ce6a161afad\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"\\\"Jesus Never Existed\\\" Kenneth Humphreys summary\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb2899cae-8abb-406c-97ae-a446a00bf83e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"scholarly consensus historical existence of Jesus\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a489a268-d6bd-46d4-89d6-78d509bc44da"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a489a268-d6bd-46d4-89d6-78d509bc44da"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "bf73793b-d130-40bf-8b79-edf3be6dd4c6"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "644bf7a8-f89b-46c9-aa7d-1ce6a161afad"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "644bf7a8-f89b-46c9-aa7d-1ce6a161afad",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] Kenneth Humphreys Jesus Never Existed",
+                                                                                                                                                                                           "snippet":  "Kenneth Humphreys Jesus Never Existed is a provocative and controversial claim ... While many mythicists focus on textual criticism and historical analysis, ...",
+                                                                                                                                                                                           "url":  "https://ww2.jacksonms.gov/browse/4dw1gL/271011/KennethHumphreysJesusNeverExisted.pdf"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jesus Never Existed: An Introduction to the Ultimate Heresy",
+                                                                                                                                                                                           "snippet":  "Jesus Never Existed: An Introduction to the Ultimate Heresy · Kenneth Humphreys · About the author.",
+                                                                                                                                                                                           "url":  "https://www.goodreads.com/book/show/19988610"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jesus Never Existed: A Beginners Guide | Kenneth Humphreys",
+                                                                                                                                                                                           "snippet":  "... analysis. He reveals why there\u0027s NO contemporary evidence for ... Jesus Never Existed: A Beginners Guide | Kenneth Humphreys | #SangamTalks.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=QTmZlckcwMY"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jesus Never Existed? Examining the Historical Debate",
+                                                                                                                                                                                           "snippet":  "Jesus Never Existed? Explore the arguments behind the Christ myth theory, historical records, scholarly research, and the impact on modern religious ...",
+                                                                                                                                                                                           "url":  "https://www.jesusneverexisted.com/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ken Humphries states that \u0027Jesus never existed.\u0027 Does he ... - Quora",
+                                                                                                                                                                                           "snippet":  "The only people who claim that Jesus never existed are people who have an agenda and choose not to believe because of their preconceptions.",
+                                                                                                                                                                                           "url":  "https://www.quora.com/Ken-Humphries-states-that-Jesus-never-existed-Does-he-have-a-decent-reputation-among-scholars"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b2899cae-8abb-406c-97ae-a446a00bf83e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b2899cae-8abb-406c-97ae-a446a00bf83e",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Historicity of Jesus - Wikipedia",
+                                                                                                                                                                                           "snippet":  "The scholarly consensus is that Tacitus\u0027 reference to the execution of Jesus by Pilate is both authentic and of historical value as an independent Roman source.",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Why is there a historical consensus among scholars/historians that ...",
+                                                                                                                                                                                           "snippet":  "Generally speaking there is a consensus that Jesus, as a historical figure, existed, and that the Christ Myth Theory is wrong.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/AskHistorians/comments/4eiwzz/why_is_there_a_historical_consensus_among/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Did Jesus Exist? - American Atheists",
+                                                                                                                                                                                           "snippet":  "In this article, I would like to show how shaky the evidence is regarding the alleged existence of a would-be messiah named Jesus.",
+                                                                                                                                                                                           "url":  "https://www.atheists.org/activism/resources/did-jesus-exist/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @FarmerKulak with ID 1988829518765703376.\n- To analyze it properly, fetching the full content of this post seems like the right next step.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea489a268-d6bd-46d4-89d6-78d509bc44da\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988829518765703376}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The fetched content shows the post recommending the book \"Jesus Never Existed\" by Kenneth Humphreys, available on [Amazon](https://www.amazon.com/Jesus-Never-Existed-Introduction-Ultimate/dp/098969724X).\n- This post dates to today, November 13, 2025, and fits into a broader thread debating Christian scriptures and the historical existence of Jesus.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ebf73793b-d130-40bf-8b79-edf3be6dd4c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_user_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"FarmerKulak\",\"count\":1}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e644bf7a8-f89b-46c9-aa7d-1ce6a161afad\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"\\\"Jesus Never Existed\\\" Kenneth Humphreys summary\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a489a268-d6bd-46d4-89d6-78d509bc44da"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a489a268-d6bd-46d4-89d6-78d509bc44da"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "bf73793b-d130-40bf-8b79-edf3be6dd4c6"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "644bf7a8-f89b-46c9-aa7d-1ce6a161afad"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "644bf7a8-f89b-46c9-aa7d-1ce6a161afad",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "[PDF] Kenneth Humphreys Jesus Never Existed",
+                                                                                                                                                                                           "snippet":  "Kenneth Humphreys Jesus Never Existed is a provocative and controversial claim ... While many mythicists focus on textual criticism and historical analysis, ...",
+                                                                                                                                                                                           "url":  "https://ww2.jacksonms.gov/browse/4dw1gL/271011/KennethHumphreysJesusNeverExisted.pdf"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jesus Never Existed: An Introduction to the Ultimate Heresy",
+                                                                                                                                                                                           "snippet":  "Jesus Never Existed: An Introduction to the Ultimate Heresy · Kenneth Humphreys · About the author.",
+                                                                                                                                                                                           "url":  "https://www.goodreads.com/book/show/19988610"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jesus Never Existed: A Beginners Guide | Kenneth Humphreys",
+                                                                                                                                                                                           "snippet":  "... analysis. He reveals why there\u0027s NO contemporary evidence for ... Jesus Never Existed: A Beginners Guide | Kenneth Humphreys | #SangamTalks.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=QTmZlckcwMY"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jesus Never Existed? Examining the Historical Debate",
+                                                                                                                                                                                           "snippet":  "Jesus Never Existed? Explore the arguments behind the Christ myth theory, historical records, scholarly research, and the impact on modern religious ...",
+                                                                                                                                                                                           "url":  "https://www.jesusneverexisted.com/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ken Humphries states that \u0027Jesus never existed.\u0027 Does he ... - Quora",
+                                                                                                                                                                                           "snippet":  "The only people who claim that Jesus never existed are people who have an agenda and choose not to believe because of their preconceptions.",
+                                                                                                                                                                                           "url":  "https://www.quora.com/Ken-Humphries-states-that-Jesus-never-existed-Does-he-have-a-decent-reputation-among-scholars"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Researching book details",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- FarmerKulak\u0027s profile shows 347 followers, with no bio listed.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eb2899cae-8abb-406c-97ae-a446a00bf83e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"scholarly consensus historical existence of Jesus\",\"num_results\":3}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b2899cae-8abb-406c-97ae-a446a00bf83e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "b2899cae-8abb-406c-97ae-a446a00bf83e",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Historicity of Jesus - Wikipedia",
+                                                                                                                                                                                           "snippet":  "The scholarly consensus is that Tacitus\u0027 reference to the execution of Jesus by Pilate is both authentic and of historical value as an independent Roman source.",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Why is there a historical consensus among scholars/historians that ...",
+                                                                                                                                                                                           "snippet":  "Generally speaking there is a consensus that Jesus, as a historical figure, existed, and that the Christ Myth Theory is wrong.",
+                                                                                                                                                                                           "url":  "https://www.reddit.com/r/AskHistorians/comments/4eiwzz/why_is_there_a_historical_consensus_among/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Did Jesus Exist? - American Atheists",
+                                                                                                                                                                                           "snippet":  "In this article, I would like to show how shaky the evidence is regarding the alleged existence of a would-be messiah named Jesus.",
+                                                                                                                                                                                           "url":  "https://www.atheists.org/activism/resources/did-jesus-exist/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1988829935507582976",
+                                                                              "created_at_ms":  1763008981975,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/FarmerKulak/status/1988829518765703376",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

@@ -1,0 +1,82 @@
+﻿# Grok Conversation Export
+# Title: Ventura's 9/11 Skepticism and Legacy
+# ID: 1994637919340904755
+# Extracted: 2026-01-19 11:28:02
+# URL: https://x.com/i/grok?conversation=1994637919340904755
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuuYJ8w1xAAChRBAAABms4PgJwAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1994637921807175681",
+                                                                              "created_at_ms":  1764393713820,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post replies to a resurfaced CNN clip where Jesse Ventura accuses the Bush administration of ignoring 9/11 warnings and cites the BBC\u0027s premature report of WTC7\u0027s collapse, prompting Piers Morgan to cut to commercial amid escalating claims.\n- It honors Ventura\u0027s 2009 memoir \"Don\u0027t Start the Revolution Without Me!\", a candid autobiography blending his wrestling, SEAL, and gubernatorial experiences with early critiques of U.S. intelligence lapses.\n- Ventura\u0027s \"Hooyah!\" salute underscores his Navy SEAL legacy, framing his decades-long 9/11 skepticism—rooted in declassified memos like the August 6 PDB—as prophetic amid ongoing debates over the official narrative.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from plassoplo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eff66d399-5640-45d9-9b00-07aac883f1c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994637875259093082}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Fetching the thread details for post ID 1994637875259093082 to reveal its content.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eff66d399-5640-45d9-9b00-07aac883f1c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994637875259093082}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Uncovering plassoplo\u0027s reply praising Jesse Ventura as a legend with his book reference.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed033d298-2f96-46a5-84c0-29356ddd3d4a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994607369725018112/vid/avc1/492x270/Sw5sA-aXxA4GWx28.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Probing the video clip to grasp the Piers Morgan interview moment with Jesse Ventura.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed033d298-2f96-46a5-84c0-29356ddd3d4a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994607369725018112/vid/avc1/492x270/Sw5sA-aXxA4GWx28.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eff66d399-5640-45d9-9b00-07aac883f1c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994637875259093082}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed033d298-2f96-46a5-84c0-29356ddd3d4a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994607369725018112/vid/avc1/492x270/Sw5sA-aXxA4GWx28.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ff66d399-5640-45d9-9b00-07aac883f1c6"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ff66d399-5640-45d9-9b00-07aac883f1c6"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d033d298-2f96-46a5-84c0-29356ddd3d4a"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from plassoplo to uncover key insights.\n- Fetching the thread details for post ID 1994637875259093082 to reveal its content.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eff66d399-5640-45d9-9b00-07aac883f1c6\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994637875259093082}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Uncovering plassoplo\u0027s reply praising Jesse Ventura as a legend with his book reference.\n- Probing the video clip to grasp the Piers Morgan interview moment with Jesse Ventura.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed033d298-2f96-46a5-84c0-29356ddd3d4a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994607369725018112/vid/avc1/492x270/Sw5sA-aXxA4GWx28.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ff66d399-5640-45d9-9b00-07aac883f1c6"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "ff66d399-5640-45d9-9b00-07aac883f1c6"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d033d298-2f96-46a5-84c0-29356ddd3d4a"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994637921807175680",
+                                                                              "created_at_ms":  1764393713820,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1994637875259093082",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

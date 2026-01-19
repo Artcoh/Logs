@@ -1,0 +1,305 @@
+﻿# Grok Conversation Export
+# Title: Norwegian Media Bias and Emigration Debate
+# ID: 1989067980366352600
+# Extracted: 2026-01-19 11:36:58
+# URL: https://x.com/i/grok?conversation=1989067980366352600
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhualspqlwAAChRBAAABmn7oLYMAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1989067981553336321",
+                                                                              "created_at_ms":  1763065736579,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post is a reply to a critique of Norwegian conservative media\u0027s apology for publishing harsh NRK criticism, including podcaster Ole Asbjørn Ness\u0027s controversial Holocaust analogy, which drew backlash from liberal groups like Civita.\n- It echoes the original post\u0027s concern about \"capable\" people emigrating from Norway due to left-leaning narrative control, sarcastically noting that plenty remain but are more practically oriented (\"hands-on\") rather than elite intellectuals.\n- This aligns with the reply author\u0027s nationalist bio, implying cultural resilience among working-class Norwegians amid political frustrations, as evidenced by recent Minerva\u0027s retraction on November 12, 2025, which amplified debates on media bias.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1989067944765321244.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd94e070-17ba-42c9-9042-037b69f0d0c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989067944765321244}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze this post properly, I\u0027m fetching its content and any related thread details.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd94e070-17ba-42c9-9042-037b69f0d0c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989067944765321244}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The fetched content shows this post is a reply from @plassoplo to a main post by @MNReitan (ID 1988982187643793559).\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e347e66da-128a-4e33-8593-f8d3bf8f7180\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Minerva NRK kritikk Ole Asbjørn Ness Civita\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- The reply reads: \"Plenty med \u0027kapable\u0027 folk igjen, tradisjonelt sett noen hakk mer \u0027hands on\u0027 bare...\" which seems to be in Norwegian and appears sarcastic or agreeing with the main post\u0027s critique.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e347e66da-128a-4e33-8593-f8d3bf8f7180\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Minerva NRK kritikk Ole Asbjørn Ness Civita\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nAnalyzing controversy- The main post critiques a recent controversy where Minerva, a conservative media outlet, published an article interviewing media critic Ole Asbjørn Ness, who harshly attacked NRK as left-wing and power-loyal, even comparing it to conditions enabling the Holocaust.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier ...",
+                                                                                                      "snippet":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier Ole Asbjørn Ness om NRK. Minerva har snakket med podkaster Ole Asbjørn ...",
+                                                                                                      "url":  "https://www.facebook.com/MinervaNett/posts/-de-er-venstrevridde-ekstremt-politisk-korrekte-og-maktlojale-sier-ole-asbj%2525C3%2525B8rn-n/1549419863397430/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Vi forstår kritikken - Minerva",
+                                                                                                      "snippet":  "Det gjelder spesielt Ole Asbjørn Ness\u0027 uttalelse om at NRK «er så maktlojale at man nesten ser hvordan holocaust kunne skje». Dette er en ...",
+                                                                                                      "url":  "https://www.minerva.no/mediekritikk-minerva/vi-forstar-kritikken/487542"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ness | Podcast on Spotify",
+                                                                                                      "snippet":  "I denne samtalen møter Ole Asbjørn Ness to sterke mediekritikere: Jarle Aabø og Simen Sandelien. Sammen går de rett inn i det som mange oppfatter som et ...",
+                                                                                                      "url":  "https://open.spotify.com/show/6JbNF7AwbS5qbUDJriRFa2"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje",
+                                                                                                      "snippet":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje. Podkaster Ole Asbjørn Ness er ikke snau i sin kritikk av NRK.",
+                                                                                                      "url":  "https://www.minerva.no/alternative-medier-nrk-ola-buxrud/de-er-sa-maktlojale-at-man-nesten-ser-hvordan-holocaust-kunne-skje/487508"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Saken hvor tre profilerte samfunnsdebattanter kritiserte NRK har ...",
+                                                                                                      "snippet":  "«Sterkt levert av både Minerva og Ole Asbjørn Ness. Denne saken setter fingeren på noe mange lenge har kjent på, nemlig hvordan NRK og store ...",
+                                                                                                      "url":  "https://www.facebook.com/MinervaNett/posts/saken-hvor-tre-profilerte-samfunnsdebattanter-kritiserte-nrk-har-vakt-mange-reak/1549848173354599/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Minerva | Det vil være en klart dårligere løsning for Norge dersom vi ...",
+                                                                                                      "snippet":  "Ole Asbjørn Ness nevner hverken pride eller formuesskatt når han forklarer hvorfor han stemmer på KrF. more. 3 days ago · avisenminerva\u0027s profile picture.",
+                                                                                                      "url":  "https://www.instagram.com/p/DNff6hLxXXc/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "(+) To måneder som publikum hos den nye høyresidens medieprofiler",
+                                                                                                      "snippet":  "I januar var stemningen og testosteronet på topp blant høyresidens nye, norske profiler. Vi benket oss for å lytte til hva de hadde å si.",
+                                                                                                      "url":  "https://www.morgenbladet.no/kultur/to-maneder-som-publikum-hos-den-nye-hoyresidens-medieprofiler/9604221"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Side 1203 - Liberaleren",
+                                                                                                      "snippet":  "NRK snudde for Ness. NRK sender likevel hørespillet til Ole Asbjørn Ness, om en etnisk norsk rapper som konverterer til islam og blir selvmbordsmomber.",
+                                                                                                      "url":  "https://www.liberaleren.no/page/1203/?%25252F"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jeg tok feil om Ole Asbjørn Ness - Document",
+                                                                                                      "snippet":  "Den konservative skribenten og kommentatoren Ole Asbjørn Ness kaster seg på i konkurransen om å vise mest mulig avsky for Donald Trump, ...",
+                                                                                                      "url":  "https://www.document.no/2025/03/11/jeg-tok-feil-om-ole-asbjorn-ness/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ness 78 – Espen Teigen kansellert av NRK by Ness",
+                                                                                                      "snippet":  "Ett tema, én gjest. Og den frittalende, løse kanonen Ole Asbjørn Ness. Forfatteren og komikeren hater tåkeprat, men elsker politikk og økonomi.",
+                                                                                                      "url":  "https://creators.spotify.com/pod/profile/inyheter/episodes/Ness-78--Espen-Teigen-kansellert-av-NRK-e2v69s2"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier ...",
+                                                                                                      "snippet":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier Ole Asbjørn Ness om NRK. Minerva har snakket med podkaster Ole Asbjørn ...",
+                                                                                                      "url":  "https://www.facebook.com/MinervaNett/posts/-de-er-venstrevridde-ekstremt-politisk-korrekte-og-maktlojale-sier-ole-asbj%2525C3%2525B8rn-n/1549419863397430/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Vi forstår kritikken - Minerva",
+                                                                                                      "snippet":  "Det gjelder spesielt Ole Asbjørn Ness\u0027 uttalelse om at NRK «er så maktlojale at man nesten ser hvordan holocaust kunne skje». Dette er en ...",
+                                                                                                      "url":  "https://www.minerva.no/mediekritikk-minerva/vi-forstar-kritikken/487542"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ness | Podcast on Spotify",
+                                                                                                      "snippet":  "I denne samtalen møter Ole Asbjørn Ness to sterke mediekritikere: Jarle Aabø og Simen Sandelien. Sammen går de rett inn i det som mange oppfatter som et ...",
+                                                                                                      "url":  "https://open.spotify.com/show/6JbNF7AwbS5qbUDJriRFa2"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje",
+                                                                                                      "snippet":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje. Podkaster Ole Asbjørn Ness er ikke snau i sin kritikk av NRK.",
+                                                                                                      "url":  "https://www.minerva.no/alternative-medier-nrk-ola-buxrud/de-er-sa-maktlojale-at-man-nesten-ser-hvordan-holocaust-kunne-skje/487508"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Saken hvor tre profilerte samfunnsdebattanter kritiserte NRK har ...",
+                                                                                                      "snippet":  "«Sterkt levert av både Minerva og Ole Asbjørn Ness. Denne saken setter fingeren på noe mange lenge har kjent på, nemlig hvordan NRK og store ...",
+                                                                                                      "url":  "https://www.facebook.com/MinervaNett/posts/saken-hvor-tre-profilerte-samfunnsdebattanter-kritiserte-nrk-har-vakt-mange-reak/1549848173354599/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Minerva | Det vil være en klart dårligere løsning for Norge dersom vi ...",
+                                                                                                      "snippet":  "Ole Asbjørn Ness nevner hverken pride eller formuesskatt når han forklarer hvorfor han stemmer på KrF. more. 3 days ago · avisenminerva\u0027s profile picture.",
+                                                                                                      "url":  "https://www.instagram.com/p/DNff6hLxXXc/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "(+) To måneder som publikum hos den nye høyresidens medieprofiler",
+                                                                                                      "snippet":  "I januar var stemningen og testosteronet på topp blant høyresidens nye, norske profiler. Vi benket oss for å lytte til hva de hadde å si.",
+                                                                                                      "url":  "https://www.morgenbladet.no/kultur/to-maneder-som-publikum-hos-den-nye-hoyresidens-medieprofiler/9604221"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Side 1203 - Liberaleren",
+                                                                                                      "snippet":  "NRK snudde for Ness. NRK sender likevel hørespillet til Ole Asbjørn Ness, om en etnisk norsk rapper som konverterer til islam og blir selvmbordsmomber.",
+                                                                                                      "url":  "https://www.liberaleren.no/page/1203/?%25252F"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Jeg tok feil om Ole Asbjørn Ness - Document",
+                                                                                                      "snippet":  "Den konservative skribenten og kommentatoren Ole Asbjørn Ness kaster seg på i konkurransen om å vise mest mulig avsky for Donald Trump, ...",
+                                                                                                      "url":  "https://www.document.no/2025/03/11/jeg-tok-feil-om-ole-asbjorn-ness/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ness 78 – Espen Teigen kansellert av NRK by Ness",
+                                                                                                      "snippet":  "Ett tema, én gjest. Og den frittalende, løse kanonen Ole Asbjørn Ness. Forfatteren og komikeren hater tåkeprat, men elsker politikk og økonomi.",
+                                                                                                      "url":  "https://creators.spotify.com/pod/profile/inyheter/episodes/Ness-78--Espen-Teigen-kansellert-av-NRK-e2v69s2"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd94e070-17ba-42c9-9042-037b69f0d0c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989067944765321244}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e347e66da-128a-4e33-8593-f8d3bf8f7180\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Minerva NRK kritikk Ole Asbjørn Ness Civita\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "fd94e070-17ba-42c9-9042-037b69f0d0c9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "fd94e070-17ba-42c9-9042-037b69f0d0c9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "347e66da-128a-4e33-8593-f8d3bf8f7180"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "347e66da-128a-4e33-8593-f8d3bf8f7180",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier ...",
+                                                                                                                                                                                           "snippet":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier Ole Asbjørn Ness om NRK. Minerva har snakket med podkaster Ole Asbjørn ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/MinervaNett/posts/-de-er-venstrevridde-ekstremt-politisk-korrekte-og-maktlojale-sier-ole-asbj%2525C3%2525B8rn-n/1549419863397430/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Vi forstår kritikken - Minerva",
+                                                                                                                                                                                           "snippet":  "Det gjelder spesielt Ole Asbjørn Ness\u0027 uttalelse om at NRK «er så maktlojale at man nesten ser hvordan holocaust kunne skje». Dette er en ...",
+                                                                                                                                                                                           "url":  "https://www.minerva.no/mediekritikk-minerva/vi-forstar-kritikken/487542"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ness | Podcast on Spotify",
+                                                                                                                                                                                           "snippet":  "I denne samtalen møter Ole Asbjørn Ness to sterke mediekritikere: Jarle Aabø og Simen Sandelien. Sammen går de rett inn i det som mange oppfatter som et ...",
+                                                                                                                                                                                           "url":  "https://open.spotify.com/show/6JbNF7AwbS5qbUDJriRFa2"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje",
+                                                                                                                                                                                           "snippet":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje. Podkaster Ole Asbjørn Ness er ikke snau i sin kritikk av NRK.",
+                                                                                                                                                                                           "url":  "https://www.minerva.no/alternative-medier-nrk-ola-buxrud/de-er-sa-maktlojale-at-man-nesten-ser-hvordan-holocaust-kunne-skje/487508"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Saken hvor tre profilerte samfunnsdebattanter kritiserte NRK har ...",
+                                                                                                                                                                                           "snippet":  "«Sterkt levert av både Minerva og Ole Asbjørn Ness. Denne saken setter fingeren på noe mange lenge har kjent på, nemlig hvordan NRK og store ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/MinervaNett/posts/saken-hvor-tre-profilerte-samfunnsdebattanter-kritiserte-nrk-har-vakt-mange-reak/1549848173354599/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Minerva | Det vil være en klart dårligere løsning for Norge dersom vi ...",
+                                                                                                                                                                                           "snippet":  "Ole Asbjørn Ness nevner hverken pride eller formuesskatt når han forklarer hvorfor han stemmer på KrF. more. 3 days ago · avisenminerva\u0027s profile picture.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/p/DNff6hLxXXc/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "(+) To måneder som publikum hos den nye høyresidens medieprofiler",
+                                                                                                                                                                                           "snippet":  "I januar var stemningen og testosteronet på topp blant høyresidens nye, norske profiler. Vi benket oss for å lytte til hva de hadde å si.",
+                                                                                                                                                                                           "url":  "https://www.morgenbladet.no/kultur/to-maneder-som-publikum-hos-den-nye-hoyresidens-medieprofiler/9604221"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Side 1203 - Liberaleren",
+                                                                                                                                                                                           "snippet":  "NRK snudde for Ness. NRK sender likevel hørespillet til Ole Asbjørn Ness, om en etnisk norsk rapper som konverterer til islam og blir selvmbordsmomber.",
+                                                                                                                                                                                           "url":  "https://www.liberaleren.no/page/1203/?%25252F"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jeg tok feil om Ole Asbjørn Ness - Document",
+                                                                                                                                                                                           "snippet":  "Den konservative skribenten og kommentatoren Ole Asbjørn Ness kaster seg på i konkurransen om å vise mest mulig avsky for Donald Trump, ...",
+                                                                                                                                                                                           "url":  "https://www.document.no/2025/03/11/jeg-tok-feil-om-ole-asbjorn-ness/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ness 78 – Espen Teigen kansellert av NRK by Ness",
+                                                                                                                                                                                           "snippet":  "Ett tema, én gjest. Og den frittalende, løse kanonen Ole Asbjørn Ness. Forfatteren og komikeren hater tåkeprat, men elsker politikk og økonomi.",
+                                                                                                                                                                                           "url":  "https://creators.spotify.com/pod/profile/inyheter/episodes/Ness-78--Espen-Teigen-kansellert-av-NRK-e2v69s2"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1989067944765321244.\n- To analyze this post properly, I\u0027m fetching its content and any related thread details.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003efd94e070-17ba-42c9-9042-037b69f0d0c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989067944765321244}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The fetched content shows this post is a reply from @plassoplo to a main post by @MNReitan (ID 1988982187643793559).\n- The reply reads: \"Plenty med \u0027kapable\u0027 folk igjen, tradisjonelt sett noen hakk mer \u0027hands on\u0027 bare...\" which seems to be in Norwegian and appears sarcastic or agreeing with the main post\u0027s critique.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e347e66da-128a-4e33-8593-f8d3bf8f7180\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Minerva NRK kritikk Ole Asbjørn Ness Civita\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "fd94e070-17ba-42c9-9042-037b69f0d0c9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "fd94e070-17ba-42c9-9042-037b69f0d0c9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "347e66da-128a-4e33-8593-f8d3bf8f7180"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "347e66da-128a-4e33-8593-f8d3bf8f7180",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier ...",
+                                                                                                                                                                                           "snippet":  "– De er venstrevridde, ekstremt politisk korrekte og maktlojale, sier Ole Asbjørn Ness om NRK. Minerva har snakket med podkaster Ole Asbjørn ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/MinervaNett/posts/-de-er-venstrevridde-ekstremt-politisk-korrekte-og-maktlojale-sier-ole-asbj%2525C3%2525B8rn-n/1549419863397430/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Vi forstår kritikken - Minerva",
+                                                                                                                                                                                           "snippet":  "Det gjelder spesielt Ole Asbjørn Ness\u0027 uttalelse om at NRK «er så maktlojale at man nesten ser hvordan holocaust kunne skje». Dette er en ...",
+                                                                                                                                                                                           "url":  "https://www.minerva.no/mediekritikk-minerva/vi-forstar-kritikken/487542"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ness | Podcast on Spotify",
+                                                                                                                                                                                           "snippet":  "I denne samtalen møter Ole Asbjørn Ness to sterke mediekritikere: Jarle Aabø og Simen Sandelien. Sammen går de rett inn i det som mange oppfatter som et ...",
+                                                                                                                                                                                           "url":  "https://open.spotify.com/show/6JbNF7AwbS5qbUDJriRFa2"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje",
+                                                                                                                                                                                           "snippet":  "– De er så maktlojale at man nesten ser hvordan holocaust kunne skje. Podkaster Ole Asbjørn Ness er ikke snau i sin kritikk av NRK.",
+                                                                                                                                                                                           "url":  "https://www.minerva.no/alternative-medier-nrk-ola-buxrud/de-er-sa-maktlojale-at-man-nesten-ser-hvordan-holocaust-kunne-skje/487508"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Saken hvor tre profilerte samfunnsdebattanter kritiserte NRK har ...",
+                                                                                                                                                                                           "snippet":  "«Sterkt levert av både Minerva og Ole Asbjørn Ness. Denne saken setter fingeren på noe mange lenge har kjent på, nemlig hvordan NRK og store ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/MinervaNett/posts/saken-hvor-tre-profilerte-samfunnsdebattanter-kritiserte-nrk-har-vakt-mange-reak/1549848173354599/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Minerva | Det vil være en klart dårligere løsning for Norge dersom vi ...",
+                                                                                                                                                                                           "snippet":  "Ole Asbjørn Ness nevner hverken pride eller formuesskatt når han forklarer hvorfor han stemmer på KrF. more. 3 days ago · avisenminerva\u0027s profile picture.",
+                                                                                                                                                                                           "url":  "https://www.instagram.com/p/DNff6hLxXXc/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "(+) To måneder som publikum hos den nye høyresidens medieprofiler",
+                                                                                                                                                                                           "snippet":  "I januar var stemningen og testosteronet på topp blant høyresidens nye, norske profiler. Vi benket oss for å lytte til hva de hadde å si.",
+                                                                                                                                                                                           "url":  "https://www.morgenbladet.no/kultur/to-maneder-som-publikum-hos-den-nye-hoyresidens-medieprofiler/9604221"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Side 1203 - Liberaleren",
+                                                                                                                                                                                           "snippet":  "NRK snudde for Ness. NRK sender likevel hørespillet til Ole Asbjørn Ness, om en etnisk norsk rapper som konverterer til islam og blir selvmbordsmomber.",
+                                                                                                                                                                                           "url":  "https://www.liberaleren.no/page/1203/?%25252F"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Jeg tok feil om Ole Asbjørn Ness - Document",
+                                                                                                                                                                                           "snippet":  "Den konservative skribenten og kommentatoren Ole Asbjørn Ness kaster seg på i konkurransen om å vise mest mulig avsky for Donald Trump, ...",
+                                                                                                                                                                                           "url":  "https://www.document.no/2025/03/11/jeg-tok-feil-om-ole-asbjorn-ness/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ness 78 – Espen Teigen kansellert av NRK by Ness",
+                                                                                                                                                                                           "snippet":  "Ett tema, én gjest. Og den frittalende, løse kanonen Ole Asbjørn Ness. Forfatteren og komikeren hater tåkeprat, men elsker politikk og økonomi.",
+                                                                                                                                                                                           "url":  "https://creators.spotify.com/pod/profile/inyheter/episodes/Ness-78--Espen-Teigen-kansellert-av-NRK-e2v69s2"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing controversy",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The main post critiques a recent controversy where Minerva, a conservative media outlet, published an article interviewing media critic Ole Asbjørn Ness, who harshly attacked NRK as left-wing and power-loyal, even comparing it to conditions enabling the Holocaust.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1989067981553336320",
+                                                                              "created_at_ms":  1763065736579,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1989067944765321244",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

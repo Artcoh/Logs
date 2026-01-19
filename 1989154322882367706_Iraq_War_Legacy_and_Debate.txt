@@ -1,0 +1,205 @@
+﻿# Grok Conversation Export
+# Title: Iraq War: Legacy and Debate
+# ID: 1989154322882367706
+# Extracted: 2026-01-19 11:36:16
+# URL: https://x.com/i/grok?conversation=1989154322882367706
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhua5VGTFnAAChRBAAABmoAiSjMAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1989154323960328193",
+                                                                              "created_at_ms":  1763086322227,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post sarcastically identifies a \"good\" outcome of the Iraq War as establishing a U.S. precedent for undeclared, unilateral military interventions justified by national security, critiquing post-9/11 foreign policy shifts.\n- It replies in a thread stemming from Triggernometry\u0027s recent podcast with libertarian comedian Dave Smith, where discussions on Iraq, Gaza, and American imperialism divided listeners between anti-war libertarians and pro-intervention conservatives.\n- This exchange highlights persistent debates on the Iraq War\u0027s legacy, including its estimated 200,000+ civilian deaths (per peer-reviewed studies like the Lancet survey) and erosion of international norms against aggressive wars without UN approval.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1989154293853859938.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e20281494-97cf-4827-a8f3-733c2ad9700f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989154293853859938}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze this post, I\u0027m fetching its content and any related thread details.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e20281494-97cf-4827-a8f3-733c2ad9700f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989154293853859938}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Turns out, this post is a reply in a larger thread starting with a main post by Konstantin Kisin, ID 1989111283103199457, defending having Dave Smith on their Triggernometry podcast.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e89791b3a-162d-4783-a30c-425c8046d5ec\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Triggernometry Dave Smith podcast episode\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Dave Smith is a libertarian comedian known for being anti-war and critical of neoconservatives.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e89791b3a-162d-4783-a30c-425c8046d5ec\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Triggernometry Dave Smith podcast episode\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nReviewing podcast episode- Just found the Triggernometry episode with Dave Smith, titled \"Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire,\" published about a day ago on November 13, 2025.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                      "snippet":  "Dave Smith is a comedian and libertarian commentator, hosting \u0027Part of the Problem\u0027 with sharp political insights. Triggernometry is proudly ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=Phg_NnK9cjQ"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Comedian Dave Smith on TRIGGERnometry Podcast (Transcript)",
+                                                                                                      "snippet":  "Here is the full transcript of Comedian Dave Smith\u0027s interview on TRIGGERnometry Podcast with hosts Konstantin Kisin and Francis Foster, ...",
+                                                                                                      "url":  "https://singjupost.com/comedian-dave-smith-on-triggernometry-podcast-transcript/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Triggernometry - YouTube",
+                                                                                                      "snippet":  "TRIGGERnometry - NEW episodes every Sunday and Wednesday 2 pm ET/7 pm UK ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American ...",
+                                                                                                      "url":  "https://www.youtube.com/%2540triggerpod"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "TRIGGERnometry | Podcast on Spotify",
+                                                                                                      "snippet":  "All Episodes ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire · Wednesday. 2 hr 31 min ; Ben Shapiro on Tucker Carlson, ...",
+                                                                                                      "url":  "https://open.spotify.com/show/1JH26td5UtmKQWHLv0NCZp"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                      "snippet":  "Listen to Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire from TRIGGERnometry (2 hr 31 min) ...",
+                                                                                                      "url":  "https://podscan.fm/podcasts/triggernometry/episodes/dave-smith-vs-triggernometry-war-nick-fuentes-tucker-carlson-and-the-american-empire"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                      "snippet":  "Dave Smith is a comedian and libertarian commentator, hosting \u0027Part of the Problem\u0027 with sharp political insights. Triggernometry is proudly ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=Phg_NnK9cjQ"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Comedian Dave Smith on TRIGGERnometry Podcast (Transcript)",
+                                                                                                      "snippet":  "Here is the full transcript of Comedian Dave Smith\u0027s interview on TRIGGERnometry Podcast with hosts Konstantin Kisin and Francis Foster, ...",
+                                                                                                      "url":  "https://singjupost.com/comedian-dave-smith-on-triggernometry-podcast-transcript/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Triggernometry - YouTube",
+                                                                                                      "snippet":  "TRIGGERnometry - NEW episodes every Sunday and Wednesday 2 pm ET/7 pm UK ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American ...",
+                                                                                                      "url":  "https://www.youtube.com/%2540triggerpod"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "TRIGGERnometry | Podcast on Spotify",
+                                                                                                      "snippet":  "All Episodes ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire · Wednesday. 2 hr 31 min ; Ben Shapiro on Tucker Carlson, ...",
+                                                                                                      "url":  "https://open.spotify.com/show/1JH26td5UtmKQWHLv0NCZp"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                      "snippet":  "Listen to Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire from TRIGGERnometry (2 hr 31 min) ...",
+                                                                                                      "url":  "https://podscan.fm/podcasts/triggernometry/episodes/dave-smith-vs-triggernometry-war-nick-fuentes-tucker-carlson-and-the-american-empire"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e20281494-97cf-4827-a8f3-733c2ad9700f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989154293853859938}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e89791b3a-162d-4783-a30c-425c8046d5ec\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Triggernometry Dave Smith podcast episode\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "20281494-97cf-4827-a8f3-733c2ad9700f"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "20281494-97cf-4827-a8f3-733c2ad9700f"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "89791b3a-162d-4783-a30c-425c8046d5ec"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "89791b3a-162d-4783-a30c-425c8046d5ec",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                                                                                                           "snippet":  "Dave Smith is a comedian and libertarian commentator, hosting \u0027Part of the Problem\u0027 with sharp political insights. Triggernometry is proudly ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=Phg_NnK9cjQ"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Comedian Dave Smith on TRIGGERnometry Podcast (Transcript)",
+                                                                                                                                                                                           "snippet":  "Here is the full transcript of Comedian Dave Smith\u0027s interview on TRIGGERnometry Podcast with hosts Konstantin Kisin and Francis Foster, ...",
+                                                                                                                                                                                           "url":  "https://singjupost.com/comedian-dave-smith-on-triggernometry-podcast-transcript/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Triggernometry - YouTube",
+                                                                                                                                                                                           "snippet":  "TRIGGERnometry - NEW episodes every Sunday and Wednesday 2 pm ET/7 pm UK ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/%2540triggerpod"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "TRIGGERnometry | Podcast on Spotify",
+                                                                                                                                                                                           "snippet":  "All Episodes ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire · Wednesday. 2 hr 31 min ; Ben Shapiro on Tucker Carlson, ...",
+                                                                                                                                                                                           "url":  "https://open.spotify.com/show/1JH26td5UtmKQWHLv0NCZp"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                                                                                                           "snippet":  "Listen to Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire from TRIGGERnometry (2 hr 31 min) ...",
+                                                                                                                                                                                           "url":  "https://podscan.fm/podcasts/triggernometry/episodes/dave-smith-vs-triggernometry-war-nick-fuentes-tucker-carlson-and-the-american-empire"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1989154293853859938.\n- To analyze this post, I\u0027m fetching its content and any related thread details.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e20281494-97cf-4827-a8f3-733c2ad9700f\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1989154293853859938}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Turns out, this post is a reply in a larger thread starting with a main post by Konstantin Kisin, ID 1989111283103199457, defending having Dave Smith on their Triggernometry podcast.\n- Dave Smith is a libertarian comedian known for being anti-war and critical of neoconservatives.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e89791b3a-162d-4783-a30c-425c8046d5ec\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Triggernometry Dave Smith podcast episode\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "20281494-97cf-4827-a8f3-733c2ad9700f"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "20281494-97cf-4827-a8f3-733c2ad9700f"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "89791b3a-162d-4783-a30c-425c8046d5ec"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "89791b3a-162d-4783-a30c-425c8046d5ec",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                                                                                                           "snippet":  "Dave Smith is a comedian and libertarian commentator, hosting \u0027Part of the Problem\u0027 with sharp political insights. Triggernometry is proudly ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=Phg_NnK9cjQ"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Comedian Dave Smith on TRIGGERnometry Podcast (Transcript)",
+                                                                                                                                                                                           "snippet":  "Here is the full transcript of Comedian Dave Smith\u0027s interview on TRIGGERnometry Podcast with hosts Konstantin Kisin and Francis Foster, ...",
+                                                                                                                                                                                           "url":  "https://singjupost.com/comedian-dave-smith-on-triggernometry-podcast-transcript/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Triggernometry - YouTube",
+                                                                                                                                                                                           "snippet":  "TRIGGERnometry - NEW episodes every Sunday and Wednesday 2 pm ET/7 pm UK ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/%2540triggerpod"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "TRIGGERnometry | Podcast on Spotify",
+                                                                                                                                                                                           "snippet":  "All Episodes ; Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire · Wednesday. 2 hr 31 min ; Ben Shapiro on Tucker Carlson, ...",
+                                                                                                                                                                                           "url":  "https://open.spotify.com/show/1JH26td5UtmKQWHLv0NCZp"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson ...",
+                                                                                                                                                                                           "snippet":  "Listen to Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire from TRIGGERnometry (2 hr 31 min) ...",
+                                                                                                                                                                                           "url":  "https://podscan.fm/podcasts/triggernometry/episodes/dave-smith-vs-triggernometry-war-nick-fuentes-tucker-carlson-and-the-american-empire"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing podcast episode",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Just found the Triggernometry episode with Dave Smith, titled \"Dave Smith VS Triggernometry: War, Nick Fuentes, Tucker Carlson and the American Empire,\" published about a day ago on November 13, 2025.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1989154323960328192",
+                                                                              "created_at_ms":  1763086322227,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1989154293853859938",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

@@ -1,0 +1,332 @@
+﻿# Grok Conversation Export
+# Title: French Soldier's Viral Exit Explained
+# ID: 1994815557984501816
+# Extracted: 2026-01-19 11:27:34
+# URL: https://x.com/i/grok?conversation=1994815557984501816
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuvAi7LF6AAChRBAAABmtCVvwAAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1994815800805388289",
+                                                                              "created_at_ms":  1764436123471,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Haha, yeah, sometimes the simplest explanation is the right one: dude just got hit with a sudden wave of “oh shit, everyone’s staring at me” and noped out 😂  \n\nNo grand conspiracy, no heroic protest, just peak human awkwardness in 4K. We’ve all been there (well, maybe not on national TV with Macron ten feet away, but close enough).",
+                                                                              "thinking_trace":  "",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "",
+                                                                                                             "steps":  [
+                                                                                                                           {
+
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "FunctionCall"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994815800805388288",
+                                                                              "created_at_ms":  1764436123471,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "Lol I knew you\u0027d see it my way",
+                                                                              "sender_type":  "User"
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994815559947493377",
+                                                                              "created_at_ms":  1764436066048,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post replies to a viral video of a French soldier appearing fidgety and abruptly leaving the stage during President Macron\u0027s November 27, 2025, speech announcing voluntary 10-month military service for 18- and 19-year-olds amid Russia threats.\n- It dismisses online speculation of protest or breakdown as overreaction by \"newfaqs,\" attributing the soldier\u0027s actions to sudden self-consciousness under a large audience.\n- The incident highlights social media\u0027s tendency to amplify minor awkwardness into national drama, with the video garnering over 3.4 million views despite no official confirmation of deeper issues.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from plassoplo.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eefec270c-8284-4569-848b-7e9fb29885d0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994815415168712912}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Noting the post ID looks futuristic for 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eefec270c-8284-4569-848b-7e9fb29885d0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994815415168712912}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply mocks soldier speculation as \"autist\" amid \"retards.\"\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eaef9d442-8ff1-4571-a631-1a185f252efd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994738182596825088/vid/avc1/320x348/0ZP8i9l2zgnwcrHX.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7cf16ebc-287c-4db9-b0be-467bca4892c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier walks off stage during Macron speech November 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Planning searches for French soldier event context around November 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eaef9d442-8ff1-4571-a631-1a185f252efd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994738182596825088/vid/avc1/320x348/0ZP8i9l2zgnwcrHX.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7cf16ebc-287c-4db9-b0be-467bca4892c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier walks off stage during Macron speech November 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ef3b147-82da-4d58-b757-97c7ef60d85e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier Macron speech walk off since:2025-11-29\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ef3b147-82da-4d58-b757-97c7ef60d85e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier Macron speech walk off since:2025-11-29\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nUncovering event details- Discovering Macron\u0027s Nov 27 speech on military service, where fidgety soldier exits stage.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "A guardsman in France collapsed near the French President ...",
+                                                                                                      "snippet":  "A guardsman in France collapsed near the French President, Emmanuel Macron while he was welcoming the President of Madagascar ... Nov 21, 2025 · ...",
+                                                                                                      "url":  "https://www.facebook.com/khaleejtimes/videos/a-guardsman-in-france-collapsed-near-the-french-president-emmanuel-macron-while-/650849933155551/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The strange discomfort of a young soldier during a speech by ...",
+                                                                                                      "snippet":  "The strange discomfort of a young soldier during a speech by Macron... Auto-dubbed. 48K views · 1 day ago #macron #army #unease ...more ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=vPfN-C7n16o"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Soldier collapses during Emmanuel Macron\u0027s speech - YouTube",
+                                                                                                      "snippet":  "Deux militaires ont été victimes de malaise lors du traditionnel discours de vœux aux armées d\u0027Emmanuel Macron, le 19 janvier 2024.",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=Q0d-rX4SGkM"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France to bring in form of military service, 25 years after ... - BBC",
+                                                                                                      "snippet":  "A limited form of military service will be re-introduced in France in response to growing fears of a confrontation with Russia.",
+                                                                                                      "url":  "https://www.bbc.com/news/articles/c0edw7g7z79o"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France to introduce voluntary military service amid threat from Russia",
+                                                                                                      "snippet":  "Macron says plan to introduce 10 months\u0027 service among 18- and 19-year-olds will help France respond to \u0027accelerating threats\u0027",
+                                                                                                      "url":  "https://www.theguardian.com/world/2025/nov/27/france-voluntary-military-service-russia-threat-macron-plan"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "How the French government is preparing the public for ... - Le Monde",
+                                                                                                      "snippet":  "Emmanuel Macron at the Tomb of the Unknown Soldier during the 107th anniversary of the Armistice of 1918, in Paris, November 11, 2025. KAMIL ...",
+                                                                                                      "url":  "https://www.lemonde.fr/en/politics/article/2025/11/28/how-the-french-government-is-preparing-the-public-for-the-possibility-of-war_6747924_5.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France to reintroduce voluntary military service amid growing threat ...",
+                                                                                                      "snippet":  "French President Emmanuel Macron is reintroducing voluntary military service almost three decades after it was scrapped.",
+                                                                                                      "url":  "https://www.abc.net.au/news/2025-11-28/france-to-restore-voluntary-military-service/106076506"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ukraine comes under deadly drone, missile attacks - Al Jazeera",
+                                                                                                      "snippet":  "At least three people have been killed in Kyiv and two others in Dnipropetrovsk in Russian drone and missile attacks.",
+                                                                                                      "url":  "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France unveils voluntary military service amid \u0027accelerating threats\u0027",
+                                                                                                      "snippet":  "The French president on Thursday announced the creation of a new voluntary youth military service to begin by mid-2026, citing growing ...",
+                                                                                                      "url":  "https://www.newarab.com/news/france-unveils-voluntary-military-service-amid-accelerating-threats"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "A guardsman in France collapsed near the French President ...",
+                                                                                                      "snippet":  "A guardsman in France collapsed near the French President, Emmanuel Macron while he was welcoming the President of Madagascar ... Nov 21, 2025 · ...",
+                                                                                                      "url":  "https://www.facebook.com/khaleejtimes/videos/a-guardsman-in-france-collapsed-near-the-french-president-emmanuel-macron-while-/650849933155551/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The strange discomfort of a young soldier during a speech by ...",
+                                                                                                      "snippet":  "The strange discomfort of a young soldier during a speech by Macron... Auto-dubbed. 48K views · 1 day ago #macron #army #unease ...more ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=vPfN-C7n16o"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Soldier collapses during Emmanuel Macron\u0027s speech - YouTube",
+                                                                                                      "snippet":  "Deux militaires ont été victimes de malaise lors du traditionnel discours de vœux aux armées d\u0027Emmanuel Macron, le 19 janvier 2024.",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=Q0d-rX4SGkM"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France to bring in form of military service, 25 years after ... - BBC",
+                                                                                                      "snippet":  "A limited form of military service will be re-introduced in France in response to growing fears of a confrontation with Russia.",
+                                                                                                      "url":  "https://www.bbc.com/news/articles/c0edw7g7z79o"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France to introduce voluntary military service amid threat from Russia",
+                                                                                                      "snippet":  "Macron says plan to introduce 10 months\u0027 service among 18- and 19-year-olds will help France respond to \u0027accelerating threats\u0027",
+                                                                                                      "url":  "https://www.theguardian.com/world/2025/nov/27/france-voluntary-military-service-russia-threat-macron-plan"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "How the French government is preparing the public for ... - Le Monde",
+                                                                                                      "snippet":  "Emmanuel Macron at the Tomb of the Unknown Soldier during the 107th anniversary of the Armistice of 1918, in Paris, November 11, 2025. KAMIL ...",
+                                                                                                      "url":  "https://www.lemonde.fr/en/politics/article/2025/11/28/how-the-french-government-is-preparing-the-public-for-the-possibility-of-war_6747924_5.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France to reintroduce voluntary military service amid growing threat ...",
+                                                                                                      "snippet":  "French President Emmanuel Macron is reintroducing voluntary military service almost three decades after it was scrapped.",
+                                                                                                      "url":  "https://www.abc.net.au/news/2025-11-28/france-to-restore-voluntary-military-service/106076506"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Ukraine comes under deadly drone, missile attacks - Al Jazeera",
+                                                                                                      "snippet":  "At least three people have been killed in Kyiv and two others in Dnipropetrovsk in Russian drone and missile attacks.",
+                                                                                                      "url":  "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "France unveils voluntary military service amid \u0027accelerating threats\u0027",
+                                                                                                      "snippet":  "The French president on Thursday announced the creation of a new voluntary youth military service to begin by mid-2026, citing growing ...",
+                                                                                                      "url":  "https://www.newarab.com/news/france-unveils-voluntary-military-service-amid-accelerating-threats"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eefec270c-8284-4569-848b-7e9fb29885d0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994815415168712912}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eaef9d442-8ff1-4571-a631-1a185f252efd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994738182596825088/vid/avc1/320x348/0ZP8i9l2zgnwcrHX.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7cf16ebc-287c-4db9-b0be-467bca4892c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier walks off stage during Macron speech November 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ef3b147-82da-4d58-b757-97c7ef60d85e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier Macron speech walk off since:2025-11-29\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "efec270c-8284-4569-848b-7e9fb29885d0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "efec270c-8284-4569-848b-7e9fb29885d0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "aef9d442-8ff1-4571-a631-1a185f252efd"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7cf16ebc-287c-4db9-b0be-467bca4892c9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ef3b147-82da-4d58-b757-97c7ef60d85e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7cf16ebc-287c-4db9-b0be-467bca4892c9",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "A guardsman in France collapsed near the French President ...",
+                                                                                                                                                                                           "snippet":  "A guardsman in France collapsed near the French President, Emmanuel Macron while he was welcoming the President of Madagascar ... Nov 21, 2025 · ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/khaleejtimes/videos/a-guardsman-in-france-collapsed-near-the-french-president-emmanuel-macron-while-/650849933155551/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The strange discomfort of a young soldier during a speech by ...",
+                                                                                                                                                                                           "snippet":  "The strange discomfort of a young soldier during a speech by Macron... Auto-dubbed. 48K views · 1 day ago #macron #army #unease ...more ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=vPfN-C7n16o"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Soldier collapses during Emmanuel Macron\u0027s speech - YouTube",
+                                                                                                                                                                                           "snippet":  "Deux militaires ont été victimes de malaise lors du traditionnel discours de vœux aux armées d\u0027Emmanuel Macron, le 19 janvier 2024.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=Q0d-rX4SGkM"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France to bring in form of military service, 25 years after ... - BBC",
+                                                                                                                                                                                           "snippet":  "A limited form of military service will be re-introduced in France in response to growing fears of a confrontation with Russia.",
+                                                                                                                                                                                           "url":  "https://www.bbc.com/news/articles/c0edw7g7z79o"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France to introduce voluntary military service amid threat from Russia",
+                                                                                                                                                                                           "snippet":  "Macron says plan to introduce 10 months\u0027 service among 18- and 19-year-olds will help France respond to \u0027accelerating threats\u0027",
+                                                                                                                                                                                           "url":  "https://www.theguardian.com/world/2025/nov/27/france-voluntary-military-service-russia-threat-macron-plan"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "How the French government is preparing the public for ... - Le Monde",
+                                                                                                                                                                                           "snippet":  "Emmanuel Macron at the Tomb of the Unknown Soldier during the 107th anniversary of the Armistice of 1918, in Paris, November 11, 2025. KAMIL ...",
+                                                                                                                                                                                           "url":  "https://www.lemonde.fr/en/politics/article/2025/11/28/how-the-french-government-is-preparing-the-public-for-the-possibility-of-war_6747924_5.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France to reintroduce voluntary military service amid growing threat ...",
+                                                                                                                                                                                           "snippet":  "French President Emmanuel Macron is reintroducing voluntary military service almost three decades after it was scrapped.",
+                                                                                                                                                                                           "url":  "https://www.abc.net.au/news/2025-11-28/france-to-restore-voluntary-military-service/106076506"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ukraine comes under deadly drone, missile attacks - Al Jazeera",
+                                                                                                                                                                                           "snippet":  "At least three people have been killed in Kyiv and two others in Dnipropetrovsk in Russian drone and missile attacks.",
+                                                                                                                                                                                           "url":  "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France unveils voluntary military service amid \u0027accelerating threats\u0027",
+                                                                                                                                                                                           "snippet":  "The French president on Thursday announced the creation of a new voluntary youth military service to begin by mid-2026, citing growing ...",
+                                                                                                                                                                                           "url":  "https://www.newarab.com/news/france-unveils-voluntary-military-service-amid-accelerating-threats"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ef3b147-82da-4d58-b757-97c7ef60d85e"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from plassoplo.\n- Noting the post ID looks futuristic for 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eefec270c-8284-4569-848b-7e9fb29885d0\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1994815415168712912}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply mocks soldier speculation as \"autist\" amid \"retards.\"\n- Planning searches for French soldier event context around November 2025.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003eaef9d442-8ff1-4571-a631-1a185f252efd\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_x_video\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"video_url\":\"https://video.twimg.com/amplify_video/1994738182596825088/vid/avc1/320x348/0ZP8i9l2zgnwcrHX.mp4\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e7cf16ebc-287c-4db9-b0be-467bca4892c9\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier walks off stage during Macron speech November 2025\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ef3b147-82da-4d58-b757-97c7ef60d85e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_keyword_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"French soldier Macron speech walk off since:2025-11-29\",\"limit\":10,\"mode\":\"Latest\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "efec270c-8284-4569-848b-7e9fb29885d0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "efec270c-8284-4569-848b-7e9fb29885d0"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "aef9d442-8ff1-4571-a631-1a185f252efd"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7cf16ebc-287c-4db9-b0be-467bca4892c9"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ef3b147-82da-4d58-b757-97c7ef60d85e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "7cf16ebc-287c-4db9-b0be-467bca4892c9",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "A guardsman in France collapsed near the French President ...",
+                                                                                                                                                                                           "snippet":  "A guardsman in France collapsed near the French President, Emmanuel Macron while he was welcoming the President of Madagascar ... Nov 21, 2025 · ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/khaleejtimes/videos/a-guardsman-in-france-collapsed-near-the-french-president-emmanuel-macron-while-/650849933155551/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The strange discomfort of a young soldier during a speech by ...",
+                                                                                                                                                                                           "snippet":  "The strange discomfort of a young soldier during a speech by Macron... Auto-dubbed. 48K views · 1 day ago #macron #army #unease ...more ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=vPfN-C7n16o"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Soldier collapses during Emmanuel Macron\u0027s speech - YouTube",
+                                                                                                                                                                                           "snippet":  "Deux militaires ont été victimes de malaise lors du traditionnel discours de vœux aux armées d\u0027Emmanuel Macron, le 19 janvier 2024.",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=Q0d-rX4SGkM"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France to bring in form of military service, 25 years after ... - BBC",
+                                                                                                                                                                                           "snippet":  "A limited form of military service will be re-introduced in France in response to growing fears of a confrontation with Russia.",
+                                                                                                                                                                                           "url":  "https://www.bbc.com/news/articles/c0edw7g7z79o"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France to introduce voluntary military service amid threat from Russia",
+                                                                                                                                                                                           "snippet":  "Macron says plan to introduce 10 months\u0027 service among 18- and 19-year-olds will help France respond to \u0027accelerating threats\u0027",
+                                                                                                                                                                                           "url":  "https://www.theguardian.com/world/2025/nov/27/france-voluntary-military-service-russia-threat-macron-plan"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "How the French government is preparing the public for ... - Le Monde",
+                                                                                                                                                                                           "snippet":  "Emmanuel Macron at the Tomb of the Unknown Soldier during the 107th anniversary of the Armistice of 1918, in Paris, November 11, 2025. KAMIL ...",
+                                                                                                                                                                                           "url":  "https://www.lemonde.fr/en/politics/article/2025/11/28/how-the-french-government-is-preparing-the-public-for-the-possibility-of-war_6747924_5.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France to reintroduce voluntary military service amid growing threat ...",
+                                                                                                                                                                                           "snippet":  "French President Emmanuel Macron is reintroducing voluntary military service almost three decades after it was scrapped.",
+                                                                                                                                                                                           "url":  "https://www.abc.net.au/news/2025-11-28/france-to-restore-voluntary-military-service/106076506"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Ukraine comes under deadly drone, missile attacks - Al Jazeera",
+                                                                                                                                                                                           "snippet":  "At least three people have been killed in Kyiv and two others in Dnipropetrovsk in Russian drone and missile attacks.",
+                                                                                                                                                                                           "url":  "https://www.aljazeera.com/news/liveblog/2025/11/29/russia-ukraine-war-live-kyiv-comes-under-deadly-drone-missile-attacks"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "France unveils voluntary military service amid \u0027accelerating threats\u0027",
+                                                                                                                                                                                           "snippet":  "The French president on Thursday announced the creation of a new voluntary youth military service to begin by mid-2026, citing growing ...",
+                                                                                                                                                                                           "url":  "https://www.newarab.com/news/france-unveils-voluntary-military-service-amid-accelerating-threats"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ef3b147-82da-4d58-b757-97c7ef60d85e"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Uncovering event details",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Discovering Macron\u0027s Nov 27 speech on military service, where fidgety soldier exits stage.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1994815559947493376",
+                                                                              "created_at_ms":  1764436066048,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1994815415168712912",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

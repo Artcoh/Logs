@@ -1,0 +1,82 @@
+﻿# Grok Conversation Export
+# Title: AI Progress: Midwit Hindrance, Thoughtful Innovation
+# ID: 2001404128992653804
+# Extracted: 2026-01-19 11:19:58
+# URL: https://x.com/i/grok?conversation=2001404128992653804
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhvGanPkFmAAChRBAAABmy4202cAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "2001404130393219073",
+                                                                              "created_at_ms":  1766006903655,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply to AI commentator Matthew Berman defends Bernie Sanders\u0027 data center moratorium by arguing AI progress is hindered more by \"midwits\"—overconfident experts fixated on scaling with noisy data—than by regulatory caution.\n- The attached meme, a Wojak-style comic of Peter denying and being forgiven by Jesus, symbolizes redemption from misguided pursuits, implying a call to abandon brute-force AI methods for more thoughtful development.\n- Sanders\u0027 proposal, voiced in a December 16, 2025 video, aims to pause AI infrastructure growth for equitable benefits, sparking backlash over potential U.S. disadvantages in global AI competition.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from PlassoPlo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3dd403d-1110-46d5-9fd2-fe58b6a32f85\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2001404017700655363}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Noting the post ID looks recent despite the 2025 date, so fetching thread for full context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3dd403d-1110-46d5-9fd2-fe58b6a32f85\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2001404017700655363}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e17fa5fd1-c994-485f-ab78-0baa4e4f9aa1\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G8ZqTw3WAAAa3sC.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Spotting PlassoPlo\u0027s reply mocking \"midwits\" pushing more data for AI, preferring Bernie\u0027s simple views.\n- Wrapping up PlassoPlo\u0027s full thought: he\u0027d take 10 Bernies over data-obsessed midwits any day.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e17fa5fd1-c994-485f-ab78-0baa4e4f9aa1\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G8ZqTw3WAAAa3sC.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3dd403d-1110-46d5-9fd2-fe58b6a32f85\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2001404017700655363}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e17fa5fd1-c994-485f-ab78-0baa4e4f9aa1\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G8ZqTw3WAAAa3sC.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e3dd403d-1110-46d5-9fd2-fe58b6a32f85"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e3dd403d-1110-46d5-9fd2-fe58b6a32f85"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "17fa5fd1-c994-485f-ab78-0baa4e4f9aa1"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from PlassoPlo to uncover key insights.\n- Noting the post ID looks recent despite the 2025 date, so fetching thread for full context.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ee3dd403d-1110-46d5-9fd2-fe58b6a32f85\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2001404017700655363}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting PlassoPlo\u0027s reply mocking \"midwits\" pushing more data for AI, preferring Bernie\u0027s simple views.\n- Wrapping up PlassoPlo\u0027s full thought: he\u0027d take 10 Bernies over data-obsessed midwits any day.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e17fa5fd1-c994-485f-ab78-0baa4e4f9aa1\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eview_image\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"image_url\":\"https://pbs.twimg.com/media/G8ZqTw3WAAAa3sC.jpg\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e3dd403d-1110-46d5-9fd2-fe58b6a32f85"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "e3dd403d-1110-46d5-9fd2-fe58b6a32f85"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "17fa5fd1-c994-485f-ab78-0baa4e4f9aa1"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2001404130393219072",
+                                                                              "created_at_ms":  1766006903655,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/2001404017700655363",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

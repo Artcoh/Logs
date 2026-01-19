@@ -1,0 +1,315 @@
+﻿# Grok Conversation Export
+# Title: Tommy Robinson: Extremism and Controversy
+# ID: 1986822638715445270
+# Extracted: 2026-01-19 11:42:02
+# URL: https://x.com/i/grok?conversation=1986822638715445270
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuSnKpr1oAAChRBAAABml7/rYcAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1986822641391403009",
+                                                                              "created_at_ms":  1762530405767,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post counters claims of Tommy Robinson\u0027s non-extremist stance by highlighting his documented antisemitic remarks and associations with neo-Nazis, as reported in multiple UK media outlets like The Guardian and BBC investigations.\n- It references Robinson\u0027s October 2025 Israel visit, invited by Diaspora Minister Amichai Chikli, which faced widespread condemnation from UK Jewish groups such as the Board of Deputies and Israeli opposition figures for undermining anti-hate efforts.\n- This exchange occurs in a Norwegian-language thread debating NRK\u0027s labeling of Robinson as far-right post-acquittal, illustrating broader European tensions over far-right activism and media portrayals.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestAnalyzing X post- The task involves examining the X post at https://x.com/harselars/status/1986815180391506093.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea53402a0-d4af-4f67-95f4-3f9f19d05f7b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1986815180391506093}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To get the post\u0027s content and context, I\u0027m using the appropriate tool with the post ID 1986815180391506093.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea53402a0-d4af-4f67-95f4-3f9f19d05f7b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1986815180391506093}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nReviewing fetched content- The fetched thread shows the main post ID as 1986475103668801891, with the requested post being a reply (ID 1986815180391506093) from @harselars.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e72518426-8620-4bd5-bf93-8c9ccfdc167e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tommy Robinson Israel visit 2025 condemnation Jewish organizations\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- This reply counters a claim that \"He is literally Mossad. How \u0027nazi\u0027 can he then be?\" by highlighting the person\u0027s antisemitic statements and neo-Nazi associations.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e72518426-8620-4bd5-bf93-8c9ccfdc167e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tommy Robinson Israel visit 2025 condemnation Jewish organizations\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nVerifying claims- Search results confirm Tommy Robinson\u0027s October 2025 Israel visit, invited by Diaspora Minister Amichai Chikli, faced widespread condemnation from UK Jewish groups like the Board of Deputies of British Jews, who labeled him a thug, and Israeli opposition figures.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "UK Jewish groups condemn Israeli minister\u0027s invite to Tommy ...",
+                                                                                                      "snippet":  "Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others.",
+                                                                                                      "url":  "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Far-right UK activist Tommy Robinson visits Israel on invite of ...",
+                                                                                                      "snippet":  "Robinson\u0027s visit drew condemnation from Britain\u0027s largest Jewish group ... Tommy Robinson interviews Israeli Diaspora Minister Amichai Chikli on ...",
+                                                                                                      "url":  "https://forward.com/fast-forward/776932/far-right-uk-activist-tommy-robinson-visits-israel-on-invite-of-diaspora-minister-amichai-chikli/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Chair of Diaspora Affairs Committee MK Kariv: Invitation to Tommy ...",
+                                                                                                      "snippet":  "Major organizations representing the British Jewish community expressed their objection to the invitation extended to Robinson to visit Israel.",
+                                                                                                      "url":  "https://m.knesset.gov.il/EN/News/PressReleases/Pages/press211025t.aspx"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "U.K. Far-right Agitator Tommy Robinson Visits Israel Despite Outcry ...",
+                                                                                                      "snippet":  "Diaspora Minister Amichai Chikli invited Tommy Robinson amid criticism from British Jews, who condemned the visit as \u0027a slap in the face\u0027 ...",
+                                                                                                      "url":  "https://www.haaretz.com/israel-news/2025-10-16/ty-article/.premium/u-k-far-right-agitator-tommy-robinson-visits-israel-despite-outcry-by-british-jews/00000199-eaa0-dde4-a7bd-fafe26250000"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Row breaks out in Israel over Tommy Robinson visit",
+                                                                                                      "snippet":  "Opposition politician calls on Chikli to apologise for inviting the far-right activist who has largely been warmly received in Israel.",
+                                                                                                      "url":  "https://www.thejc.com/news/israel/row-breaks-out-in-israel-over-tommy-robinson-visit-uuqqvbs2"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "UK anti-Islam activist Tommy Robinson, visiting at Chikli\u0027s invitation ...",
+                                                                                                      "snippet":  "The invitation drew condemnation from the most prominent organizations representing British Jewry, who called Robinson a “thug who represents ...",
+                                                                                                      "url":  "https://www.timesofisrael.com/liveblog_entry/uk-anti-islam-activist-tommy-robinson-visiting-at-chiklis-invitation-praises-israel-as-island-of-democracy/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Tommy Robinson\u0027s Israel Visit Sparks Backlash from British Jewish ...",
+                                                                                                      "snippet":  "Invited by Minister Amichai Chikli, controversial UK activist Tommy Robinson\u0027s visit to Israel, billed as a show of solidarity, ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=yWu9LbvRNYI"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Tommy Robinson\u0027s official invite to Israel delays UK terror verdict",
+                                                                                                      "snippet":  "The far-right activist was invited to Israel this month by Israel\u0027s diaspora minister in a move condemned by British PM Starmer.",
+                                                                                                      "url":  "https://www.middleeasteye.net/news/israeli-government-invite-delays-tommy-robinsons-terror-verdict"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Israel hosts British anti-Islam activist Tommy Robinson - JNS.org",
+                                                                                                      "snippet":  "Nonetheless, the Board of Deputies of British Jews, a centrist umbrella organization, condemned the visit, calling Robinson “a thug” who ...",
+                                                                                                      "url":  "https://www.jns.org/israel-hosts-british-anti-islam-activist-tommy-robinson/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Visiting Israel, British far-right activist Tommy Robinson claimed that ...",
+                                                                                                      "snippet":  "Visiting Israel, British far-right activist Tommy Robinson claimed that he had understood the dangers of anti-Jewish hatred. For Europe\u0027s anti- ...",
+                                                                                                      "url":  "https://www.facebook.com/jacobinmag/posts/visiting-israel-british-far-right-activist-tommy-robinson-claimed-that-he-had-un/1138803335082682/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "UK Jewish groups condemn Israeli minister\u0027s invite to Tommy ...",
+                                                                                                      "snippet":  "Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others.",
+                                                                                                      "url":  "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Far-right UK activist Tommy Robinson visits Israel on invite of ...",
+                                                                                                      "snippet":  "Robinson\u0027s visit drew condemnation from Britain\u0027s largest Jewish group ... Tommy Robinson interviews Israeli Diaspora Minister Amichai Chikli on ...",
+                                                                                                      "url":  "https://forward.com/fast-forward/776932/far-right-uk-activist-tommy-robinson-visits-israel-on-invite-of-diaspora-minister-amichai-chikli/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Chair of Diaspora Affairs Committee MK Kariv: Invitation to Tommy ...",
+                                                                                                      "snippet":  "Major organizations representing the British Jewish community expressed their objection to the invitation extended to Robinson to visit Israel.",
+                                                                                                      "url":  "https://m.knesset.gov.il/EN/News/PressReleases/Pages/press211025t.aspx"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "U.K. Far-right Agitator Tommy Robinson Visits Israel Despite Outcry ...",
+                                                                                                      "snippet":  "Diaspora Minister Amichai Chikli invited Tommy Robinson amid criticism from British Jews, who condemned the visit as \u0027a slap in the face\u0027 ...",
+                                                                                                      "url":  "https://www.haaretz.com/israel-news/2025-10-16/ty-article/.premium/u-k-far-right-agitator-tommy-robinson-visits-israel-despite-outcry-by-british-jews/00000199-eaa0-dde4-a7bd-fafe26250000"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Row breaks out in Israel over Tommy Robinson visit",
+                                                                                                      "snippet":  "Opposition politician calls on Chikli to apologise for inviting the far-right activist who has largely been warmly received in Israel.",
+                                                                                                      "url":  "https://www.thejc.com/news/israel/row-breaks-out-in-israel-over-tommy-robinson-visit-uuqqvbs2"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "UK anti-Islam activist Tommy Robinson, visiting at Chikli\u0027s invitation ...",
+                                                                                                      "snippet":  "The invitation drew condemnation from the most prominent organizations representing British Jewry, who called Robinson a “thug who represents ...",
+                                                                                                      "url":  "https://www.timesofisrael.com/liveblog_entry/uk-anti-islam-activist-tommy-robinson-visiting-at-chiklis-invitation-praises-israel-as-island-of-democracy/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Tommy Robinson\u0027s Israel Visit Sparks Backlash from British Jewish ...",
+                                                                                                      "snippet":  "Invited by Minister Amichai Chikli, controversial UK activist Tommy Robinson\u0027s visit to Israel, billed as a show of solidarity, ...",
+                                                                                                      "url":  "https://www.youtube.com/watch?v=yWu9LbvRNYI"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Tommy Robinson\u0027s official invite to Israel delays UK terror verdict",
+                                                                                                      "snippet":  "The far-right activist was invited to Israel this month by Israel\u0027s diaspora minister in a move condemned by British PM Starmer.",
+                                                                                                      "url":  "https://www.middleeasteye.net/news/israeli-government-invite-delays-tommy-robinsons-terror-verdict"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Israel hosts British anti-Islam activist Tommy Robinson - JNS.org",
+                                                                                                      "snippet":  "Nonetheless, the Board of Deputies of British Jews, a centrist umbrella organization, condemned the visit, calling Robinson “a thug” who ...",
+                                                                                                      "url":  "https://www.jns.org/israel-hosts-british-anti-islam-activist-tommy-robinson/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Visiting Israel, British far-right activist Tommy Robinson claimed that ...",
+                                                                                                      "snippet":  "Visiting Israel, British far-right activist Tommy Robinson claimed that he had understood the dangers of anti-Jewish hatred. For Europe\u0027s anti- ...",
+                                                                                                      "url":  "https://www.facebook.com/jacobinmag/posts/visiting-israel-british-far-right-activist-tommy-robinson-claimed-that-he-had-un/1138803335082682/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea53402a0-d4af-4f67-95f4-3f9f19d05f7b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1986815180391506093}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e72518426-8620-4bd5-bf93-8c9ccfdc167e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tommy Robinson Israel visit 2025 condemnation Jewish organizations\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a53402a0-d4af-4f67-95f4-3f9f19d05f7b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a53402a0-d4af-4f67-95f4-3f9f19d05f7b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "72518426-8620-4bd5-bf93-8c9ccfdc167e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "72518426-8620-4bd5-bf93-8c9ccfdc167e",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "UK Jewish groups condemn Israeli minister\u0027s invite to Tommy ...",
+                                                                                                                                                                                           "snippet":  "Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others.",
+                                                                                                                                                                                           "url":  "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Far-right UK activist Tommy Robinson visits Israel on invite of ...",
+                                                                                                                                                                                           "snippet":  "Robinson\u0027s visit drew condemnation from Britain\u0027s largest Jewish group ... Tommy Robinson interviews Israeli Diaspora Minister Amichai Chikli on ...",
+                                                                                                                                                                                           "url":  "https://forward.com/fast-forward/776932/far-right-uk-activist-tommy-robinson-visits-israel-on-invite-of-diaspora-minister-amichai-chikli/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Chair of Diaspora Affairs Committee MK Kariv: Invitation to Tommy ...",
+                                                                                                                                                                                           "snippet":  "Major organizations representing the British Jewish community expressed their objection to the invitation extended to Robinson to visit Israel.",
+                                                                                                                                                                                           "url":  "https://m.knesset.gov.il/EN/News/PressReleases/Pages/press211025t.aspx"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "U.K. Far-right Agitator Tommy Robinson Visits Israel Despite Outcry ...",
+                                                                                                                                                                                           "snippet":  "Diaspora Minister Amichai Chikli invited Tommy Robinson amid criticism from British Jews, who condemned the visit as \u0027a slap in the face\u0027 ...",
+                                                                                                                                                                                           "url":  "https://www.haaretz.com/israel-news/2025-10-16/ty-article/.premium/u-k-far-right-agitator-tommy-robinson-visits-israel-despite-outcry-by-british-jews/00000199-eaa0-dde4-a7bd-fafe26250000"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Row breaks out in Israel over Tommy Robinson visit",
+                                                                                                                                                                                           "snippet":  "Opposition politician calls on Chikli to apologise for inviting the far-right activist who has largely been warmly received in Israel.",
+                                                                                                                                                                                           "url":  "https://www.thejc.com/news/israel/row-breaks-out-in-israel-over-tommy-robinson-visit-uuqqvbs2"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "UK anti-Islam activist Tommy Robinson, visiting at Chikli\u0027s invitation ...",
+                                                                                                                                                                                           "snippet":  "The invitation drew condemnation from the most prominent organizations representing British Jewry, who called Robinson a “thug who represents ...",
+                                                                                                                                                                                           "url":  "https://www.timesofisrael.com/liveblog_entry/uk-anti-islam-activist-tommy-robinson-visiting-at-chiklis-invitation-praises-israel-as-island-of-democracy/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tommy Robinson\u0027s Israel Visit Sparks Backlash from British Jewish ...",
+                                                                                                                                                                                           "snippet":  "Invited by Minister Amichai Chikli, controversial UK activist Tommy Robinson\u0027s visit to Israel, billed as a show of solidarity, ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=yWu9LbvRNYI"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tommy Robinson\u0027s official invite to Israel delays UK terror verdict",
+                                                                                                                                                                                           "snippet":  "The far-right activist was invited to Israel this month by Israel\u0027s diaspora minister in a move condemned by British PM Starmer.",
+                                                                                                                                                                                           "url":  "https://www.middleeasteye.net/news/israeli-government-invite-delays-tommy-robinsons-terror-verdict"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Israel hosts British anti-Islam activist Tommy Robinson - JNS.org",
+                                                                                                                                                                                           "snippet":  "Nonetheless, the Board of Deputies of British Jews, a centrist umbrella organization, condemned the visit, calling Robinson “a thug” who ...",
+                                                                                                                                                                                           "url":  "https://www.jns.org/israel-hosts-british-anti-islam-activist-tommy-robinson/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Visiting Israel, British far-right activist Tommy Robinson claimed that ...",
+                                                                                                                                                                                           "snippet":  "Visiting Israel, British far-right activist Tommy Robinson claimed that he had understood the dangers of anti-Jewish hatred. For Europe\u0027s anti- ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/jacobinmag/posts/visiting-israel-british-far-right-activist-tommy-robinson-claimed-that-he-had-un/1138803335082682/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The task involves examining the X post at https://x.com/harselars/status/1986815180391506093.\n- To get the post\u0027s content and context, I\u0027m using the appropriate tool with the post ID 1986815180391506093.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ea53402a0-d4af-4f67-95f4-3f9f19d05f7b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1986815180391506093}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a53402a0-d4af-4f67-95f4-3f9f19d05f7b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "a53402a0-d4af-4f67-95f4-3f9f19d05f7b"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing fetched content",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The fetched thread shows the main post ID as 1986475103668801891, with the requested post being a reply (ID 1986815180391506093) from @harselars.\n- This reply counters a claim that \"He is literally Mossad. How \u0027nazi\u0027 can he then be?\" by highlighting the person\u0027s antisemitic statements and neo-Nazi associations.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e72518426-8620-4bd5-bf93-8c9ccfdc167e\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Tommy Robinson Israel visit 2025 condemnation Jewish organizations\",\"num_results\":10}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "72518426-8620-4bd5-bf93-8c9ccfdc167e"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "72518426-8620-4bd5-bf93-8c9ccfdc167e",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "UK Jewish groups condemn Israeli minister\u0027s invite to Tommy ...",
+                                                                                                                                                                                           "snippet":  "Plans by an Israeli minister to host the British far-right activist Tommy Robinson have been condemned by Jewish bodies in the UK and others.",
+                                                                                                                                                                                           "url":  "https://www.theguardian.com/uk-news/2025/oct/05/uk-jewish-groups-condemn-israeli-minister-invite-tommy-robinson-israel"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Far-right UK activist Tommy Robinson visits Israel on invite of ...",
+                                                                                                                                                                                           "snippet":  "Robinson\u0027s visit drew condemnation from Britain\u0027s largest Jewish group ... Tommy Robinson interviews Israeli Diaspora Minister Amichai Chikli on ...",
+                                                                                                                                                                                           "url":  "https://forward.com/fast-forward/776932/far-right-uk-activist-tommy-robinson-visits-israel-on-invite-of-diaspora-minister-amichai-chikli/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Chair of Diaspora Affairs Committee MK Kariv: Invitation to Tommy ...",
+                                                                                                                                                                                           "snippet":  "Major organizations representing the British Jewish community expressed their objection to the invitation extended to Robinson to visit Israel.",
+                                                                                                                                                                                           "url":  "https://m.knesset.gov.il/EN/News/PressReleases/Pages/press211025t.aspx"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "U.K. Far-right Agitator Tommy Robinson Visits Israel Despite Outcry ...",
+                                                                                                                                                                                           "snippet":  "Diaspora Minister Amichai Chikli invited Tommy Robinson amid criticism from British Jews, who condemned the visit as \u0027a slap in the face\u0027 ...",
+                                                                                                                                                                                           "url":  "https://www.haaretz.com/israel-news/2025-10-16/ty-article/.premium/u-k-far-right-agitator-tommy-robinson-visits-israel-despite-outcry-by-british-jews/00000199-eaa0-dde4-a7bd-fafe26250000"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Row breaks out in Israel over Tommy Robinson visit",
+                                                                                                                                                                                           "snippet":  "Opposition politician calls on Chikli to apologise for inviting the far-right activist who has largely been warmly received in Israel.",
+                                                                                                                                                                                           "url":  "https://www.thejc.com/news/israel/row-breaks-out-in-israel-over-tommy-robinson-visit-uuqqvbs2"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "UK anti-Islam activist Tommy Robinson, visiting at Chikli\u0027s invitation ...",
+                                                                                                                                                                                           "snippet":  "The invitation drew condemnation from the most prominent organizations representing British Jewry, who called Robinson a “thug who represents ...",
+                                                                                                                                                                                           "url":  "https://www.timesofisrael.com/liveblog_entry/uk-anti-islam-activist-tommy-robinson-visiting-at-chiklis-invitation-praises-israel-as-island-of-democracy/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tommy Robinson\u0027s Israel Visit Sparks Backlash from British Jewish ...",
+                                                                                                                                                                                           "snippet":  "Invited by Minister Amichai Chikli, controversial UK activist Tommy Robinson\u0027s visit to Israel, billed as a show of solidarity, ...",
+                                                                                                                                                                                           "url":  "https://www.youtube.com/watch?v=yWu9LbvRNYI"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Tommy Robinson\u0027s official invite to Israel delays UK terror verdict",
+                                                                                                                                                                                           "snippet":  "The far-right activist was invited to Israel this month by Israel\u0027s diaspora minister in a move condemned by British PM Starmer.",
+                                                                                                                                                                                           "url":  "https://www.middleeasteye.net/news/israeli-government-invite-delays-tommy-robinsons-terror-verdict"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Israel hosts British anti-Islam activist Tommy Robinson - JNS.org",
+                                                                                                                                                                                           "snippet":  "Nonetheless, the Board of Deputies of British Jews, a centrist umbrella organization, condemned the visit, calling Robinson “a thug” who ...",
+                                                                                                                                                                                           "url":  "https://www.jns.org/israel-hosts-british-anti-islam-activist-tommy-robinson/"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Visiting Israel, British far-right activist Tommy Robinson claimed that ...",
+                                                                                                                                                                                           "snippet":  "Visiting Israel, British far-right activist Tommy Robinson claimed that he had understood the dangers of anti-Jewish hatred. For Europe\u0027s anti- ...",
+                                                                                                                                                                                           "url":  "https://www.facebook.com/jacobinmag/posts/visiting-israel-british-far-right-activist-tommy-robinson-claimed-that-he-had-un/1138803335082682/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Verifying claims",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Search results confirm Tommy Robinson\u0027s October 2025 Israel visit, invited by Diaspora Minister Amichai Chikli, faced widespread condemnation from UK Jewish groups like the Board of Deputies of British Jews, who labeled him a thug, and Israeli opposition figures.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1986822641391403008",
+                                                                              "created_at_ms":  1762530405767,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/harselars/status/1986815180391506093",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

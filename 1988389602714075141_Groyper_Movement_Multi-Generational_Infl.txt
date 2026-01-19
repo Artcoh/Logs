@@ -1,0 +1,207 @@
+﻿# Grok Conversation Export
+# Title: Groyper Movement: Multi-Generational Influence
+# ID: 1988389602714075141
+# Extracted: 2026-01-19 11:40:11
+# URL: https://x.com/i/grok?conversation=1988389602714075141
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuYLc9c1pAAChRBAAABmnVEQUYAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1988389604123119617",
+                                                                              "created_at_ms":  1762903998790,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post by @plassoplo responds to a discussion on young men\u0027s radicalization toward the Groyper movement, noting that Gen X and Millennial supporters exist but remain discreet, functioning as behind-the-scenes enablers rather than vocal participants.\n- Groypers refer to followers of far-right figure Nick Fuentes, a white nationalist group known for disrupting conservative events and promoting antisemitic views, recently gaining attention through Fuentes\u0027 appearance on Tucker Carlson\u0027s podcast in November 2025.\n- This exchange underscores a multi-generational appeal of Groyper ideology, where older adherents provide logistical support amid institutional distrust, potentially amplifying the movement\u0027s influence beyond visible youth activism.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining X post- The provided link points to an X post by @plassoplo with ID 1988389385327571024.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8f0438e9-b271-4c92-bf5c-f63e24fcc969\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988389385327571024}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To analyze this post, fetching its content and context seems like the right move.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8f0438e9-b271-4c92-bf5c-f63e24fcc969\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988389385327571024}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The fetched thread shows the main post is actually by @wokal_distance (ID 1988157091509313884), a detailed explanation of why young men are radicalizing, while despising the Groyper movement but noting its appeal.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e00df76a3-5011-414f-8ffe-d327349c825b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- The target post by @plassoplo replies to another user, stating there are plenty of Gen X and Millennial Groypers who stay silent, acting more like dedicated support personnel.\nGathering Groyper info- Now searching for details on the Groyper movement and its connection to Nick Fuentes to provide better context for the post.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e00df76a3-5011-414f-8ffe-d327349c825b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The Groyper movement consists of far-right followers of Nick Fuentes, known for white nationalist and antisemitic views.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                      "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                      "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Groypers - Wikipedia",
+                                                                                                      "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                      "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                      "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                      "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                      "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "How Nick Fuentes ignited a civil war within the Republican Party",
+                                                                                                      "snippet":  "A bitter split has erupted on the political right after former Fox News host Tucker Carlson hosted Fuentes on his podcast for an overwhelmingly ...",
+                                                                                                      "url":  "https://www.cnn.com/2025/11/06/politics/nick-fuentes-tucker-carlson-heritage-foundation-kevin-roberts"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                      "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                      "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Groypers - Wikipedia",
+                                                                                                      "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                      "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                      "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                      "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                      "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "How Nick Fuentes ignited a civil war within the Republican Party",
+                                                                                                      "snippet":  "A bitter split has erupted on the political right after former Fox News host Tucker Carlson hosted Fuentes on his podcast for an overwhelmingly ...",
+                                                                                                      "url":  "https://www.cnn.com/2025/11/06/politics/nick-fuentes-tucker-carlson-heritage-foundation-kevin-roberts"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8f0438e9-b271-4c92-bf5c-f63e24fcc969\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988389385327571024}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e00df76a3-5011-414f-8ffe-d327349c825b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8f0438e9-b271-4c92-bf5c-f63e24fcc969"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8f0438e9-b271-4c92-bf5c-f63e24fcc969"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "00df76a3-5011-414f-8ffe-d327349c825b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "00df76a3-5011-414f-8ffe-d327349c825b",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                                                                                                           "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                                                                                                           "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Groypers - Wikipedia",
+                                                                                                                                                                                           "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                                                                                                           "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                                                                                                           "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                                                                                                           "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                                                                                                           "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "How Nick Fuentes ignited a civil war within the Republican Party",
+                                                                                                                                                                                           "snippet":  "A bitter split has erupted on the political right after former Fox News host Tucker Carlson hosted Fuentes on his podcast for an overwhelmingly ...",
+                                                                                                                                                                                           "url":  "https://www.cnn.com/2025/11/06/politics/nick-fuentes-tucker-carlson-heritage-foundation-kevin-roberts"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The provided link points to an X post by @plassoplo with ID 1988389385327571024.\n- To analyze this post, fetching its content and context seems like the right move.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8f0438e9-b271-4c92-bf5c-f63e24fcc969\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1988389385327571024}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The fetched thread shows the main post is actually by @wokal_distance (ID 1988157091509313884), a detailed explanation of why young men are radicalizing, while despising the Groyper movement but noting its appeal.\n- The target post by @plassoplo replies to another user, stating there are plenty of Gen X and Millennial Groypers who stay silent, acting more like dedicated support personnel.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8f0438e9-b271-4c92-bf5c-f63e24fcc969"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8f0438e9-b271-4c92-bf5c-f63e24fcc969"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Gathering Groyper info",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Now searching for details on the Groyper movement and its connection to Nick Fuentes to provide better context for the post.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e00df76a3-5011-414f-8ffe-d327349c825b\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Groyper movement Nick Fuentes\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- The Groyper movement consists of far-right followers of Nick Fuentes, known for white nationalist and antisemitic views.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "00df76a3-5011-414f-8ffe-d327349c825b"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "00df76a3-5011-414f-8ffe-d327349c825b",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who Are the \u0027Groypers\u0027? - The New York Times",
+                                                                                                                                                                                           "snippet":  "A word associated with right-wing pundit Nick Fuentes and his followers is suddenly part of the national vocabulary.",
+                                                                                                                                                                                           "url":  "https://www.nytimes.com/article/groyper-nick-fuentes-tucker-carlson.html"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Groypers - Wikipedia",
+                                                                                                                                                                                           "snippet":  "The Groypers, or the Groyper Army, are a far-right group loosely defined as followers, fans, or associates of the American white nationalist political ...",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Groypers"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Nicholas J. Fuentes: Five Things to Know - ADL",
+                                                                                                                                                                                           "snippet":  "Nicholas Fuentes is a white supremacist leader, organizer and podcaster who seeks to forge a white nationalist alternative to the mainstream GOP.",
+                                                                                                                                                                                           "url":  "https://www.adl.org/resources/article/nicholas-j-fuentes-five-things-know"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Who is Nick Fuentes and Why Is His Antisemitism Dangerous for ...",
+                                                                                                                                                                                           "snippet":  "What you need to know about Nicholas “Nick” J. Fuentes, his America First movement, his relationship with Alex Jones, “the Groypers,” Milo ...",
+                                                                                                                                                                                           "url":  "https://www.ajc.org/news/who-is-nick-fuentes-and-why-is-his-antisemitism-dangerous-for-america"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "How Nick Fuentes ignited a civil war within the Republican Party",
+                                                                                                                                                                                           "snippet":  "A bitter split has erupted on the political right after former Fox News host Tucker Carlson hosted Fuentes on his podcast for an overwhelmingly ...",
+                                                                                                                                                                                           "url":  "https://www.cnn.com/2025/11/06/politics/nick-fuentes-tucker-carlson-heritage-foundation-kevin-roberts"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1988389604123119616",
+                                                                              "created_at_ms":  1762903998790,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1988389385327571024",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

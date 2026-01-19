@@ -1,0 +1,197 @@
+﻿# Grok Conversation Export
+# Title: Holocaust Denial: Rhetoric and Rejection
+# ID: 1995392870509924487
+# Extracted: 2026-01-19 11:26:28
+# URL: https://x.com/i/grok?conversation=1995392870509924487
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuxDz7a15AAChRBAAABmtjJ/zwAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1995392872535789569",
+                                                                              "created_at_ms":  1764573708092,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- This reply in a thread on Holocaust revisionism dismisses critics of Germar Rudolf—a convicted German chemist and denier—as uniformly \"retarded,\" likening intellectual flaws to entropy, while alleging a millennia-long Jewish conflict with a redacted group as the true underlying reality.\n- Rudolf\u0027s claims, including private expert agreements on revisionism, stem from his 1993 Rudolf Report questioning Auschwitz gas chambers; it was rejected by the Max Planck Institute for lacking scientific rigor and cited in his 2005 German conviction for Holocaust denial.\n- The post\u0027s phrasing echoes online nationalist rhetoric, blending irony with antisemitic tropes, amid broader debates where peer-reviewed histories, like those from the US Holocaust Memorial Museum, affirm the genocide\u0027s scale using survivor testimonies, Nazi records, and Allied liberations.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestExamining tweet link- Diving into this X post from PlassoPlo to uncover key insights.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ca80ab5-84fc-45b1-ab71-eac21fcdef3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995392825089737157}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Noting the post ID\u0027s sequential nature hints at a recent or upcoming share.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ca80ab5-84fc-45b1-ab71-eac21fcdef3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995392825089737157}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply\u0027s sarcastic tone pushing an antisemitic narrative about Jews at war with a redacted group.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e263c8500-7850-429a-a365-2ea1d44a8570\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Germar Rudolf Holocaust revisionism\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- Confirming Germar Rudolf as a convicted Holocaust denier and chemist.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e263c8500-7850-429a-a365-2ea1d44a8570\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Germar Rudolf Holocaust revisionism\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Highlighting Rudolf\u0027s 1993 Auschwitz report discredited by Max Planck Institute and courts.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "Germar Rudolf / Holocaust denial / History / Auschwitz-Birkenau",
+                                                                                                      "snippet":  "A certified German chemist, Germar Rudolf, holder of a doctorate from the respected Max Planck Institute (which totally disavowed Rudolf\u0027s efforts in the field ...",
+                                                                                                      "url":  "https://www.auschwitz.org/en/history/holocaust-denial/germar-rudolf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Germar Rudolf - Wikipedia",
+                                                                                                      "snippet":  "Germar Rudolf (born 29 October 1964), also known as Germar Scheerer, is a German chemist and a convicted Holocaust denier.",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Germar_Rudolf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Dissecting the Holocaust: The Growing Critique of \"Truth\" and ...",
+                                                                                                      "snippet":  "Dissecting the Holocaust: the Growing Critique of \u0027Truth\u0027 and \u0027Memory\u0027, written by the German chemist Germar Rudolf under the pseudonym of Ernst Gauss.",
+                                                                                                      "url":  "https://www.colorado.edu/innovationsinjewishlifecollections/2017/02/15/dissecting-holocaust-growing-critique-truth-and-memory-edited-ernst-gauss-2000"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Lectures on the Holocaust: Controversial Issues Cross Examined",
+                                                                                                      "snippet":  "In 1992, German scholar Germar Rudolf held several lectures at various academic societies in Germany. His topic was very controversial: the Holocaust in the ...",
+                                                                                                      "url":  "https://books.google.com/books/about/Lectures_on_the_Holocaust.html?id=S0koPQAACAAJ"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Holocaust denial research disclaimed - Nature",
+                                                                                                      "snippet":  "The student, Germar Rudolf, was fired without notice from the Max Planck Insti- tute of Solid State Physics in Stuttgart last. June, after senior staff ...",
+                                                                                                      "url":  "https://www.nature.com/articles/368483a0.pdf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Germar Rudolf / Holocaust denial / History / Auschwitz-Birkenau",
+                                                                                                      "snippet":  "A certified German chemist, Germar Rudolf, holder of a doctorate from the respected Max Planck Institute (which totally disavowed Rudolf\u0027s efforts in the field ...",
+                                                                                                      "url":  "https://www.auschwitz.org/en/history/holocaust-denial/germar-rudolf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Germar Rudolf - Wikipedia",
+                                                                                                      "snippet":  "Germar Rudolf (born 29 October 1964), also known as Germar Scheerer, is a German chemist and a convicted Holocaust denier.",
+                                                                                                      "url":  "https://en.wikipedia.org/wiki/Germar_Rudolf"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Dissecting the Holocaust: The Growing Critique of \"Truth\" and ...",
+                                                                                                      "snippet":  "Dissecting the Holocaust: the Growing Critique of \u0027Truth\u0027 and \u0027Memory\u0027, written by the German chemist Germar Rudolf under the pseudonym of Ernst Gauss.",
+                                                                                                      "url":  "https://www.colorado.edu/innovationsinjewishlifecollections/2017/02/15/dissecting-holocaust-growing-critique-truth-and-memory-edited-ernst-gauss-2000"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Lectures on the Holocaust: Controversial Issues Cross Examined",
+                                                                                                      "snippet":  "In 1992, German scholar Germar Rudolf held several lectures at various academic societies in Germany. His topic was very controversial: the Holocaust in the ...",
+                                                                                                      "url":  "https://books.google.com/books/about/Lectures_on_the_Holocaust.html?id=S0koPQAACAAJ"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "Holocaust denial research disclaimed - Nature",
+                                                                                                      "snippet":  "The student, Germar Rudolf, was fired without notice from the Max Planck Insti- tute of Solid State Physics in Stuttgart last. June, after senior staff ...",
+                                                                                                      "url":  "https://www.nature.com/articles/368483a0.pdf"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ca80ab5-84fc-45b1-ab71-eac21fcdef3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995392825089737157}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e263c8500-7850-429a-a365-2ea1d44a8570\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Germar Rudolf Holocaust revisionism\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ca80ab5-84fc-45b1-ab71-eac21fcdef3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ca80ab5-84fc-45b1-ab71-eac21fcdef3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "263c8500-7850-429a-a365-2ea1d44a8570"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "263c8500-7850-429a-a365-2ea1d44a8570",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Germar Rudolf / Holocaust denial / History / Auschwitz-Birkenau",
+                                                                                                                                                                                           "snippet":  "A certified German chemist, Germar Rudolf, holder of a doctorate from the respected Max Planck Institute (which totally disavowed Rudolf\u0027s efforts in the field ...",
+                                                                                                                                                                                           "url":  "https://www.auschwitz.org/en/history/holocaust-denial/germar-rudolf"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Germar Rudolf - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Germar Rudolf (born 29 October 1964), also known as Germar Scheerer, is a German chemist and a convicted Holocaust denier.",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Germar_Rudolf"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Dissecting the Holocaust: The Growing Critique of \"Truth\" and ...",
+                                                                                                                                                                                           "snippet":  "Dissecting the Holocaust: the Growing Critique of \u0027Truth\u0027 and \u0027Memory\u0027, written by the German chemist Germar Rudolf under the pseudonym of Ernst Gauss.",
+                                                                                                                                                                                           "url":  "https://www.colorado.edu/innovationsinjewishlifecollections/2017/02/15/dissecting-holocaust-growing-critique-truth-and-memory-edited-ernst-gauss-2000"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Lectures on the Holocaust: Controversial Issues Cross Examined",
+                                                                                                                                                                                           "snippet":  "In 1992, German scholar Germar Rudolf held several lectures at various academic societies in Germany. His topic was very controversial: the Holocaust in the ...",
+                                                                                                                                                                                           "url":  "https://books.google.com/books/about/Lectures_on_the_Holocaust.html?id=S0koPQAACAAJ"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Holocaust denial research disclaimed - Nature",
+                                                                                                                                                                                           "snippet":  "The student, Germar Rudolf, was fired without notice from the Max Planck Insti- tute of Solid State Physics in Stuttgart last. June, after senior staff ...",
+                                                                                                                                                                                           "url":  "https://www.nature.com/articles/368483a0.pdf"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Examining tweet link",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Diving into this X post from PlassoPlo to uncover key insights.\n- Noting the post ID\u0027s sequential nature hints at a recent or upcoming share.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8ca80ab5-84fc-45b1-ab71-eac21fcdef3a\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1995392825089737157}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Spotting the reply\u0027s sarcastic tone pushing an antisemitic narrative about Jews at war with a redacted group.\n- Confirming Germar Rudolf as a convicted Holocaust denier and chemist.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e263c8500-7850-429a-a365-2ea1d44a8570\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003eweb_search\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"query\":\"Germar Rudolf Holocaust revisionism\",\"num_results\":5}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Highlighting Rudolf\u0027s 1993 Auschwitz report discredited by Max Planck Institute and courts.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ca80ab5-84fc-45b1-ab71-eac21fcdef3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8ca80ab5-84fc-45b1-ab71-eac21fcdef3a"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "263c8500-7850-429a-a365-2ea1d44a8570"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "263c8500-7850-429a-a365-2ea1d44a8570",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Germar Rudolf / Holocaust denial / History / Auschwitz-Birkenau",
+                                                                                                                                                                                           "snippet":  "A certified German chemist, Germar Rudolf, holder of a doctorate from the respected Max Planck Institute (which totally disavowed Rudolf\u0027s efforts in the field ...",
+                                                                                                                                                                                           "url":  "https://www.auschwitz.org/en/history/holocaust-denial/germar-rudolf"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Germar Rudolf - Wikipedia",
+                                                                                                                                                                                           "snippet":  "Germar Rudolf (born 29 October 1964), also known as Germar Scheerer, is a German chemist and a convicted Holocaust denier.",
+                                                                                                                                                                                           "url":  "https://en.wikipedia.org/wiki/Germar_Rudolf"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Dissecting the Holocaust: The Growing Critique of \"Truth\" and ...",
+                                                                                                                                                                                           "snippet":  "Dissecting the Holocaust: the Growing Critique of \u0027Truth\u0027 and \u0027Memory\u0027, written by the German chemist Germar Rudolf under the pseudonym of Ernst Gauss.",
+                                                                                                                                                                                           "url":  "https://www.colorado.edu/innovationsinjewishlifecollections/2017/02/15/dissecting-holocaust-growing-critique-truth-and-memory-edited-ernst-gauss-2000"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Lectures on the Holocaust: Controversial Issues Cross Examined",
+                                                                                                                                                                                           "snippet":  "In 1992, German scholar Germar Rudolf held several lectures at various academic societies in Germany. His topic was very controversial: the Holocaust in the ...",
+                                                                                                                                                                                           "url":  "https://books.google.com/books/about/Lectures_on_the_Holocaust.html?id=S0koPQAACAAJ"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "Holocaust denial research disclaimed - Nature",
+                                                                                                                                                                                           "snippet":  "The student, Germar Rudolf, was fired without notice from the Max Planck Insti- tute of Solid State Physics in Stuttgart last. June, after senior staff ...",
+                                                                                                                                                                                           "url":  "https://www.nature.com/articles/368483a0.pdf"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1995392872535789568",
+                                                                              "created_at_ms":  1764573708092,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1995392825089737157",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

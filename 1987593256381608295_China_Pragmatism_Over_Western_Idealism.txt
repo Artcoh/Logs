@@ -1,0 +1,76 @@
+﻿# Grok Conversation Export
+# Title: China: Pragmatism Over Western Idealism
+# ID: 1987593256381608295
+# Extracted: 2026-01-19 11:40:17
+# URL: https://x.com/i/grok?conversation=1987593256381608295
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhuVWYltVhAAChRBAAABmmnzKYsAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "1987593257333690369",
+                                                                              "created_at_ms":  1762714134923,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post by @plassoplo responds to a thread critiquing Western naivety toward Chinese ruthlessness, highlighting China\u0027s adaptive \"socialism with Chinese characteristics\" as pragmatic nationalism disguised as communism.\n- It underscores the irony of China adopting Soviet ideology while subverting it into state capitalism, echoing historical tensions like the Sino-Soviet split where Mao rejected Khrushchev\u0027s de-Stalinization.\n- This exchange reflects ongoing online discourse on geopolitical realism, where Balkan and Eastern European users often emphasize cultural pragmatism over Western idealism in analyzing authoritarian strategies.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestAnalyzing X post- The task involves examining the X post at https://x.com/plassoplo/status/1987593244696359116.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8807646a-f0fd-4efd-9ecd-8615497a0af5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987593244696359116}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e- To get the post\u0027s content and context, fetching the thread using the post ID 1987593244696359116 makes sense.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8807646a-f0fd-4efd-9ecd-8615497a0af5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987593244696359116}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Turns out the requested post is a reply in a larger thread, with the main post ID being 1987231041833071040 by @BiankaB12.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8807646a-f0fd-4efd-9ecd-8615497a0af5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987593244696359116}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8807646a-f0fd-4efd-9ecd-8615497a0af5"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8807646a-f0fd-4efd-9ecd-8615497a0af5"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- The task involves examining the X post at https://x.com/plassoplo/status/1987593244696359116.\n- To get the post\u0027s content and context, fetching the thread using the post ID 1987593244696359116 makes sense.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e8807646a-f0fd-4efd-9ecd-8615497a0af5\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":1987593244696359116}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n- Turns out the requested post is a reply in a larger thread, with the main post ID being 1987231041833071040 by @BiankaB12.\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8807646a-f0fd-4efd-9ecd-8615497a0af5"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "8807646a-f0fd-4efd-9ecd-8615497a0af5"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "1987593257333690368",
+                                                                              "created_at_ms":  1762714134923,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/1987593244696359116",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}

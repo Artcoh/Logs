@@ -1,0 +1,159 @@
+﻿# Grok Conversation Export
+# Title: AI Ethics: Responsibility and Misuse Debate
+# ID: 2009793658564821245
+# Extracted: 2026-01-10 16:23:53
+# URL: https://x.com/i/grok?conversation=2009793658564821245
+
+---
+
+# RAW JSON:
+
+{
+    "data":  {
+                 "grok_conversation_by_rest_id":  {
+                                                      "is_pinned":  false
+                                                  },
+                 "grok_conversation_items_by_rest_id":  {
+                                                            "cursor":  "CycRAAAAAAwABAqpBhvkOK+Ml9ACChRBAAABm6VvwgYAAA==",
+                                                            "items":  [
+                                                                          {
+                                                                              "chat_item_id":  "2009793660343275523",
+                                                                              "created_at_ms":  1768007123462,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "- The post defends user responsibility for AI misuse by affirming a critic\u0027s analogy to \"guns don\u0027t kill people,\" amid a thread sparked by a Metro UK article exposing Grok\u0027s role in generating non-consensual deepfake nudes of women, with 98% of deepfakes online being sexual and 99% targeting females.\n- @plassoplo\u0027s reply underscores a core AI ethics debate: tools like Grok enable \"century-spanning ontological simulations\" for some, but immature users exploit it for harm, as evidenced by Ofcom\u0027s 2026 investigation into Grok producing explicit images every minute on X.\n- The thread reflects broader 2026 concerns over regulatory gaps, including rejected UK amendments for 48-hour deepfake takedowns and survivor testimonies of lasting psychological trauma from AI-generated violations.",
+                                                                              "thinking_trace":  "Thinking about the user\u0027s requestReviewing X post- Examining link to X post by @plassoplo for relevant details.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1ef23f97-b074-4f3a-aea2-4e3e848ca549\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2009793579732861192}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003ePlanning analysis- Deciding to fetch the post content and context using a dedicated tool.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1ef23f97-b074-4f3a-aea2-4e3e848ca549\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2009793579732861192}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nFetching thread details- Pulling the full thread, revealing the post as a reply affirming a analogy on AI responsibility.\nAnalyzing AI ethics debate- Defending misuse of AI like Grok as user maturity issue, not the tool.\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed667d542-51cc-40db-88bc-0f271b3661e3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ebrowse_page\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"url\":\"https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/\",\"instructions\":\"Summarize the article in detail, focusing on the deepfake epidemic, the role of AI tools like Grok in creating non-consensual deepfake pornography, the \u0027manosphere\u0027 wizards involved, their methods, and any specific examples or expert opinions mentioned. Include quotes where relevant.\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003eExploring article context- Summarizing deepfake epidemic details, focusing on AI tools and manosphere involvement.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed667d542-51cc-40db-88bc-0f271b3661e3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ebrowse_page\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"url\":\"https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/\",\"instructions\":\"Summarize the article in detail, focusing on the deepfake epidemic, the role of AI tools like Grok in creating non-consensual deepfake pornography, the \u0027manosphere\u0027 wizards involved, their methods, and any specific examples or expert opinions mentioned. Include quotes where relevant.\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\nIntegrating article insights- Highlighting Grok\u0027s role in non-consensual deepfake porn amid manosphere tactics.\n",
+                                                                              "is_partial":  false,
+                                                                              "sender_type":  "Agent",
+                                                                              "web_results":  [
+                                                                                                  {
+                                                                                                      "title":  "The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media",
+                                                                                                      "snippet":  "# The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media | Metro News\n\nSearch Metro Search Metro Close Search Close Search\n\n[My Account My Account](https://members.metro.co.uk)\n\nOpen Site Menu Open Site Menu Close Site Menu Close Site Menu\n\n# The manosphere ‘wizards’ behind the  deepfake epidemic sweeping social media\n\n**Jess Davies**\n\n**Published** January 9, 2026 7:00am\n\n*Manosphere forums are full of pictures of naked women uploaded by men, without their consent, often disturbingly edited (Picture: Getty Images/Westend61)*\n\nIt’s a weekday night and I’m deep in the [manosphere](https://metro.co.uk/2025/03/25/harmful-blackpill-philosophy-netflixs-adolescence-didnt-tell-22779178/) forums again, clicking through [pictures of naked women](https://metro.co.uk/2026/01/07/see-through-bikini-loophole-meant-grok-ai-generated-images-genitalia-26109617/) uploaded without consent by the thousands of men who habitually visit these disturbing message boards.\n\nI scroll with a grimace, my face scrunchi",
+                                                                                                      "url":  "https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "title":  "The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media",
+                                                                                                      "snippet":  "# The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media | Metro News\n\nSearch Metro Search Metro Close Search Close Search\n\n[My Account My Account](https://members.metro.co.uk)\n\nOpen Site Menu Open Site Menu Close Site Menu Close Site Menu\n\n# The manosphere ‘wizards’ behind the  deepfake epidemic sweeping social media\n\n**Jess Davies**\n\n**Published** January 9, 2026 7:00am\n\n*Manosphere forums are full of pictures of naked women uploaded by men, without their consent, often disturbingly edited (Picture: Getty Images/Westend61)*\n\nIt’s a weekday night and I’m deep in the [manosphere](https://metro.co.uk/2025/03/25/harmful-blackpill-philosophy-netflixs-adolescence-didnt-tell-22779178/) forums again, clicking through [pictures of naked women](https://metro.co.uk/2026/01/07/see-through-bikini-loophole-meant-grok-ai-generated-images-genitalia-26109617/) uploaded without consent by the thousands of men who habitually visit these disturbing message boards.\n\nI scroll with a grimace, my face scrunchi",
+                                                                                                      "url":  "https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/"
+                                                                                                  }
+                                                                                              ],
+                                                                              "cited_web_results":  [
+
+                                                                                                    ],
+                                                                              "deepsearch_headers":  [
+                                                                                                         {
+                                                                                                             "header":  "Thinking about the user\u0027s request",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "final_message":  "-",
+                                                                                                                               "tool_usage_card":  "\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1ef23f97-b074-4f3a-aea2-4e3e848ca549\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2009793579732861192}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed667d542-51cc-40db-88bc-0f271b3661e3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ebrowse_page\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"url\":\"https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/\",\"instructions\":\"Summarize the article in detail, focusing on the deepfake epidemic, the role of AI tools like Grok in creating non-consensual deepfake pornography, the \u0027manosphere\u0027 wizards involved, their methods, and any specific examples or expert opinions mentioned. Include quotes where relevant.\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1ef23f97-b074-4f3a-aea2-4e3e848ca549"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1ef23f97-b074-4f3a-aea2-4e3e848ca549"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d667d542-51cc-40db-88bc-0f271b3661e3"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d667d542-51cc-40db-88bc-0f271b3661e3",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media",
+                                                                                                                                                                                           "snippet":  "# The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media | Metro News\n\nSearch Metro Search Metro Close Search Close Search\n\n[My Account My Account](https://members.metro.co.uk)\n\nOpen Site Menu Open Site Menu Close Site Menu Close Site Menu\n\n# The manosphere ‘wizards’ behind the  deepfake epidemic sweeping social media\n\n**Jess Davies**\n\n**Published** January 9, 2026 7:00am\n\n*Manosphere forums are full of pictures of naked women uploaded by men, without their consent, often disturbingly edited (Picture: Getty Images/Westend61)*\n\nIt’s a weekday night and I’m deep in the [manosphere](https://metro.co.uk/2025/03/25/harmful-blackpill-philosophy-netflixs-adolescence-didnt-tell-22779178/) forums again, clicking through [pictures of naked women](https://metro.co.uk/2026/01/07/see-through-bikini-loophole-meant-grok-ai-generated-images-genitalia-26109617/) uploaded without consent by the thousands of men who habitually visit these disturbing message boards.\n\nI scroll with a grimace, my face scrunchi",
+                                                                                                                                                                                           "url":  "https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Reviewing X post",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Examining link to X post by @plassoplo for relevant details.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Planning analysis",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Deciding to fetch the post content and context using a dedicated tool.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003e1ef23f97-b074-4f3a-aea2-4e3e848ca549\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ex_thread_fetch\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"post_id\":2009793579732861192}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1ef23f97-b074-4f3a-aea2-4e3e848ca549"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "1ef23f97-b074-4f3a-aea2-4e3e848ca549"
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Fetching thread details",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Pulling the full thread, revealing the post as a reply affirming a analogy on AI responsibility.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Analyzing AI ethics debate",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Defending misuse of AI like Grok as user maturity issue, not the tool.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Exploring article context",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Summarizing deepfake epidemic details, focusing on AI tools and manosphere involvement.\n\n\u003cxai:tool_usage_card\u003e\n  \u003cxai:tool_usage_card_id\u003ed667d542-51cc-40db-88bc-0f271b3661e3\u003c/xai:tool_usage_card_id\u003e\n  \u003cxai:tool_name\u003ebrowse_page\u003c/xai:tool_name\u003e\n  \u003cxai:tool_args\u003e\u003c![CDATA[{\"url\":\"https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/\",\"instructions\":\"Summarize the article in detail, focusing on the deepfake epidemic, the role of AI tools like Grok in creating non-consensual deepfake pornography, the \u0027manosphere\u0027 wizards involved, their methods, and any specific examples or expert opinions mentioned. Include quotes where relevant.\"}]]\u003e\u003c/xai:tool_args\u003e\n\u003c/xai:tool_usage_card\u003e\n",
+                                                                                                                               "tool_usage_card_results":  [
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d667d542-51cc-40db-88bc-0f271b3661e3"
+                                                                                                                                                               },
+                                                                                                                                                               {
+                                                                                                                                                                   "tool_usage_card_id":  "d667d542-51cc-40db-88bc-0f271b3661e3",
+                                                                                                                                                                   "web_results":  [
+                                                                                                                                                                                       {
+                                                                                                                                                                                           "title":  "The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media",
+                                                                                                                                                                                           "snippet":  "# The manosphere \u0027wizards\u0027 behind the deepfake epidemic sweeping social media | Metro News\n\nSearch Metro Search Metro Close Search Close Search\n\n[My Account My Account](https://members.metro.co.uk)\n\nOpen Site Menu Open Site Menu Close Site Menu Close Site Menu\n\n# The manosphere ‘wizards’ behind the  deepfake epidemic sweeping social media\n\n**Jess Davies**\n\n**Published** January 9, 2026 7:00am\n\n*Manosphere forums are full of pictures of naked women uploaded by men, without their consent, often disturbingly edited (Picture: Getty Images/Westend61)*\n\nIt’s a weekday night and I’m deep in the [manosphere](https://metro.co.uk/2025/03/25/harmful-blackpill-philosophy-netflixs-adolescence-didnt-tell-22779178/) forums again, clicking through [pictures of naked women](https://metro.co.uk/2026/01/07/see-through-bikini-loophole-meant-grok-ai-generated-images-genitalia-26109617/) uploaded without consent by the thousands of men who habitually visit these disturbing message boards.\n\nI scroll with a grimace, my face scrunchi",
+                                                                                                                                                                                           "url":  "https://metro.co.uk/2026/01/09/manosphere-wizards-behind-deepfake-epidemic-sweeping-social-media-25957025/"
+                                                                                                                                                                                       }
+                                                                                                                                                                                   ]
+                                                                                                                                                               }
+                                                                                                                                                           ]
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         },
+                                                                                                         {
+                                                                                                             "header":  "Integrating article insights",
+                                                                                                             "steps":  [
+                                                                                                                           {
+                                                                                                                               "summary":  "- Highlighting Grok\u0027s role in non-consensual deepfake porn amid manosphere tactics.\n"
+                                                                                                                           }
+                                                                                                                       ]
+                                                                                                         }
+                                                                                                     ],
+                                                                              "ui_layout":  {
+                                                                                                "reasoning_ui_layout":  "Unified"
+                                                                                            }
+                                                                          },
+                                                                          {
+                                                                              "chat_item_id":  "2009793660343275522",
+                                                                              "created_at_ms":  1768007123462,
+                                                                              "grok_mode":  "Normal",
+                                                                              "message":  "https://x.com/plassoplo/status/2009793579732861192",
+                                                                              "sender_type":  "User"
+                                                                          }
+                                                                      ]
+                                                        }
+             }
+}
